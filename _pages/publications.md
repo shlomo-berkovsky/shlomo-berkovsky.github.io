@@ -46,7 +46,7 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   </ul>
   <h5>Books/Edited</h5>
   <ul>
-   <li> S. Berkovsky, I. Cantador, D. Tikk, "Collaborative Recommendations: Algorithms, Practical Challenges, and Applications", World Scientific, ISBN 978-9-8132-7534-8, 2019      <a href="https://shlomo-berkovsky.github.io/files/pdf/CF19.pdf">[PDF]</a> </li>
+   <li> S. Berkovsky, I. Cantador, D. Tikk, "Collaborative Recommendations: Algorithms, Practical Challenges, and Applications", World Scientific, ISBN 978-9-8132-7534-8, 2019      <a href="https://shlomo-berkovsky.github.io/files/pdf/CFBook19.pdf">[PDF]</a></li>
   </ul>
   
   <h5>Chapters</h5>
@@ -55,7 +55,11 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   </ul>
   
   <h5>Conferences</h5>
-  <h5>Workshops</h5>
+  <ul>
+  <li> R. Taib, K. Yu, S. Berkovsky, M. Wiggins, P. Bayl-Smith, "Social Engineering and Organisational Dependencies in Phishing Attacks", Int. Conf. on Human-Computer Interaction (INTERACT), pp. 564-584, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/INTERACT19.pdf"></li>
+  <li>	S. Berkovsky, R. Taib, I. Koprinska, E. Wang, Y. Zeng, J. Li, S. Kleitman, "Detecting Personality Traits Using Eye-Tracking Data", Int. Conf. on Human Factors in Computing Systems (CHI), e. 221, 2019 [Best Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI19.pdf"></li>
+  <li>	K. Yu, S. Berkovsky, R. Taib, J. Zhou, F. Chen, "Do I Trust My Machine Teammate? An Investigation from Perception to Decision", Int. Conf. on Intelligent User Interfaces (IUI), pp. 460-468, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI19.pdf"></li>
+  </ul>
 </details>
 
 <details>
