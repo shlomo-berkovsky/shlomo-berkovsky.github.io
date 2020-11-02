@@ -55,7 +55,8 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   </ul>
   
   <h5>Conferences</h5>
-  <h5>Workshops</h5>
+  <ul>
+  </ul>
 </details>
 
 <details>
