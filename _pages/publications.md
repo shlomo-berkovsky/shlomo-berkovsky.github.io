@@ -14,7 +14,7 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals:</h5>
      <ul>
-    <li>	R. Taib, S. Berkovsky, I. Koprinska, E. Wang, Y. Zeng, J. Li, "Personality Sensing: Detection of Personality Traits Using Physiological Responses to Image and Video Stimuli", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 10(3), e. 18, 2020.</li>
+    <li>	R. Taib, S. Berkovsky, I. Koprinska, E. Wang, Y. Zeng, J. Li, "Personality Sensing: Detection of Personality Traits Using Physiological Responses to Image and Video Stimuli", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 10(3), e. 18, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS20.pdf">[PDF]</a></li>
     <li>	D. Jannach, B. Mobasher, S. Berkovsky "Research Directions in Session-Based and Sequential Recommendation", User Modeling and User-Adapted Interaction (UMUAI), vol. 30(4), pp. 609-616, 2020.</li>
     <li>	S. Liu, Z. Shah, A. Sav, C. Russo, S. Berkovsky, Y. Qian, E. Coiera, A. Di Ieva, "Isocitrate Dehydrogenase (IDH) Status Prediction in Histopathology Images of Gliomas using Deep Learning", Nature Scientific Reports, vol. 10, e. 7733, 2020.</li>
     <li>	R. Taib, S. Berkovsky, "Modeling Humans via Physiological and Behavioral Signals", ACM Interactions, vol. 27(3), pp. 30-34, 2020.</li>
