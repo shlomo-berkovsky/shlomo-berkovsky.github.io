@@ -12,3 +12,10 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   {% include archive-single.html %}
 {% endfor %}
 --->
+
+<details>
+  <summary>2020</summary>
+  ###### Journals
+  * Item 1
+  * Item 2
+</details>
