@@ -16,6 +16,8 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 <details>
   <summary>2020</summary>
   
+  
   * [Item 1](https://github.com/shlomo-berkovsky/shlomo-berkovsky.github.io/files/pdf/test.pdf)
   * [Item 2](https://github.com/shlomo-berkovsky/shlomo-berkovsky.github.io/blob/master/files/pdf/test.pdf)
 </details>
+
