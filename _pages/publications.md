@@ -10,10 +10,24 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 
 <details>
 <summary>
-<i>Like this? </i>
-<a href="http://www.ironspider.ca/format_text/fontstyles.htm">Useful Source</a>
+2020
 </summary>
-<p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
+  <h5>Journals:</h5>
+  <h5>Books/Edited:</h5>
+  <h5>Chapters:</h5>
+  <h5>Conferences:</h5>
+  <h5>Workshops</h5>
+</details>
+
+<details>
+<summary>
+2019
+</summary>
+  <h5>Journals:</h5>
+  <h5>Books/Edited:</h5>
+  <h5>Chapters:</h5>
+  <h5>Conferences:</h5>
+  <h5>Workshops</h5>
 </details>
 
 
