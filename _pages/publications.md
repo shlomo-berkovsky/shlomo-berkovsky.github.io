@@ -39,6 +39,11 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 2019
 </summary>
   <h5>Journals</h5>
+  <ul>
+  <li>	J.C. Quiroz, L. Laranjo, A.B. Kocaballi, S. Berkovsky, D. Rezazadegan, E. Coiera, "Challenges of Developing a Digital Scribe to Reduce Clinical Documentation Burden", NPJ Digital Medicine, vol. 2, e. 114, 2019
+  <li> A.B. Kocaballi, S. Berkovsky, J.C. Quiroz, L. Laranjo, H.L. Tong, D. Rezazadegan, A. Briatore, E. Coiera, "The Personalization of Conversational Agents in Healthcare: Systematic Review", Journal of Medical Internet Research (JMIR), vol. 21(11), e. 15360, 2019
+
+  </ul>
   <h5>Books/Edited</h5>
   <h5>Chapters</h5>
   <h5>Conferences</h5>
