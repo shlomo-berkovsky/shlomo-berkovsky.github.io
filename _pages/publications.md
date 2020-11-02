@@ -56,6 +56,9 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   
   <h5>Conferences</h5>
   <ul>
+  <li> R. Taib, K. Yu, S. Berkovsky, M. Wiggins, P. Bayl-Smith, "Social Engineering and Organisational Dependencies in Phishing Attacks", Int. Conf. on Human-Computer Interaction (INTERACT), pp. 564-584, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/INTERACT19.pdf"></li>
+  <li>	S. Berkovsky, R. Taib, I. Koprinska, E. Wang, Y. Zeng, J. Li, S. Kleitman, "Detecting Personality Traits Using Eye-Tracking Data", Int. Conf. on Human Factors in Computing Systems (CHI), e. 221, 2019 [Best Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI19.pdf"></li>
+  <li>	K. Yu, S. Berkovsky, R. Taib, J. Zhou, F. Chen, "Do I Trust My Machine Teammate? An Investigation from Perception to Decision", Int. Conf. on Intelligent User Interfaces (IUI), pp. 460-468, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI19.pdf"></li>
   </ul>
 </details>
 
