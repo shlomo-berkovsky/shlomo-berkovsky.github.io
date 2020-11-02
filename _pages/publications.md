@@ -11,7 +11,7 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+--->
 
   
  * [Item 1](https://shlomo-berkovsky.github.io/files/pdf/test.pdf)
