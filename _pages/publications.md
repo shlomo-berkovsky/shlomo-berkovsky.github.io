@@ -15,6 +15,7 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 
 <details>
   <summary>2020</summary>
+  
   ###### Journals
   * Item 1
   * Item 2
