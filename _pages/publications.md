@@ -45,7 +45,15 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 
   </ul>
   <h5>Books/Edited</h5>
+  <ul>
+   <li> S. Berkovsky, I. Cantador, D. Tikk, "Collaborative Recommendations: Algorithms, Practical Challenges, and Applications", World Scientific, ISBN 978-9-8132-7534-8, 2019      <a href="https://shlomo-berkovsky.github.io/files/pdf/CF19.pdf">[PDF]</a> </li>
+  </ul>
+  
   <h5>Chapters</h5>
+  <ul>
+  <li> A. Tiroshi, T. Kuflik, S. Berkovsky, M.A. Kaafar, "Graph Based Recommendations: From Data Representation to Feature Extraction and Application", in O. Khalid, S.U. Khan, A.Y. Zomaya: Big Data Recommender Systems: Recent Trends and Advances, pp.407-454, Institution of Engineering and Technology, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IET2019.pdf">[PDF]</a></li>
+  </ul>
+  
   <h5>Conferences</h5>
   <h5>Workshops</h5>
 </details>
