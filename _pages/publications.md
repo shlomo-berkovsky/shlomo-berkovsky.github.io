@@ -40,25 +40,25 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-  <li>	J.C. Quiroz, L. Laranjo, A.B. Kocaballi, S. Berkovsky, D. Rezazadegan, E. Coiera, "Challenges of Developing a Digital Scribe to Reduce Clinical Documentation Burden", NPJ Digital Medicine, vol. 2, e. 114, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/DigitalMed19.pdf">[PDF]</a></li>
-  <li> A.B. Kocaballi, S. Berkovsky, J.C. Quiroz, L. Laranjo, H.L. Tong, D. Rezazadegan, A. Briatore, E. Coiera, "The Personalization of Conversational Agents in Healthcare: Systematic Review", Journal of Medical Internet Research (JMIR), vol. 21(11), e. 15360, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIR19.pdf">[PDF]</a></li>
+  <li>	J.C. Quiroz, L. Laranjo, A.B. Kocaballi, S. Berkovsky, D. Rezazadegan, E. Coiera, "Challenges of Developing a Digital Scribe to Reduce Clinical Documentation Burden", NPJ Digital Medicine, vol. 2, e. 114, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/DigitalMed19.pdf" target="_blank">[PDF]</a></li>
+  <li> A.B. Kocaballi, S. Berkovsky, J.C. Quiroz, L. Laranjo, H.L. Tong, D. Rezazadegan, A. Briatore, E. Coiera, "The Personalization of Conversational Agents in Healthcare: Systematic Review", Journal of Medical Internet Research (JMIR), vol. 21(11), e. 15360, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIR19.pdf" target="_blank">[PDF]</a></li>
 
   </ul>
   <h5>Books/Edited</h5>
   <ul>
-   <li> S. Berkovsky, I. Cantador, D. Tikk, "Collaborative Recommendations: Algorithms, Practical Challenges, and Applications", World Scientific, ISBN 978-9-8132-7534-8, 2019      <a href="https://shlomo-berkovsky.github.io/files/pdf/CFBook19.pdf">[PDF]</a></li>
+   <li> S. Berkovsky, I. Cantador, D. Tikk, "Collaborative Recommendations: Algorithms, Practical Challenges, and Applications", World Scientific, ISBN 978-9-8132-7534-8, 2019      <a href="https://shlomo-berkovsky.github.io/files/pdf/CFBook19.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
   <h5>Chapters</h5>
   <ul>
-  <li> A. Tiroshi, T. Kuflik, S. Berkovsky, M.A. Kaafar, "Graph Based Recommendations: From Data Representation to Feature Extraction and Application", in O. Khalid, S.U. Khan, A.Y. Zomaya: Big Data Recommender Systems: Recent Trends and Advances, pp.407-454, Institution of Engineering and Technology, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IET2019.pdf">[PDF]</a></li>
+  <li> A. Tiroshi, T. Kuflik, S. Berkovsky, M.A. Kaafar, "Graph Based Recommendations: From Data Representation to Feature Extraction and Application", in O. Khalid, S.U. Khan, A.Y. Zomaya: Big Data Recommender Systems: Recent Trends and Advances, pp.407-454, Institution of Engineering and Technology, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IET2019.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
   <h5>Conferences</h5>
   <ul>
-  <li> R. Taib, K. Yu, S. Berkovsky, M. Wiggins, P. Bayl-Smith, "Social Engineering and Organisational Dependencies in Phishing Attacks", Int. Conf. on Human-Computer Interaction (INTERACT), pp. 564-584, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/INTERACT19.pdf">[PDF]</a></li>
-  <li>	S. Berkovsky, R. Taib, I. Koprinska, E. Wang, Y. Zeng, J. Li, S. Kleitman, "Detecting Personality Traits Using Eye-Tracking Data", Int. Conf. on Human Factors in Computing Systems (CHI), e. 221, 2019 [Best Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI19.pdf">[PDF]</a></li>
-  <li>	K. Yu, S. Berkovsky, R. Taib, J. Zhou, F. Chen, "Do I Trust My Machine Teammate? An Investigation from Perception to Decision", Int. Conf. on Intelligent User Interfaces (IUI), pp. 460-468, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI19.pdf">[PDF]</a></li>
+  <li> R. Taib, K. Yu, S. Berkovsky, M. Wiggins, P. Bayl-Smith, "Social Engineering and Organisational Dependencies in Phishing Attacks", Int. Conf. on Human-Computer Interaction (INTERACT), pp. 564-584, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/INTERACT19.pdf" target="_blank">[PDF]</a></li>
+  <li>	S. Berkovsky, R. Taib, I. Koprinska, E. Wang, Y. Zeng, J. Li, S. Kleitman, "Detecting Personality Traits Using Eye-Tracking Data", Int. Conf. on Human Factors in Computing Systems (CHI), e. 221, 2019 [Best Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI19.pdf target="_blank"">[PDF]</a></li>
+  <li>	K. Yu, S. Berkovsky, R. Taib, J. Zhou, F. Chen, "Do I Trust My Machine Teammate? An Investigation from Perception to Decision", Int. Conf. on Intelligent User Interfaces (IUI), pp. 460-468, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI19.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
@@ -69,18 +69,18 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   
   <h5>Books/Edited</h5>
 <ul>
-  <li>S. Berkovsky, Y. Hijikata, J. Rekinoto, M. Burnett, M. Billinghurst, A. Quigley, "Proceedings of the 23rd International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 978-1-4503-4945-1, 2018 <a href="https://dl.acm.org/doi/proceedings/10.1145/3172944">[link]</a></li>
-  <li>	S. Berkovsky, Y. Hijikata, J. Rekinoto, "Companion Proceedings of the 23rd International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 978-1-4503-5571-1, 2018 <a href="https://dl.acm.org/doi/proceedings/10.1145/3180308">[link]</a></li>
+  <li>S. Berkovsky, Y. Hijikata, J. Rekinoto, M. Burnett, M. Billinghurst, A. Quigley, "Proceedings of the 23rd International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 978-1-4503-4945-1, 2018 <a href="https://dl.acm.org/doi/proceedings/10.1145/3172944" target="_blank">[link]</a></li>
+  <li>	S. Berkovsky, Y. Hijikata, J. Rekinoto, "Companion Proceedings of the 23rd International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 978-1-4503-5571-1, 2018 <a href="https://dl.acm.org/doi/proceedings/10.1145/3180308" target="_blank">[link]</a></li>
  </ul>
    
   <h5>Chapters</h5>
   <ul>
-  <li>	K. Yu, S. Berkovsky, D. Conway, R. Taib, J. Zhou, F. Chen, "Do I Trust a Machine? Differences in User Trust Based on System Performance", in J. Zhou, F. Chen: Human and Machine Learning: Visible, Explainable, Trustworthy and Transparent, pp. 245-264, Springer, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer18.pdf">[PDF]</a></li>
+  <li>	K. Yu, S. Berkovsky, D. Conway, R. Taib, J. Zhou, F. Chen, "Do I Trust a Machine? Differences in User Trust Based on System Performance", in J. Zhou, F. Chen: Human and Machine Learning: Visible, Explainable, Trustworthy and Transparent, pp. 245-264, Springer, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer18.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-  <li>	A. Devaraju, S. Berkovsky, "A Hybrid Recommendation Approach for Open Research Datasets", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 207-211, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP18b.pdf">[PDF]</a></li>
-  <li> S. Berkovsky, R. Taib, Y. Hijikata, P. Braslavski, B. Knijnenburg, "A Cross-Cultural Analysis of Trust in Recommender Systems", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 285-289, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP18a.pdf">[PDF]</a></li>
+  <li>	A. Devaraju, S. Berkovsky, "A Hybrid Recommendation Approach for Open Research Datasets", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 207-211, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP18b.pdf" target="_blank">[PDF]</a></li>
+  <li> S. Berkovsky, R. Taib, Y. Hijikata, P. Braslavski, B. Knijnenburg, "A Cross-Cultural Analysis of Trust in Recommender Systems", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 285-289, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP18a.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
