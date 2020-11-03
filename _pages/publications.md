@@ -90,8 +90,8 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-  <li>	J. Freyne, J. Yin, E. Brindal, G. Hendrie, S. Berkovsky, M. Noakes, "Push Notifications in Diet Apps: Influencing Engagement Times and Tasks", Int. Journal of Human-Computer Interaction (IJHCI), vol. 33(10), pp. 833-845, 2017  <a href="https://shlomo-berkovsky.github.io/files/pdf/IJHCI.pdf" target="_blank">[PDF]</a></li>
-  <li>	M.S. Hussain, J. Li, E. Brindal, Y. Van Kasteren, M. Varnfield, A. Reeson, S. Berkovsky, J. Freyne, "Supporting the Delivery of Total Knee Replacements Care for Patients and their Clinicians with a Mobile App and Online Tool", Journal of Medical Internet Research Protocols (JMIR Protocols), vol. 6(3), e. 32, 2017  <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIR.pdf" target="_blank">[PDF]</a></li>
+  <li>	J. Freyne, J. Yin, E. Brindal, G. Hendrie, S. Berkovsky, M. Noakes, "Push Notifications in Diet Apps: Influencing Engagement Times and Tasks", Int. Journal of Human-Computer Interaction (IJHCI), vol. 33(10), pp. 833-845, 2017  <a href="https://shlomo-berkovsky.github.io/files/pdf/IJHCI17.pdf" target="_blank">[PDF]</a></li>
+  <li>	M.S. Hussain, J. Li, E. Brindal, Y. Van Kasteren, M. Varnfield, A. Reeson, S. Berkovsky, J. Freyne, "Supporting the Delivery of Total Knee Replacements Care for Patients and their Clinicians with a Mobile App and Online Tool", Journal of Medical Internet Research Protocols (JMIR Protocols), vol. 6(3), e. 32, 2017  <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIR17.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
   <h5>Books/Edited</h5>
@@ -103,11 +103,11 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   <ul>
    <li>	G. Misra, N.A.G. Arachchilage, S. Berkovsky, "Phish Phinder: A Game Design Approach to Enhance User Confidence in Mitigating Phishing Attacks", Int. Symposium on Human Aspects of Information Security and Assurance (HAISA), pp. 41-51, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/HAISA17.pdf" target="_blank">[PDF]</a></li>
   <li>	A. Devaraju, S. Berkovsky, "Do Users Matter? The Contribution of User-Driven Feature Weights to Open Dataset Recommendations", Recommender Systems Conf. Posters (RecSys), e. 16, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys17.pdf" target="_blank">[PDF]</a></li>
-  <li> L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Tracking the Evolution of Customer Purchase Behavior Segmentation via a Fragmentation-Coagulation Process", Int. Joint Conf. on Artificial Intelligence (IJCAI), pp. 2414-2420, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJCAI.pdf" target="_blank">[PDF]</a></li>
-  <li> D. Bradford, S. Berkovsky, M. Martyn, T. Bakkar, M. Krahnert, M. Rodriguez, D. Bauer, D. Ireland, C. Gaff, "Interacting with Genomic Data: Clinician Requirements and Prototype Structure", Australian National Health Informatics Conf. (HIC), pp. 1-7, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/HIC.pdf" target="_blank">[PDF]</a></li>
+  <li> L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Tracking the Evolution of Customer Purchase Behavior Segmentation via a Fragmentation-Coagulation Process", Int. Joint Conf. on Artificial Intelligence (IJCAI), pp. 2414-2420, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJCAI17.pdf" target="_blank">[PDF]</a></li>
+  <li> D. Bradford, S. Berkovsky, M. Martyn, T. Bakkar, M. Krahnert, M. Rodriguez, D. Bauer, D. Ireland, C. Gaff, "Interacting with Genomic Data: Clinician Requirements and Prototype Structure", Australian National Health Informatics Conf. (HIC), pp. 1-7, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/HIC17.pdf" target="_blank">[PDF]</a></li>
   <li> D. Conway, R. Taib, M. Harris, K. Yu, S. Berkovsky, F. Chen, "A Qualitative Investigation of Bank Employee Experiences of Information Security and Phishing", Symposium on Usable Privacy and Security (SOUPS), pp. 115-129, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/SOUPS17.pdf" target="_blank">[PDF]</a></li>
   <li> S. Zong, B. Kveton, S. Berkovsky, A. Ashkan, Z. Wen, "Get to the Bottom: Causal Analysis for User Modeling", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 256-264, 2017 [Best Paper Award Nomination] <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP17.pdf" target="_blank">[PDF]</a></li>
-  <li> J. Zhou, S.Z. Arshad, S. Luo, K. Yu, S. Berkovsky, F. Chen, "Indexing Cognitive Load using Blood Volume Pulse Features", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2269-2275, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI.pdf" target="_blank">[PDF]</a></li>
+  <li> J. Zhou, S.Z. Arshad, S. Luo, K. Yu, S. Berkovsky, F. Chen, "Indexing Cognitive Load using Blood Volume Pulse Features", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2269-2275, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI17.pdf" target="_blank">[PDF]</a></li>
   <li> S. Zong, B. Kveton, S. Berkovsky, A. Ashkan, N. Vlassis, Z. Wen, "Does Weather Matter? Causal Analysis of TV Logs", Int. World Wide Web Conf. (WWW), Companion Volume, pp. 883-884, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/WWW17a.pdf" target="_blank">[PDF]</a></li>
   <li> L. Luo, B. Li, S. Berkovsky, I. Koprinska, F. Chen, "Online Engagement for a Healthier You: A Case Study of Web-based Supermarket Health Program", Int. World Wide Web Conf. (WWW), pp. 1053-1062, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/WWW17b.pdf" target="_blank">[PDF]</a></li>
   <li> S. Berkovsky, R. Taib, D. Conway, "How to Recommend? User Trust Factors in Movie Recommender Systems", Int. Conf. on Intelligent User Interfaces (IUI), pp. 287-300, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI17a.pdf" target="_blank">[PDF]</a></li>
@@ -126,19 +126,19 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>A. Friedman, S. Berkovsky, M.A. Kaafar, "A Differential Privacy Framework for Matrix Factorization Recommender Systems", User Modeling and User-Adapted Interaction (UMUAI), vol. 26(5), pp. 425-468, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Content Discovery in Recommender Systems", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 6(2), e. 15, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Friedman, S. Berkovsky, M.A. Kaafar, "A Differential Privacy Framework for Matrix Factorization Recommender Systems", User Modeling and User-Adapted Interaction (UMUAI), vol. 26(5), pp. 425-468, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMUAI16.pdf" target="_blank">[PDF]</a></li>
+    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Content Discovery in Recommender Systems", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 6(2), e. 15, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS16.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Discovering Temporal Purchase Patterns with Different Responses to Promotions", Int. Conf. on Information and Knowledge Management (CIKM), pp. 2197-2202, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>M.S. Hussain, L. Cripwell, S. Berkovsky, J. Freyne, "Promoting UV Exposure Awareness with Persuasive Wearable Technologies", Australian National Health Informatics Conf. (HIC), pp. 48-54, 2016 [Best Academic Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>K. Yu, S. Berkovsky, D. Conway, R. Taib, J. Zhou, F. Chen, "Trust and Reliance Based on System Accuracy", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 223-227, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Who will be Affected by Supermarket Health Programs? Tracking Customer Behavior Changes via Preference Modeling", Pacific-Asia Conf. on Knowledge Discovery and Data Mining (PAKDD), pp. 527-539, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Discovering Temporal Purchase Patterns with Different Responses to Promotions", Int. Conf. on Information and Knowledge Management (CIKM), pp. 2197-2202, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/CIKM16.pdf" target="_blank">[PDF]</a></li>
+    <li>M.S. Hussain, L. Cripwell, S. Berkovsky, J. Freyne, "Promoting UV Exposure Awareness with Persuasive Wearable Technologies", Australian National Health Informatics Conf. (HIC), pp. 48-54, 2016 [Best Academic Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/HIC16.pdf" target="_blank">[PDF]</a></li>
+    <li>K. Yu, S. Berkovsky, D. Conway, R. Taib, J. Zhou, F. Chen, "Trust and Reliance Based on System Accuracy", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 223-227, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP16.pdf" target="_blank">[PDF]</a></li>
+    <li>L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Who will be Affected by Supermarket Health Programs? Tracking Customer Behavior Changes via Preference Modeling", Pacific-Asia Conf. on Knowledge Discovery and Data Mining (PAKDD), pp. 527-539, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PAKDD16.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>S. Berkovsky, M. Kaptein, M. Zancanaro, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, M. Kaptein, M. Zancanaro, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PnP16.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
