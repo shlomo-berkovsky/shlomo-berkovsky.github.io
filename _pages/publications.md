@@ -158,13 +158,13 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>K. Medvediev, G. Xu, S. Berkovsky, Y. Onikienko, "An Analysis of New Visitors' Website Behaviour before and after TV Advertising", Int. Conf. on Behavioral, Economic, and Socio-Cultural Computing (BESC), pp. 109-115, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/BESC.pdf" target="_blank">[PDF]</a></li>
+    <li>K. Medvediev, G. Xu, S. Berkovsky, Y. Onikienko, "An Analysis of New Visitors' Website Behaviour before and after TV Advertising", Int. Conf. on Behavioral, Economic, and Socio-Cultural Computing (BESC), pp. 109-115, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/BESC15.pdf" target="_blank">[PDF]</a></li>
     <li>D. Vallet, S. Berkovsky, S. Ardon, A. Mahanti, M.A. Kaafar, "Characterizing and Predicting Viral-and-Popular Video Content", Int. Conf. on Information and Knowledge Management (CIKM), pp. 1591-1600, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/CIKM15.pdf" target="_blank">[PDF]</a></li>
     <li>A. Berlioz, A. Friedman, M.A. Kaafar, R. Boreli, S. Berkovsky, "Applying Differential Privacy to Matrix Factorization", Recommender Systems Conf. (RecSys), pp. 107-114, 2015 [Best Paper Award Runner-Up] <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15a.pdf" target="_blank">[PDF]</a></li>
     <li>O. Sar-Shalom, S. Berkovsky, R. Ronen, E. Ziklik, A. Amir, "Data Quality Matters in Recommender Systems", Recommender Systems Conf. (RecSys), pp. 257-260, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15b.pdf" target="_blank">[PDF]</a></li>
     <li>S. Berkovsky, G. Hendrie, M. Noakes, J. Freyne, K. Usic, "The HealthierU Portal for Supporting Behaviour Change and Diet Programs", Australian National Health Informatics Conf. (HIC), pp. 15-21, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/HIC15.pdf" target="_blank">[PDF]</a></li>
     <li>A. Ashkan, B. Kveton, S. Berkovsky, Z. Wen, "Optimal Greedy Diversity for Recommendations", Int. Joint Conf. on Artificial Intelligence (IJCAI), pp. 1742-1748, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJCAI15.pdf" target="_blank">[PDF]</a></li>
-    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Search in Recommender Systems", Int. Conf. on Intelligent User Interfaces (IUI), pp. 236-246, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI.pdf" target="_blank">[PDF]</a></li>
+    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Search in Recommender Systems", Int. Conf. on Intelligent User Interfaces (IUI), pp. 236-246, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI15.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
