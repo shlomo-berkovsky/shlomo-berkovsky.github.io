@@ -66,11 +66,22 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 <summary>
 2018
 </summary>
-  <h5>Journals</h5>
+  
   <h5>Books/Edited</h5>
+<ul>
+  <li>S. Berkovsky, Y. Hijikata, J. Rekinoto, M. Burnett, M. Billinghurst, A. Quigley, "Proceedings of the 23rd International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 978-1-4503-4945-1, 2018 <a href="https://dl.acm.org/doi/proceedings/10.1145/3172944">[link]</a></li>
+  <li>	S. Berkovsky, Y. Hijikata, J. Rekinoto, "Companion Proceedings of the 23rd International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 978-1-4503-5571-1, 2018 <a href="https://dl.acm.org/doi/proceedings/10.1145/3180308">[link]</a></li>
+ </ul>
+   
   <h5>Chapters</h5>
+  <ul>
+  <li>	K. Yu, S. Berkovsky, D. Conway, R. Taib, J. Zhou, F. Chen, "Do I Trust a Machine? Differences in User Trust Based on System Performance", in J. Zhou, F. Chen: Human and Machine Learning: Visible, Explainable, Trustworthy and Transparent, pp. 245-264, Springer, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer18.pdf">[PDF]</a></li>
+  </ul>
   <h5>Conferences</h5>
-  <h5>Workshops</h5>
+  <ul>
+  <li>	A. Devaraju, S. Berkovsky, "A Hybrid Recommendation Approach for Open Research Datasets", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 207-211, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP18b.pdf">[PDF]</a></li>
+  <li> S. Berkovsky, R. Taib, Y. Hijikata, P. Braslavski, B. Knijnenburg, "A Cross-Cultural Analysis of Trust in Recommender Systems", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 285-289, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP18a.pdf">[PDF]</a></li>
+  </ul>
 </details>
 
 <details>
