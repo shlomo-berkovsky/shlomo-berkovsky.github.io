@@ -148,27 +148,27 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>S. Berkovsky, J. Freyne, "Personalized Social Network Activity Feeds for Increased Interaction and Content Contribution", Frontiers in Robotics and Artificial Intelligence, vol. 2, e. 24, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, "Personalized Social Network Activity Feeds for Increased Interaction and Content Contribution", Frontiers in Robotics and Artificial Intelligence, vol. 2, e. 24, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/Frontiers15.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Chapters</h5>
   <ul>
-    <li>A. Friedman, B. Knijnenburg, K. Vanhecke, L. Martens, S. Berkovsky, "Privacy Aspects of Recommender Systems", in F. Ricci, L. Rokach, B. Shapira: Recommender Systems Handbook, pp. 649-688, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>I. Cantador, I. Fernández-Tobias, S. Berkovsky, P. Cremonesi, "Cross-Domain Recommender Systems", in F. Ricci, L. Rokach, B. Shapira: Recommender Systems Handbook, pp. 919-960, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, "Network Activity Feed: Finding Needles in a Haystack", in M. Atzmueller, A. Chin, C. Scholz, C. Trattner: Mining, Modeling, and Recommending Things in Social Media, pp. 21-34, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Friedman, B. Knijnenburg, K. Vanhecke, L. Martens, S. Berkovsky, "Privacy Aspects of Recommender Systems", in F. Ricci, L. Rokach, B. Shapira: Recommender Systems Handbook, pp. 649-688, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer15b.pdf" target="_blank">[PDF]</a></li>
+    <li>I. Cantador, I. Fernández-Tobias, S. Berkovsky, P. Cremonesi, "Cross-Domain Recommender Systems", in F. Ricci, L. Rokach, B. Shapira: Recommender Systems Handbook, pp. 919-960, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer15a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, "Network Activity Feed: Finding Needles in a Haystack", in M. Atzmueller, A. Chin, C. Scholz, C. Trattner: Mining, Modeling, and Recommending Things in Social Media, pp. 21-34, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer15c.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>K. Medvediev, G. Xu, S. Berkovsky, Y. Onikienko, "An Analysis of New Visitors' Website Behaviour before and after TV Advertising", Int. Conf. on Behavioral, Economic, and Socio-Cultural Computing (BESC), pp. 109-115, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>D. Vallet, S. Berkovsky, S. Ardon, A. Mahanti, M.A. Kaafar, "Characterizing and Predicting Viral-and-Popular Video Content", Int. Conf. on Information and Knowledge Management (CIKM), pp. 1591-1600, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>A. Berlioz, A. Friedman, M.A. Kaafar, R. Boreli, S. Berkovsky, "Applying Differential Privacy to Matrix Factorization", Recommender Systems Conf. (RecSys), pp. 107-114, 2015 [Best Paper Award Runner-Up] <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>O. Sar-Shalom, S. Berkovsky, R. Ronen, E. Ziklik, A. Amir, "Data Quality Matters in Recommender Systems", Recommender Systems Conf. (RecSys), pp. 257-260, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, G. Hendrie, M. Noakes, J. Freyne, K. Usic, "The HealthierU Portal for Supporting Behaviour Change and Diet Programs", Australian National Health Informatics Conf. (HIC), pp. 15-21, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>A. Ashkan, B. Kveton, S. Berkovsky, Z. Wen, "Optimal Greedy Diversity for Recommendations", Int. Joint Conf. on Artificial Intelligence (IJCAI), pp. 1742-1748, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Search in Recommender Systems", Int. Conf. on Intelligent User Interfaces (IUI), pp. 236-246, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>K. Medvediev, G. Xu, S. Berkovsky, Y. Onikienko, "An Analysis of New Visitors' Website Behaviour before and after TV Advertising", Int. Conf. on Behavioral, Economic, and Socio-Cultural Computing (BESC), pp. 109-115, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/BESC.pdf" target="_blank">[PDF]</a></li>
+    <li>D. Vallet, S. Berkovsky, S. Ardon, A. Mahanti, M.A. Kaafar, "Characterizing and Predicting Viral-and-Popular Video Content", Int. Conf. on Information and Knowledge Management (CIKM), pp. 1591-1600, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/CIKM15.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Berlioz, A. Friedman, M.A. Kaafar, R. Boreli, S. Berkovsky, "Applying Differential Privacy to Matrix Factorization", Recommender Systems Conf. (RecSys), pp. 107-114, 2015 [Best Paper Award Runner-Up] <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15a.pdf" target="_blank">[PDF]</a></li>
+    <li>O. Sar-Shalom, S. Berkovsky, R. Ronen, E. Ziklik, A. Amir, "Data Quality Matters in Recommender Systems", Recommender Systems Conf. (RecSys), pp. 257-260, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, G. Hendrie, M. Noakes, J. Freyne, K. Usic, "The HealthierU Portal for Supporting Behaviour Change and Diet Programs", Australian National Health Informatics Conf. (HIC), pp. 15-21, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/HIC15.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Ashkan, B. Kveton, S. Berkovsky, Z. Wen, "Optimal Greedy Diversity for Recommendations", Int. Joint Conf. on Artificial Intelligence (IJCAI), pp. 1742-1748, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJCAI15.pdf" target="_blank">[PDF]</a></li>
+    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Search in Recommender Systems", Int. Conf. on Intelligent User Interfaces (IUI), pp. 236-246, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>M. Elahi, M. Ge, F. Ricci, I. Fernández-Tobias, S. Berkovsky, M. David, "Interaction Design in a Mobile Food Recommender System", Workshop on Interfaces and Human Decision Making for Recommender Systems, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>M. Elahi, M. Ge, F. Ricci, I. Fernández-Tobias, S. Berkovsky, M. David, "Interaction Design in a Mobile Food Recommender System", Workshop on Interfaces and Human Decision Making for Recommender Systems, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15c.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
@@ -178,11 +178,11 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Conferences</h5>
   <ul>
-    <li>M. Elahi, M. Ge, F. Ricci, M. David, S. Berkovsky, "Interactive Food Recommendation for Groups", Recommender Systems Conf. Posters (RecSys), e. 2, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>A. Ashkan, B. Kveton, S. Berkovsky, Z. Wen, "Diversified Utility Maximization for Recommendations", Recommender Systems Conf. Posters (RecSys), e. 13, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, D. Vallet, T. Kuflik, "Graph-Based Recommendations: Make the Most out of Social Data", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 447-458, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>D. Vallet, A. Friedman, S. Berkovsky, "Matrix Factorization without User Data Retention", Pacific-Asia Conf. on Knowledge Discovery and Data Mining (PAKDD), pp. 569-580, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, D. Vallet, T. Chen, T. Kuflik, "Improving Business Rating Predictions Using Graph Based Features", Int. Conf. on Intelligent User Interfaces (IUI), pp. 17-26, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>M. Elahi, M. Ge, F. Ricci, M. David, S. Berkovsky, "Interactive Food Recommendation for Groups", Recommender Systems Conf. Posters (RecSys), e. 2, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys14a.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Ashkan, B. Kveton, S. Berkovsky, Z. Wen, "Diversified Utility Maximization for Recommendations", Recommender Systems Conf. Posters (RecSys), e. 13, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys14b.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, D. Vallet, T. Kuflik, "Graph-Based Recommendations: Make the Most out of Social Data", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 447-458, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP14.pdf" target="_blank">[PDF]</a></li>
+    <li>D. Vallet, A. Friedman, S. Berkovsky, "Matrix Factorization without User Data Retention", Pacific-Asia Conf. on Knowledge Discovery and Data Mining (PAKDD), pp. 569-580, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/PAKDD14.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, D. Vallet, T. Chen, T. Kuflik, "Improving Business Rating Predictions Using Graph Based Features", Int. Conf. on Intelligent User Interfaces (IUI), pp. 17-26, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI14.pdf" target="_blank">[PDF]</a></li>
   </ul>  
 </details>
 
