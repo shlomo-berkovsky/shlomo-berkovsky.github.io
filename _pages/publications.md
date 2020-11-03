@@ -90,8 +90,8 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-  <li>	J. Freyne, J. Yin, E. Brindal, G. Hendrie, S. Berkovsky, M. Noakes, "Push Notifications in Diet Apps: Influencing Engagement Times and Tasks", Int. Journal of Human-Computer Interaction (IJHCI), vol. 33(10), pp. 833-845, 2017 </li>
-  <li>	M.S. Hussain, J. Li, E. Brindal, Y. Van Kasteren, M. Varnfield, A. Reeson, S. Berkovsky, J. Freyne, "Supporting the Delivery of Total Knee Replacements Care for Patients and their Clinicians with a Mobile App and Online Tool", Journal of Medical Internet Research Protocols (JMIR Protocols), vol. 6(3), e. 32, 2017 </li>
+  <li>	J. Freyne, J. Yin, E. Brindal, G. Hendrie, S. Berkovsky, M. Noakes, "Push Notifications in Diet Apps: Influencing Engagement Times and Tasks", Int. Journal of Human-Computer Interaction (IJHCI), vol. 33(10), pp. 833-845, 2017  <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+  <li>	M.S. Hussain, J. Li, E. Brindal, Y. Van Kasteren, M. Varnfield, A. Reeson, S. Berkovsky, J. Freyne, "Supporting the Delivery of Total Knee Replacements Care for Patients and their Clinicians with a Mobile App and Online Tool", Journal of Medical Internet Research Protocols (JMIR Protocols), vol. 6(3), e. 32, 2017  <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
   <h5>Books/Edited</h5>
