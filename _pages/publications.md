@@ -89,10 +89,35 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 2017
 </summary>
   <h5>Journals</h5>
+  <ul>
+  <li>	J. Freyne, J. Yin, E. Brindal, G. Hendrie, S. Berkovsky, M. Noakes, "Push Notifications in Diet Apps: Influencing Engagement Times and Tasks", Int. Journal of Human-Computer Interaction (IJHCI), vol. 33(10), pp. 833-845, 2017 </li>
+  <li>	M.S. Hussain, J. Li, E. Brindal, Y. Van Kasteren, M. Varnfield, A. Reeson, S. Berkovsky, J. Freyne, "Supporting the Delivery of Total Knee Replacements Care for Patients and their Clinicians with a Mobile App and Online Tool", Journal of Medical Internet Research Protocols (JMIR Protocols), vol. 6(3), e. 32, 2017 </li>
+  </ul>
+  
   <h5>Books/Edited</h5>
-  <h5>Chapters</h5>
+  <ul>
+    <li>	P. Cremonesi, F. Ricci, S. Berkovsky, A. Tuzhilin, "Proceedings of the 11th ACM Conference on Recommender Systems", Association for Computing Machinery, ISBN 978-1-4503-4652-8, 2017 </li>
+  </ul>
+  
   <h5>Conferences</h5>
+  <ul>
+   <li>	G. Misra, N.A.G. Arachchilage, S. Berkovsky, "Phish Phinder: A Game Design Approach to Enhance User Confidence in Mitigating Phishing Attacks", Int. Symposium on Human Aspects of Information Security and Assurance (HAISA), pp. 41-51, 2017 </li>
+  <li>	A. Devaraju, S. Berkovsky, "Do Users Matter? The Contribution of User-Driven Feature Weights to Open Dataset Recommendations", Recommender Systems Conf. Posters (RecSys), e. 16, 2017 </li>
+  <li> L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Tracking the Evolution of Customer Purchase Behavior Segmentation via a Fragmentation-Coagulation Process", Int. Joint Conf. on Artificial Intelligence (IJCAI), pp. 2414-2420, 2017</li>
+  <li> D. Bradford, S. Berkovsky, M. Martyn, T. Bakkar, M. Krahnert, M. Rodriguez, D. Bauer, D. Ireland, C. Gaff, "Interacting with Genomic Data: Clinician Requirements and Prototype Structure", Australian National Health Informatics Conf. (HIC), pp. 1-7, 2017</li>
+  <li> D. Conway, R. Taib, M. Harris, K. Yu, S. Berkovsky, F. Chen, "A Qualitative Investigation of Bank Employee Experiences of Information Security and Phishing", Symposium on Usable Privacy and Security (SOUPS), pp. 115-129, 2017</li>
+  <li> S. Zong, B. Kveton, S. Berkovsky, A. Ashkan, Z. Wen, "Get to the Bottom: Causal Analysis for User Modeling", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 256-264, 2017 [Best Paper Award Nomination]</li>
+  <li> J. Zhou, S.Z. Arshad, S. Luo, K. Yu, S. Berkovsky, F. Chen, "Indexing Cognitive Load using Blood Volume Pulse Features", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2269-2275, 2017</li>
+  <li> S. Zong, B. Kveton, S. Berkovsky, A. Ashkan, N. Vlassis, Z. Wen, "Does Weather Matter? Causal Analysis of TV Logs", Int. World Wide Web Conf. (WWW), Companion Volume, pp. 883-884, 2017</li>
+  <li> L. Luo, B. Li, S. Berkovsky, I. Koprinska, F. Chen, "Online Engagement for a Healthier You: A Case Study of Web-based Supermarket Health Program", Int. World Wide Web Conf. (WWW), pp. 1053-1062, 2017</li>
+  <li> S. Berkovsky, R. Taib, D. Conway, "How to Recommend? User Trust Factors in Movie Recommender Systems", Int. Conf. on Intelligent User Interfaces (IUI), pp. 287-300, 2017</li>
+  <li> K. Yu, S. Berkovsky, R. Taib, D. Conway, J. Zhou, F. Chen, "User Trust Dynamics: An Investigation Driven by Differences in System Performance", Int. Conf. on Intelligent User Interfaces (IUI), pp. 307-317, 2017</li>
+  </ul>
+
   <h5>Workshops</h5>
+  <ul>
+  <li>	S.Z. Arshad, J. Zhou, S. Berkovsky, F. Chen, "Human-In-The-Loop Machine Learning with Intelligent Multimodal Interfaces", Workshop on Human-in-the-Loop Machine Learning, 2017 </li>
+  </ul>
 </details>
 
 <details>
