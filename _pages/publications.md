@@ -126,19 +126,19 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>A. Friedman, S. Berkovsky, M.A. Kaafar, "A Differential Privacy Framework for Matrix Factorization Recommender Systems", User Modeling and User-Adapted Interaction (UMUAI), vol. 26(5), pp. 425-468, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Content Discovery in Recommender Systems", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 6(2), e. 15, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Friedman, S. Berkovsky, M.A. Kaafar, "A Differential Privacy Framework for Matrix Factorization Recommender Systems", User Modeling and User-Adapted Interaction (UMUAI), vol. 26(5), pp. 425-468, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMUAI16.pdf" target="_blank">[PDF]</a></li>
+    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Content Discovery in Recommender Systems", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 6(2), e. 15, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS16.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Discovering Temporal Purchase Patterns with Different Responses to Promotions", Int. Conf. on Information and Knowledge Management (CIKM), pp. 2197-2202, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>M.S. Hussain, L. Cripwell, S. Berkovsky, J. Freyne, "Promoting UV Exposure Awareness with Persuasive Wearable Technologies", Australian National Health Informatics Conf. (HIC), pp. 48-54, 2016 [Best Academic Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>K. Yu, S. Berkovsky, D. Conway, R. Taib, J. Zhou, F. Chen, "Trust and Reliance Based on System Accuracy", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 223-227, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Who will be Affected by Supermarket Health Programs? Tracking Customer Behavior Changes via Preference Modeling", Pacific-Asia Conf. on Knowledge Discovery and Data Mining (PAKDD), pp. 527-539, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Discovering Temporal Purchase Patterns with Different Responses to Promotions", Int. Conf. on Information and Knowledge Management (CIKM), pp. 2197-2202, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/CIKM16.pdf" target="_blank">[PDF]</a></li>
+    <li>M.S. Hussain, L. Cripwell, S. Berkovsky, J. Freyne, "Promoting UV Exposure Awareness with Persuasive Wearable Technologies", Australian National Health Informatics Conf. (HIC), pp. 48-54, 2016 [Best Academic Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/HIC16.pdf" target="_blank">[PDF]</a></li>
+    <li>K. Yu, S. Berkovsky, D. Conway, R. Taib, J. Zhou, F. Chen, "Trust and Reliance Based on System Accuracy", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 223-227, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP16.pdf" target="_blank">[PDF]</a></li>
+    <li>L. Luo, B. Li, I. Koprinska, S. Berkovsky, F. Chen, "Who will be Affected by Supermarket Health Programs? Tracking Customer Behavior Changes via Preference Modeling", Pacific-Asia Conf. on Knowledge Discovery and Data Mining (PAKDD), pp. 527-539, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PAKDD16.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>S. Berkovsky, M. Kaptein, M. Zancanaro, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, M. Kaptein, M. Zancanaro, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PnP16.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
