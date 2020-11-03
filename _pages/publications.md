@@ -192,32 +192,32 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>J. Freyne, S. Berkovsky, G. Smith, "Rating Bias and Preference Acquisition", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 3(3), e. 19, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>E. Brindal, G. Hendrie, J. Freyne, M. Coombe, S. Berkovsky, M. Noakes, "Design and Pilot Results of a Mobile Phone Weight-Loss Application for Women Starting a Meal Replacement Programme", Journal of Telemedicine and Telecare, vol. 19(3), pp. 166-174, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>P. De Bra, J. Freyne, S. Berkovsky, "Introduction to the Special Issue on Adaptive Hypermedia", New Review of Hypermedia and Multimedia (NRHM), vol. 19(2), pp. 81-83, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>M.A. Kaafar, S. Berkovsky, B. Donnet, "On the Potential of Recommendation Technologies for Efficient Content Delivery Networks", Computer Communication Review (CCR), vol. 43(3), pp. 74-77, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>A. Said, S. Berkovsky, E.W. De Luca, "Movie Recommendation in Context", ACM Transactions on Intelligent Systems and Technology (TIST), vol. 4(1), e. 13, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, G. Smith, "Rating Bias and Preference Acquisition", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 3(3), e. 19, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS13.pdf" target="_blank">[PDF]</a></li>
+    <li>E. Brindal, G. Hendrie, J. Freyne, M. Coombe, S. Berkovsky, M. Noakes, "Design and Pilot Results of a Mobile Phone Weight-Loss Application for Women Starting a Meal Replacement Programme", Journal of Telemedicine and Telecare, vol. 19(3), pp. 166-174, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/JTT13.pdf" target="_blank">[PDF]</a></li>
+    <li>P. De Bra, J. Freyne, S. Berkovsky, "Introduction to the Special Issue on Adaptive Hypermedia", New Review of Hypermedia and Multimedia (NRHM), vol. 19(2), pp. 81-83, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/NRHM13.pdf" target="_blank">[PDF]</a></li>
+    <li>M.A. Kaafar, S. Berkovsky, B. Donnet, "On the Potential of Recommendation Technologies for Efficient Content Delivery Networks", Computer Communication Review (CCR), vol. 43(3), pp. 74-77, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/CCR13.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Said, S. Berkovsky, E.W. De Luca, "Movie Recommendation in Context", ACM Transactions on Intelligent Systems and Technology (TIST), vol. 4(1), e. 13, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/TIST13.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Books/Edited</h5>
   <ul>
-    <li>S. Berkovsky, E. Herder, P. Lops, O. Santos, "Extended Proceedings of the International Conference on User Modeling, Adaptation, and Personalization", CEUR-WS Proceedings, vol. 997, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, "Proceedings of the 8th International Conference on Persuasive Technology", Springer Lecture Notes in Computer Science, vol. 7822, ISBN 978-3-6423-7156-1, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, "Adjunct Proceedings of the 8th International Conference on Persuasive Technology", CEUR-WS Proceedings, vol. 973, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, E. Herder, P. Lops, O. Santos, "Extended Proceedings of the International Conference on User Modeling, Adaptation, and Personalization", CEUR-WS Proceedings, vol. 997, 2013 <a href="http://ceur-ws.org/Vol-997/" target="_blank">[link]</a></li>
+    <li>S. Berkovsky, J. Freyne, "Proceedings of the 8th International Conference on Persuasive Technology", Springer Lecture Notes in Computer Science, vol. 7822, ISBN 978-3-6423-7156-1, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/PT13b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, "Adjunct Proceedings of the 8th International Conference on Persuasive Technology", CEUR-WS Proceedings, vol. 973, 2013 <a href="http://ceur-ws.org/Vol-973/" target="_blank">[link]</a></li>
   </ul>
   <h5>Chapters</h5>
   <ul>
-    <li>J. Freyne, S. Berkovsky, G. Smith, "Evaluating Recommender Systems for Supportive Technologies", in E. Martin, P. Haya, R. Carro: User Modeling and Adaptation for Daily Routines, pp. 195-217, Springer, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, G. Smith, "Evaluating Recommender Systems for Supportive Technologies", in E. Martin, P. Haya, R. Carro: User Modeling and Adaptation for Daily Routines, pp. 195-217, Springer, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMADR13.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>M. Xu, S. Berkovsky, S. Ardon, S. Triukose, A. Mahanti, I. Koprinska, "Catch-up TV Recommendations: Show Old Favourites and Find New Ones", Recommender Systems Conf. (RecSys), pp. 285-293, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, T. Chen, T. Kuflik, "Cross Social Network Interests Predictions Based on Graph Features", Recommender Systems Conf. (RecSys), pp. 319-322, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>A. Tiroshi, T. Kuflik, S. Berkovsky, "Inform or Flood: Estimating When Retweets Duplicate", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 267-273, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>P. Burns, C. Lueg, S. Berkovsky, "Colours that Move you: Persuasive Ambient Activity Displays", Int. Conf. on Persuasive Technology (PT), pp. 27-32, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>M. Xu, S. Berkovsky, S. Ardon, S. Triukose, A. Mahanti, I. Koprinska, "Catch-up TV Recommendations: Show Old Favourites and Find New Ones", Recommender Systems Conf. (RecSys), pp. 285-293, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys13a.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, T. Chen, T. Kuflik, "Cross Social Network Interests Predictions Based on Graph Features", Recommender Systems Conf. (RecSys), pp. 319-322, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys13b.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Tiroshi, T. Kuflik, S. Berkovsky, "Inform or Flood: Estimating When Retweets Duplicate", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 267-273, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP13.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "Colours that Move you: Persuasive Ambient Activity Displays", Int. Conf. on Persuasive Technology (PT), pp. 27-32, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/PT13a.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>S. Berkovsky, S. Ardon, "Deep Modeling: Emotion-Based Modeling of Video Content Viewers", Workshop on Exploring and Enhancing the User Experience for Television, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, S. Ardon, "Deep Modeling: Emotion-Based Modeling of Video Content Viewers", Workshop on Exploring and Enhancing the User Experience for Television, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI13.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
