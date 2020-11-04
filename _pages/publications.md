@@ -323,9 +323,9 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   <h5>Conferences</h5>
   <ul>
     <li>S. Berkovsky, J. Freyne, M. Coombe, "Aggregation Trade-Offs in Family Based Recommendations", Australasian Joint Conf. on Artificial Intelligence (AusAI), pp. 646-655, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/AusAI09.pdf" target="_blank">[PDF]</a></li>
-    <li>N. Baghaei, J. Freyne, S. Kimani, G. Smith, S. Berkovsky, D. Bhandari, N. Colineau, C. Paris, "SOFA: An Online Social Network for Engaging and Motivating Families to Adopt a Healthy Lifestyle", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 269-272, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>N. Baghaei, J. Freyne, S. Kimani, G. Smith, S. Berkovsky, D. Bhandari, N. Colineau, C. Paris, "SOFA: An Online Social Network for Engaging and Motivating Families to Adopt a Healthy Lifestyle", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 269-272, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/OZCHI09a.pdf" target="_blank">[PDF]</a></li>
     <li>S. Berkovsky, J. Freyne, M. Coombe, D. Bhandari, N. Baghaei, "Physical Activity Motivating Games: You can PLAY, MATE!", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 273-276, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/OZCHI09b.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, D. Bhandari, S. Kimani, N. Colineau, C. Paris, "Designing Games to Motivate Physical Activity", Int. Conf. on Persuasive Technology (PT), pp. 37-40, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, D. Bhandari, S. Kimani, N. Colineau, C. Paris, "Designing Games to Motivate Physical Activity", Int. Conf. on Persuasive Technology (PT), pp. 37-40, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/PT09.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
@@ -339,22 +339,22 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>F. Bohnert, I. Zukerman, S. Berkovsky, T. Baldwin, E. Sonenberg, "Using Interest and Transition Models to Predict Visitor Locations in Museums", Artificial Intelligence Communications, vol. 21(2-3), pp. 195-202, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Mediation of User Models for Enhanced Personalization in Recommender Systems", User Modeling and User-Adapted Interaction (UMUAI), vol. 18(3), pp. 245-286, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>F. Bohnert, I. Zukerman, S. Berkovsky, T. Baldwin, E. Sonenberg, "Using Interest and Transition Models to Predict Visitor Locations in Museums", Artificial Intelligence Communications, vol. 21(2-3), pp. 195-202, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/AICom08.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Mediation of User Models for Enhanced Personalization in Recommender Systems", User Modeling and User-Adapted Interaction (UMUAI), vol. 18(3), pp. 245-286, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMUAI08.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Chapters</h5>
   <ul>
-    <li>S. Berkovsky, Y. Eytani, L. Manevitz, "Efficient Collaborative Filtering in Content-Addressable Spaces", in G. Uchyigit, M. Ma: Personalization Techniques and Recommender Systems, pp. 135-164, World Scientific, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, L. Manevitz, "Efficient Collaborative Filtering in Content-Addressable Spaces", in G. Uchyigit, M. Ma: Personalization Techniques and Recommender Systems, pp. 135-164, World Scientific, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/WSP08.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>Y. Ben-Asher, S. Berkovsky, P. Busetta, Y. Eytani, S. Jbara, T. Kuflik, "Adaptive Retrieval of Semi-Structured Data", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 32-41, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>F. Bohnert, I. Zukerman, S. Berkovsky, T. Baldwin, E. Sonenberg, "Using Collaborative Models to Adaptively Predict Visitor Locations in Museums", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 42-51, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, T. Baldwin, I. Zukerman, "Aspect-Based Personalized Text Summarization", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 267-270, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>Y. Ben-Asher, S. Berkovsky, P. Busetta, Y. Eytani, S. Jbara, T. Kuflik, "Adaptive Retrieval of Semi-Structured Data", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 32-41, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/AH08a.pdf" target="_blank">[PDF]</a></li>
+    <li>F. Bohnert, I. Zukerman, S. Berkovsky, T. Baldwin, E. Sonenberg, "Using Collaborative Models to Adaptively Predict Visitor Locations in Museums", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 42-51, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/AH08b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Baldwin, I. Zukerman, "Aspect-Based Personalized Text Summarization", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 267-270, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/AH08c.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>N. Colineau, C. Paris, S. Berkovsky, "Engaging Families in Sustainable Healthy Living", Workshop on Designing for Families, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>N. Colineau, C. Paris, S. Berkovsky, "Engaging Families in Sustainable Healthy Living", Workshop on Designing for Families, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/CSCW08.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
