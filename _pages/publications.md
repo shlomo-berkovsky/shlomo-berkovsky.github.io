@@ -364,24 +364,24 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "P2P Case Retrieval with an Unspecified Ontology", Artificial Intelligence Review (AI Review), vol. 28(3), pp. 227-255, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, Y. Eytani, L. Manevitz, "Efficient Collaborative Filtering in Content-Addressable Spaces", International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI), vol. 21(2), pp. 265-289, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "P2P Case Retrieval with an Unspecified Ontology", Artificial Intelligence Review (AI Review), vol. 28(3), pp. 227-255, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/AIRev07.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, L. Manevitz, "Efficient Collaborative Filtering in Content-Addressable Spaces", International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI), vol. 21(2), pp. 265-289, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJPRAI07.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Chapters</h5>
   <ul>
-    <li>S. Berkovsky, Y. Eytani, L. Manevitz, "Retrieval of Collaborative Filtering Nearest Neighbors in a Content-Addressable Space", in Y. Manolopoulos, J. Filipe, P. Constantopoulos, J. Cordeiro: Enterprise Information Systems VIII, pp. 159-178, Springer, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, L. Manevitz, "Retrieval of Collaborative Filtering Nearest Neighbors in a Content-Addressable Space", in Y. Manolopoulos, J. Filipe, P. Constantopoulos, J. Cordeiro: Enterprise Information Systems VIII, pp. 159-178, Springer, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer07.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>S. Berkovsky, Y. Eytani, T. Kuflik, F. Ricci, "Enhancing Privacy and Preserving Accuracy of a Distributed Collaborative Filtering", Recommender Systems Conf. (RecSys), pp. 9-16, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Distributed Collaborative Filtering with Domain Specialization", Recommender Systems Conf. (RecSys), pp. 33-40, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Cross-Domain Mediation in Collaborative Filtering", Int. Conf. on User Modeling (UM), pp. 365-369, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, T. Kuflik, F. Ricci, "Enhancing Privacy and Preserving Accuracy of a Distributed Collaborative Filtering", Recommender Systems Conf. (RecSys), pp. 9-16, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys07a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Distributed Collaborative Filtering with Domain Specialization", Recommender Systems Conf. (RecSys), pp. 33-40, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys07b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Cross-Domain Mediation in Collaborative Filtering", Int. Conf. on User Modeling (UM), pp. 365-369, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/UM07a.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>S. Berkovsky, L. Aroyo, D. Heckmann, G.-J. Houben, A. Kröner, T. Kuflik, F. Ricci, "Providing Context-Aware Personalization through Cross-Context Reasoning of User Modeling Data", Workshop on Decentralized and Ubiquitous User Modeling, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, N. Borisov, Y. Eytani, T. Kuflik, F. Ricci, "Examining Users' Attitude towards Privacy-Preserving Collaborative Filtering", Workshop on Data Mining for User Modeling, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, A. Gorfinkel, T. Kuflik, L. Manevitz, "Evaluation of User Model Effectiveness by Simulation", Workshop on Personalization-Enhanced Access to Cultural Heritage, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, L. Aroyo, D. Heckmann, G.-J. Houben, A. Kröner, T. Kuflik, F. Ricci, "Providing Context-Aware Personalization through Cross-Context Reasoning of User Modeling Data", Workshop on Decentralized and Ubiquitous User Modeling, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/UM07b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, N. Borisov, Y. Eytani, T. Kuflik, F. Ricci, "Examining Users' Attitude towards Privacy-Preserving Collaborative Filtering", Workshop on Data Mining for User Modeling, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/UM07c.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, A. Gorfinkel, T. Kuflik, L. Manevitz, "Evaluation of User Model Effectiveness by Simulation", Workshop on Personalization-Enhanced Access to Cultural Heritage, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/UM07d.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
