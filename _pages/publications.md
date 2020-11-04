@@ -391,22 +391,22 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>Y. Ben-Asher, S. Berkovsky, "Semantic Data Management in Peer-to-Peer E-Commerce Applications", Journal on Data Semantics (JoDS), vol. 6, pp. 115-142, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>Y. Ben-Asher, S. Berkovsky, "Semantic Data Management in Peer-to-Peer E-Commerce Applications", Journal on Data Semantics (JoDS), vol. 6, pp. 115-142, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/JoDS06.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>S. Berkovsky, D. Goldwasser, T. Kuflik, F. Ricci, "Identifying Inter-Domain Similarities through Content-Based Analysis of Hierarchical Web-Directories", European Conf. on Artificial Intelligence (ECAI), pp. 789-790, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Cross-Technique Mediation of User Models", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 21-30, 2006 [Best Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, "Decentralized Mediation of User Models for a Better Personalization", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 404-408, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, Y. Eytani, L. Manevitz, "Collaborative Filtering Based on Content-Addressing", Int. Conf. on Enterprise Information Systems (ICEIS), pp. 91-98, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>Y. Ben-Asher, S. Berkovsky, Y. Eytani, "Management of Unspecified Semi-Structured Data in a Multi-Agent Environment", Symposium on Applied Computing (SAC), pp. 101-105, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, D. Goldwasser, T. Kuflik, F. Ricci, "Identifying Inter-Domain Similarities through Content-Based Analysis of Hierarchical Web-Directories", European Conf. on Artificial Intelligence (ECAI), pp. 789-790, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/ECAI06a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Cross-Technique Mediation of User Models", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 21-30, 2006 [Best Paper Award] <a href="https://shlomo-berkovsky.github.io/files/pdf/AH06a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, "Decentralized Mediation of User Models for a Better Personalization", Int. Conf. on Adaptive Hypermedia and Adaptive Web-Based Systems (AH), pp. 404-408, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/AH06b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, L. Manevitz, "Collaborative Filtering Based on Content-Addressing", Int. Conf. on Enterprise Information Systems (ICEIS), pp. 91-98, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICEIS06.pdf" target="_blank">[PDF]</a></li>
+    <li>Y. Ben-Asher, S. Berkovsky, Y. Eytani, "Management of Unspecified Semi-Structured Data in a Multi-Agent Environment", Symposium on Applied Computing (SAC), pp. 101-105, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/SAC06.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>S. Berkovsky, L. Aroyo, D. Heckmann, G.-J. Houben, A. Kröner, T. Kuflik, F. Ricci, "Predicting User Experiences through Cross-Context Reasoning", Workshop on Adaptivity and User Modeling in Interactive Systems, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Enhancing Privacy while Preserving the Accuracy of Collaborative Filtering", Workshop on Recommender Systems, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, A. Gorfinkel, T. Kuflik, L. Manevitz, "Case-Based to Content-Based User Model Mediation", Workshop on Ubiquitous User Modeling, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, Y. Eytani, T. Kuflik, F. Ricci, "Hierarchical Neighborhood Topology for Privacy-Enhanced Collaborative Filtering", Workshop on Privacy-Enhanced Personalization, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, L. Aroyo, D. Heckmann, G.-J. Houben, A. Kröner, T. Kuflik, F. Ricci, "Predicting User Experiences through Cross-Context Reasoning", Workshop on Adaptivity and User Modeling in Interactive Systems, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/ABIS06.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Enhancing Privacy while Preserving the Accuracy of Collaborative Filtering", Workshop on Recommender Systems, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/ECAI06b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, A. Gorfinkel, T. Kuflik, L. Manevitz, "Case-Based to Content-Based User Model Mediation", Workshop on Ubiquitous User Modeling, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/ECAI06c.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, T. Kuflik, F. Ricci, "Hierarchical Neighborhood Topology for Privacy-Enhanced Collaborative Filtering", Workshop on Privacy-Enhanced Personalization, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI06.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
