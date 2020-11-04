@@ -276,8 +276,8 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>S. Berkovsky, J. Freyne, "An Analysis of Group Recommendation Strategies", Journal of Advanced Computational Intelligence and Intelligent Informatics (JACIII), vol. 14(6), pp. 729-734, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, M. Coombe, D. Bhandari, N. Baghaei, S. Kimani, "Exercise and Play: Earn in the Physical, Spend in the Virtual", International Journal of Cognitive Technology, vol. 14(2)-15(1), pp. 22-31, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, "An Analysis of Group Recommendation Strategies", Journal of Advanced Computational Intelligence and Intelligent Informatics (JACIII), vol. 14(6), pp. 729-734, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/JACIII10.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, M. Coombe, D. Bhandari, N. Baghaei, S. Kimani, "Exercise and Play: Earn in the Physical, Spend in the Virtual", International Journal of Cognitive Technology, vol. 14(2)-15(1), pp. 22-31, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/JCT10.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Books/Edited</h5>
   <ul>
@@ -285,21 +285,21 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>J. Freyne, S. Berkovsky, S. Kimani, N. Baghaei, E. Brindal, "Social Network Activity Feeds to Drive Information Access", Int. Symposium on Computer-Based Medical Systems (CBMS), pp. 334-339, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, "Group-Based Recipe Recommendations: An Analysis of Data Aggregation Strategies", Recommender Systems Conf. (RecSys), pp. 111-118, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, M. Coombe, D. Bhandari, "Recommender Algorithms in Activity Motivating Games", Recommender Systems Conf. (RecSys), pp. 175-182, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>J. Freyne, S. Berkovsky, E. Daly, W. Geyer, "Social Networking Feeds: Recommending Items of Interest", Recommender Systems Conf. (RecSys), pp. 277-280, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>J. Freyne, S. Berkovsky, "Recommending Food: Reasoning on Recipes and Ingredients", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 381-386, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, M. Coombe, J. Freyne, D. Bhandari, N. Baghaei, "Physical Activity Motivating Games: Virtual Rewards for Real Activity", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 243-252, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Kimani, N. Baghaei, J. Freyne, S. Berkovsky, D. Bhandari, G. Smith, "Gender and Role Differences in Family-Based Healthy Living Networks", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 4219-4224, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, M. Coombe, R. Helmer, "Activity Interface for Physical Activity Motivating Games", Int. Conf. on Intelligent User Interfaces (IUI), pp. 273-276, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>J. Freyne, S. Berkovsky, "Intelligent Food Planning: Personalized Recipe Recommendation", Int. Conf. on Intelligent User Interfaces (IUI), pp. 321-324, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Kimani, S. Berkovsky, G. Smith, J. Freyne, N. Baghaei, D. Bhandari, "Activity Awareness in Family-Based Healthy Living Online Social Networks", Int. Conf. on Intelligent User Interfaces (IUI), pp. 337-340, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, S. Kimani, N. Baghaei, E. Brindal, "Social Network Activity Feeds to Drive Information Access", Int. Symposium on Computer-Based Medical Systems (CBMS), pp. 334-339, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/CBMS10.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, "Group-Based Recipe Recommendations: An Analysis of Data Aggregation Strategies", Recommender Systems Conf. (RecSys), pp. 111-118, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys10a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, M. Coombe, D. Bhandari, "Recommender Algorithms in Activity Motivating Games", Recommender Systems Conf. (RecSys), pp. 175-182, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys10b.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, E. Daly, W. Geyer, "Social Networking Feeds: Recommending Items of Interest", Recommender Systems Conf. (RecSys), pp. 277-280, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys10c.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, "Recommending Food: Reasoning on Recipes and Ingredients", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 381-386, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP10.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, M. Coombe, J. Freyne, D. Bhandari, N. Baghaei, "Physical Activity Motivating Games: Virtual Rewards for Real Activity", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 243-252, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI10a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Kimani, N. Baghaei, J. Freyne, S. Berkovsky, D. Bhandari, G. Smith, "Gender and Role Differences in Family-Based Healthy Living Networks", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 4219-4224, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI10b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, M. Coombe, R. Helmer, "Activity Interface for Physical Activity Motivating Games", Int. Conf. on Intelligent User Interfaces (IUI), pp. 273-276, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI10a.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, "Intelligent Food Planning: Personalized Recipe Recommendation", Int. Conf. on Intelligent User Interfaces (IUI), pp. 321-324, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI10b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Kimani, S. Berkovsky, G. Smith, J. Freyne, N. Baghaei, D. Bhandari, "Activity Awareness in Family-Based Healthy Living Online Social Networks", Int. Conf. on Intelligent User Interfaces (IUI), pp. 337-340, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI10c.pdf" target="_blank">[PDF]</a></li>
 
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>A. Said, S. Berkovsky, E.W. De Luca, "Putting Things in Context: Challenge on Context-Aware Movie Recommendation", Workshop and Challenge on Context-Aware Movie Recommendation, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Said, S. Berkovsky, E.W. De Luca, "Putting Things in Context: Challenge on Context-Aware Movie Recommendation", Workshop and Challenge on Context-Aware Movie Recommendation, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys10d.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
