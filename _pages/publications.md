@@ -227,24 +227,24 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>S. Berkovsky, J. Freyne, M. Coombe, "Physical Activity Motivating Games: Be Active and Get Your Own Rewards", ACM Transactions on Computer-Human Interaction (TOCHI), vol. 19(4), e. 32, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>E. Brindal, J. Freyne, I. Saunders, S. Berkovsky, G. Smith, M. Noakes, "Features Predicting Weight Loss in Overweight or Obese Participants in a Web-Based Intervention: Randomized Trial", Journal of Medical Internet Research (JMIR), vol. 14(6), e. 173, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, H. Oinas-Kukkonen, "Influencing Individually: Fusing Personalization and Persuasion", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 2(2), e. 9, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "The Impact of Data Obfuscation on the Accuracy of Collaborative Filtering", Expert Systems with Applications (ESWA), vol. 39(5), pp. 5033-5042, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, M. Coombe, "Physical Activity Motivating Games: Be Active and Get Your Own Rewards", ACM Transactions on Computer-Human Interaction (TOCHI), vol. 19(4), e. 32, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/TOCHI12.pdf" target="_blank">[PDF]</a></li>
+    <li>E. Brindal, J. Freyne, I. Saunders, S. Berkovsky, G. Smith, M. Noakes, "Features Predicting Weight Loss in Overweight or Obese Participants in a Web-Based Intervention: Randomized Trial", Journal of Medical Internet Research (JMIR), vol. 14(6), e. 173, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIR12.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, H. Oinas-Kukkonen, "Influencing Individually: Fusing Personalization and Persuasion", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 2(2), e. 9, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS12.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "The Impact of Data Obfuscation on the Accuracy of Collaborative Filtering", Expert Systems with Applications (ESWA), vol. 39(5), pp. 5033-5042, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/ESWA12.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>S. Berkovsky, J. Freyne, G. Smith, "Personalized Network Updates: Increasing Social Interactions and Contributions in Social Networks", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 1-13, 2012 [Best Paper Award Nomination] <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>J. Freyne, E. Brindal, G. Hendrie, S. Berkovsky, M. Coombe, "Mobile Applications to Support Dietary Change: Highlighting the Importance of Evaluation Context", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 1781-1786, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>P. Burns, C. Lueg, S. Berkovsky, "ActivMON: Encouraging Physical Activity through Ambient Social Awareness", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2363-2368, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>J. Freyne, I. Saunders, E. Brindal, S. Berkovsky, G. Smith, "Factors Associated with Persistence of Participation in an Online Diet Interventions", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2375-2380, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, G. Smith, "Personalized Network Updates: Increasing Social Interactions and Contributions in Social Networks", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 1-13, 2012 [Best Paper Award Nomination] <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP12a.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, E. Brindal, G. Hendrie, S. Berkovsky, M. Coombe, "Mobile Applications to Support Dietary Change: Highlighting the Importance of Evaluation Context", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 1781-1786, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12a.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "ActivMON: Encouraging Physical Activity through Ambient Social Awareness", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2363-2368, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12b.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, I. Saunders, E. Brindal, S. Berkovsky, G. Smith, "Factors Associated with Persistence of Participation in an Online Diet Interventions", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2375-2380, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12c.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>P. Burns, C. Lueg, S. Berkovsky, "Empower Everybody – Designing Persuasive Wearable Technology for User Empowerment", Body in Design Workshop, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>M. Xu, S. Berkovsky, I. Koprinska, S. Ardon, K. Yacef, "Time Dependency in TV Viewer Clustering", Workshop on TV and Multimedia Personalization, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>J. Freyne, S. Berkovsky, G. Smith, "Experiences with Recommender Systems for Dietary Planning", Workshop on Food and Interaction Design, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>P. Burns, C. Lueg, S. Berkovsky, "Using Personal Informatics to Motivate Physical Activity: Could we be Doing it Wrong?", Workshop on Personal Informatics in Practice, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "Empower Everybody – Designing Persuasive Wearable Technology for User Empowerment", Body in Design Workshop, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/NA.pdf" target="_blank">[PDF]</a></li>
+    <li>M. Xu, S. Berkovsky, I. Koprinska, S. Ardon, K. Yacef, "Time Dependency in TV Viewer Clustering", Workshop on TV and Multimedia Personalization, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP12b.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, G. Smith, "Experiences with Recommender Systems for Dietary Planning", Workshop on Food and Interaction Design, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/NA.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "Using Personal Informatics to Motivate Physical Activity: Could we be Doing it Wrong?", Workshop on Personal Informatics in Practice, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12d.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
