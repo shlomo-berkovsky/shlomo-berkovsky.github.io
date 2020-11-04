@@ -254,19 +254,19 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>S. Berkovsky, C. Lueg, G. Verdouw, "Encouraging Physical Activities during Long-Distance Travel", IEEE Pervasive Computing, vol. 10(4), e. 54, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>N. Baghaei, S. Kimani, J. Freyne, E. Brindal, S. Berkovsky, G. Smith, "Engaging Families in Lifestyle Changes through Social Networking", International Journal of Human-Computer Interaction (IJHCI), vol. 27(10), pp. 971-990, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>    
+    <li>S. Berkovsky, C. Lueg, G. Verdouw, "Encouraging Physical Activities during Long-Distance Travel", IEEE Pervasive Computing, vol. 10(4), e. 54, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/Pervasive11.pdf" target="_blank">[PDF]</a></li>
+    <li>N. Baghaei, S. Kimani, J. Freyne, E. Brindal, S. Berkovsky, G. Smith, "Engaging Families in Lifestyle Changes through Social Networking", International Journal of Human-Computer Interaction (IJHCI), vol. 27(10), pp. 971-990, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJHCI11.pdf" target="_blank">[PDF]</a></li>    
   </ul>
   <h5>Books/Edited</h5>
   <ul>
-    <li>A. Said, S. Berkovsky, E.W. De Luca, J. Hermanns, "Proceedings of the Workshop and Challenge on Context-Aware Movie Recommendation", ACM Conference Proceedings, ISBN 978-1-4503-0825-0, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Said, S. Berkovsky, E.W. De Luca, J. Hermanns, "Proceedings of the Workshop and Challenge on Context-Aware Movie Recommendation", ACM Conference Proceedings, ISBN 978-1-4503-0825-0, 2011 <a href="https://dl.acm.org/doi/proceedings/10.1145/2096112" target="_blank">[link]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>J. Freyne, S. Berkovsky, G. Smith, "Recipe Recommendation: Accuracy and Reasoning", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 99-110, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, S. Kimani, G. Smith, "Selecting Items of Relevance in Social Network Feeds", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 329-334, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>J. Freyne, S. Berkovsky, N. Baghaei, S. Kimani, G. Smith, "Personalized Techniques for Lifestyle Change", Conf. on Artificial Intelligence in Medicine (AIME), pp. 139-148, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>P. Burns, C. Lueg, S. Berkovsky, "ActivMON: A Wearable Ambient Activity Display", Conf. on Mobile and Ubiquitous Information Systems (MMS), pp. 11-24, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, G. Smith, "Recipe Recommendation: Accuracy and Reasoning", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 99-110, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP11a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, S. Kimani, G. Smith, "Selecting Items of Relevance in Social Network Feeds", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 329-334, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP11b.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, N. Baghaei, S. Kimani, G. Smith, "Personalized Techniques for Lifestyle Change", Conf. on Artificial Intelligence in Medicine (AIME), pp. 139-148, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/AIME11.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "ActivMON: A Wearable Ambient Activity Display", Conf. on Mobile and Ubiquitous Information Systems (MMS), pp. 11-24, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/MMS11.pdf" target="_blank">[PDF]</a></li>
   </ul>  
 </details>
 
@@ -281,7 +281,7 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   </ul>
   <h5>Books/Edited</h5>
   <ul>
-    <li>S. Berkovsky, E.W. De Luca, A. Said, "Proceedings of the Workshop and Challenge on Context-Aware Movie Recommendation", ACM Conference Proceedings, ISBN 978-1-4503-0258-6, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, E.W. De Luca, A. Said, "Proceedings of the Workshop and Challenge on Context-Aware Movie Recommendation", ACM Conference Proceedings, ISBN 978-1-4503-0258-6, 2010 <a href="https://dl.acm.org/doi/proceedings/10.1145/1869652" target="_blank">[link]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
