@@ -309,27 +309,27 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Cross-Representation Mediation of User Models", User Modeling and User-Adapted Interaction (UMUAI), vol. 19(1-2), pp. 35-63, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Cross-Representation Mediation of User Models", User Modeling and User-Adapted Interaction (UMUAI), vol. 19(1-2), pp. 35-63, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMUAI09.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Books/Edited</h5>
   <ul>
-    <li>T. Kuflik, S. Berkovsky, F. Carmagnola, D. Heckmann, A. Krüger, "Advances in Ubiquitous User Modeling", Springer Lecture Notes in Computer Science, vol. 5830, ISBN 978-3-6420-5038-1, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, "Mediation of User Models for Enhanced Personalization in Recommender Systems", VDM Verlag, ISBN 978-3-6391-5099-5, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>T. Kuflik, S. Berkovsky, F. Carmagnola, D. Heckmann, A. Krüger, "Advances in Ubiquitous User Modeling", Springer Lecture Notes in Computer Science, vol. 5830, ISBN 978-3-6420-5038-1, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer09b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, "Mediation of User Models for Enhanced Personalization in Recommender Systems", VDM Verlag, ISBN 978-3-6391-5099-5, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/VDM09.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Chapters</h5>
   <ul>
-    <li>S. Berkovsky, D. Heckmann, T. Kuflik, "Addressing Challenges of Ubiquitous User Modeling: Between Mediation and Semantic Integration", in T. Kuflik, S. Berkovsky, F. Carmagnola, D. Heckmann, A. Krüger: Advances in Ubiquitous User Modelling, pp. 1-19, Springer, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, D. Heckmann, T. Kuflik, "Addressing Challenges of Ubiquitous User Modeling: Between Mediation and Semantic Integration", in T. Kuflik, S. Berkovsky, F. Carmagnola, D. Heckmann, A. Krüger: Advances in Ubiquitous User Modelling, pp. 1-19, Springer, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer09c.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>S. Berkovsky, J. Freyne, M. Coombe, "Aggregation Trade-Offs in Family Based Recommendations", Australasian Joint Conf. on Artificial Intelligence (AusAI), pp. 646-655, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, M. Coombe, "Aggregation Trade-Offs in Family Based Recommendations", Australasian Joint Conf. on Artificial Intelligence (AusAI), pp. 646-655, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/AusAI09.pdf" target="_blank">[PDF]</a></li>
     <li>N. Baghaei, J. Freyne, S. Kimani, G. Smith, S. Berkovsky, D. Bhandari, N. Colineau, C. Paris, "SOFA: An Online Social Network for Engaging and Motivating Families to Adopt a Healthy Lifestyle", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 269-272, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, J. Freyne, M. Coombe, D. Bhandari, N. Baghaei, "Physical Activity Motivating Games: You can PLAY, MATE!", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 273-276, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, M. Coombe, D. Bhandari, N. Baghaei, "Physical Activity Motivating Games: You can PLAY, MATE!", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 273-276, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/OZCHI09b.pdf" target="_blank">[PDF]</a></li>
     <li>S. Berkovsky, D. Bhandari, S. Kimani, N. Colineau, C. Paris, "Designing Games to Motivate Physical Activity", Int. Conf. on Persuasive Technology (PT), pp. 37-40, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>N. Baghaei, S. Kimani, J. Freyne, G. Smith, S. Berkovsky, D. Bhandari, "Engaging Families to Adopt a Healthy Lifestyle through an Online Social Network", Designing for Healthy Living Workshop, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>N. Baghaei, S. Kimani, J. Freyne, G. Smith, S. Berkovsky, D. Bhandari, "Engaging Families to Adopt a Healthy Lifestyle through an Online Social Network", Designing for Healthy Living Workshop, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/NA.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
