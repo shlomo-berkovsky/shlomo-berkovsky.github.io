@@ -323,9 +323,9 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
   <h5>Conferences</h5>
   <ul>
     <li>S. Berkovsky, J. Freyne, M. Coombe, "Aggregation Trade-Offs in Family Based Recommendations", Australasian Joint Conf. on Artificial Intelligence (AusAI), pp. 646-655, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/AusAI09.pdf" target="_blank">[PDF]</a></li>
-    <li>N. Baghaei, J. Freyne, S. Kimani, G. Smith, S. Berkovsky, D. Bhandari, N. Colineau, C. Paris, "SOFA: An Online Social Network for Engaging and Motivating Families to Adopt a Healthy Lifestyle", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 269-272, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>N. Baghaei, J. Freyne, S. Kimani, G. Smith, S. Berkovsky, D. Bhandari, N. Colineau, C. Paris, "SOFA: An Online Social Network for Engaging and Motivating Families to Adopt a Healthy Lifestyle", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 269-272, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/OZCHI09a.pdf" target="_blank">[PDF]</a></li>
     <li>S. Berkovsky, J. Freyne, M. Coombe, D. Bhandari, N. Baghaei, "Physical Activity Motivating Games: You can PLAY, MATE!", Annual Conf. of the Australian Computer-Human Interaction Special Interest Group (OZCHI), pp. 273-276, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/OZCHI09b.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, D. Bhandari, S. Kimani, N. Colineau, C. Paris, "Designing Games to Motivate Physical Activity", Int. Conf. on Persuasive Technology (PT), pp. 37-40, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, D. Bhandari, S. Kimani, N. Colineau, C. Paris, "Designing Games to Motivate Physical Activity", Int. Conf. on Persuasive Technology (PT), pp. 37-40, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/PT09.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
