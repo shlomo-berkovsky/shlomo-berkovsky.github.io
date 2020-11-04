@@ -416,21 +416,21 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Journals</h5>
   <ul>
-    <li>Y. Ben-Asher, S. Berkovsky, E. Gelzin, A. Tammam, M. Vilkhov, E. Shmueli, "Using J2EE/.NET Clusters for Parallel Computations of Join Queries in Distributed Databases", Journal of Digital Information Management (JDIM), vol. 3(2), pp. 76-81, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>Y. Ben-Asher, S. Berkovsky, E. Gelzin, A. Tammam, M. Vilkhov, E. Shmueli, "Using J2EE/.NET Clusters for Parallel Computations of Join Queries in Distributed Databases", Journal of Digital Information Management (JDIM), vol. 3(2), pp. 76-81, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/JDIM05.pdf" target="_blank">[PDF]</a></li>
   </ul>
   <h5>Conferences</h5>
   <ul>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Entertainment Personalization Mechanism through Cross-Domain User Modeling", Int. Conf. on Intelligent Technologies for Interactive Entertainment (INTETAIN), pp. 215-219, 2005  <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, Y. Eytani, A. Gal, "Measuring the Relative Performance of Schema Matchers", Int. Conf. on Web Intelligence (WI), pp. 366-371, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, T. Kuflik, F. Ricci, "P2P Case Retrieval with an Unspecified Ontology", Int. Conf. on Case-Based Reasoning (ICCBR), pp. 91-105, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, "Ubiquitous User Modeling in Recommender Systems", Int. Conf. on User Modeling (UM), pp. 496-498, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "Entertainment Personalization Mechanism through Cross-Domain User Modeling", Int. Conf. on Intelligent Technologies for Interactive Entertainment (INTETAIN), pp. 215-219, 2005  <a href="https://shlomo-berkovsky.github.io/files/pdf/INTETAIN05.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, A. Gal, "Measuring the Relative Performance of Schema Matchers", Int. Conf. on Web Intelligence (WI), pp. 366-371, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/WI05a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "P2P Case Retrieval with an Unspecified Ontology", Int. Conf. on Case-Based Reasoning (ICCBR), pp. 91-105, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICCBR05.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, "Ubiquitous User Modeling in Recommender Systems", Int. Conf. on User Modeling (UM), pp. 496-498, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/UM05a.pdf" target="_blank">[PDF]</a></li>
   </ul>  
   <h5>Workshops</h5>
   <ul>
-    <li>S. Berkovsky, Y. Eytani, A. Gal, "Unspecified Ontologies for eGovernment Web Services Composition and Orchestration", Workshop on Semantics and Orchestration of eGovernment Processes, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, P. Busetta, Y. Eytani, T. Kuflik, F. Ricci, "Collaborative Filtering over Distributed Environment", Workshop on Decentralized, Agent-Based and Social Approaches to User Modeling, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, Y. Eytani, T. Kuflik, F. Ricci, "Privacy-Enhanced Collaborative Filtering", Workshop on Privacy-Enhanced Personalization, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, Y. Eytani, "Semantic Platform for Context-Aware Publish/Subscribe M-Commerce", Workshop on Ubiquitous Networks and Enablers to Context Aware Services, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, A. Gal, "Unspecified Ontologies for eGovernment Web Services Composition and Orchestration", Workshop on Semantics and Orchestration of eGovernment Processes, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/WI05b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, P. Busetta, Y. Eytani, T. Kuflik, F. Ricci, "Collaborative Filtering over Distributed Environment", Workshop on Decentralized, Agent-Based and Social Approaches to User Modeling, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/UM05b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, T. Kuflik, F. Ricci, "Privacy-Enhanced Collaborative Filtering", Workshop on Privacy-Enhanced Personalization, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/UM05c.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, "Semantic Platform for Context-Aware Publish/Subscribe M-Commerce", Workshop on Ubiquitous Networks and Enablers to Context Aware Services, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/SAINT05.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
 
@@ -440,8 +440,8 @@ You can find the up-to-date list of publications on my [Google Scholar](https://
 </summary>
   <h5>Conferences</h5>
   <ul>
-    <li>Y. Ben-Asher, S. Berkovsky, "UNSO: Unspecified Ontologies for Peer-to-Peer E-Commerce Applications", Int. Conf. on Informatics (ICI), pp. 11-18, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, Y. Eytani, E. Furman, U. Makov, "Developing a Framework for Insurance Underwriting Expert System", Int. Conf. on Informatics (ICI), pp. 191-197, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
-    <li>Y. Ben-Asher, S. Berkovsky, A. Tammam, E. Shmueli, "Using a J2EE Cluster for Parallel Computation of Join Queries in Distributed Databases", Int. Symposium on Parallel and Distributed Computing (ISPDC), pp. 58-63, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/.pdf" target="_blank">[PDF]</a></li>
+    <li>Y. Ben-Asher, S. Berkovsky, "UNSO: Unspecified Ontologies for Peer-to-Peer E-Commerce Applications", Int. Conf. on Informatics (ICI), pp. 11-18, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICI04a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, Y. Eytani, E. Furman, U. Makov, "Developing a Framework for Insurance Underwriting Expert System", Int. Conf. on Informatics (ICI), pp. 191-197, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICI04b.pdf" target="_blank">[PDF]</a></li>
+    <li>Y. Ben-Asher, S. Berkovsky, A. Tammam, E. Shmueli, "Using a J2EE Cluster for Parallel Computation of Join Queries in Distributed Databases", Int. Symposium on Parallel and Distributed Computing (ISPDC), pp. 58-63, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISPDC04.pdf" target="_blank">[PDF]</a></li>
   </ul>  
 </details>
