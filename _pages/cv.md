@@ -35,11 +35,11 @@ redirect_from:
   <li>Patents: Inventor of 2 patents and 1 submitted patent application</li>
 </ul>
   
-<h4>Research standing</h4>
+<h3>Research standing</h3>
 <ul>
   <li>Grants/funding: Investigator/leader of 15 funded projects</li>
   <ul>
-    <li>Total awards &gt;$8M, managed components &gt;$2.8M</li>
+    <li>Total awards &gt;&dollar;8M, managed components &gt;&dollar;2.8M</li>
  </ul>
   <li>Journals/books: Editorial board member of 6 journals, editor of 4 special issues, editor/author of 3 books and 8 proceedings volumes</li>
   <li>Conferences: steering committee member of 3 conference series, chair of 4 conferences and 5 conference tracks, organising committee member of 8 conferences, chair of 13 workshops</li
@@ -47,7 +47,7 @@ redirect_from:
   <li>Network: Established collaborations with research (Univ. of Sydney, Free Univ. of Bolzano, Univ. of Haifa, UTS, Univ. Autonoma de Madrid, DFKI, Clemson Univ., etc) and industry (Adobe, Microsoft, Google, IBM, Telefonica, Optus, etc) partners</li>
 </ul>
   
-<h4>Teaching and student supervision</h4>
+<h3>Teaching and student supervision</h3>
 <ul>
   <li>Teaching: Lecturer of 4 courses and teaching assistant of 7 courses at under- and post-graduate levels, presenter of 3 invited research courses at international summer schools</li>
   <li>Supervision: 7 post-doctoral fellows, 7 PhD students, 5 Masters/Honours students, 5 graduate interns, 19 undergraduate interns/projects</li>
