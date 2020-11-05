@@ -6,4 +6,4 @@ author_profile: true
 redirect_from: 
 ---
 
-Updates come here
+Updates go here
