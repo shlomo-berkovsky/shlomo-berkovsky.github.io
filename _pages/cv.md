@@ -11,7 +11,7 @@ redirect_from:
 <ul>
   <li>Currently: Associate Professor and Stream Leader at Macquarie University </li>
   <li>Past positions:</li>
-    <u>	
+  <ul>	
       <li>Data Science and Product Analytics Senior Manager at Atlassian</li>
 	    <li>Principal researcher, senior researcher, and researcher at CSIRO</li>
         <ul>	
