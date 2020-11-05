@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shlomo Berkovsky's page"
-title_separator          : "|"
+title                    : "Shlomo Berkovsky"
+title_separator          : "-"
 name                     : &name "Shlomo Berkovsky"
 description              : &description "personal description"
 url                      : https://shlomo-berkovsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
