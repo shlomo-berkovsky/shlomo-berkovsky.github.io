@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Shlomo Berkovsky"
 title_separator          : "-"
 name                     : &name "Shlomo Berkovsky"
 description              : &description "personal description"
