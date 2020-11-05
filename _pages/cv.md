@@ -42,7 +42,7 @@ redirect_from:
     <li>Total awards &gt;\$8M, managed components &gt;\$2.8M</li>
  </ul>
   <li>Journals/books: Editorial board member of 6 journals, editor of 4 special issues, editor/author of 3 books and 8 proceedings volumes</li>
-  <li>Conferences: steering committee member of 3 conference series, chair of 4 conferences and 5 conference tracks, organising committee member of 8 conferences, chair of 13 workshops</li
+  <li>Conferences: steering committee member of 3 conference series, chair of 4 conferences and 5 conference tracks, organising committee member of 8 conferences, chair of 13 workshops</li>
   <li>Reviewing: 42 journals, 118 conferences (including 25 times senior member)</li>
   <li>Network: Established collaborations with research (Univ. of Sydney, Free Univ. of Bolzano, Univ. of Haifa, UTS, Univ. Autonoma de Madrid, DFKI, Clemson Univ., etc) and industry (Adobe, Microsoft, Google, IBM, Telefonica, Optus, etc) partners</li>
 </ul>
