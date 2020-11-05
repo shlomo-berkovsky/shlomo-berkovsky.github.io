@@ -25,7 +25,7 @@ redirect_from:
   
 <h3>Publications and citations</h3>
 <ul>
-  <li> &gt;160 peer-refereed publications</li>
+  <li> 158 peer-refereed publications</li>
   <ul>
     <li>38 journal papers, 10 book chapters, 83 conference papers</li>
   </ul>
@@ -39,7 +39,7 @@ redirect_from:
 <ul>
   <li>Grants/funding: Investigator/leader of 15 funded projects</li>
   <ul>
-    <li>Total awards &gt;&#36;8M, managed components &gt;&#36;2.8M</li>
+    <li>Total awards over $$8M, managed components over $$2.8M</li>
  </ul>
   <li>Journals/books: Editorial board member of 6 journals, editor of 4 special issues, editor/author of 3 books and 8 proceedings volumes</li>
   <li>Conferences: steering committee member of 3 conference series, chair of 4 conferences and 5 conference tracks, organising committee member of 8 conferences, chair of 13 workshops</li
