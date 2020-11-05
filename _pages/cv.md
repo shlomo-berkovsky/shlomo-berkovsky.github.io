@@ -1,59 +1,18 @@
 ---
 layout: archive
-title: "CV"
+title: "CV Synopsis"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h3> Employment </h3>
+<u>Research Positions</u>
+<ul>
+  <li> <b>2019-cur.:</b> Associate Professor and Stream Leader, Australian Institute for Health Innovation, Macquarie University </li>
+  <li> <b>2014-2018:</b> Senior Research Scientist and Principal Research Scientist, Team Leader, Data61, Commonwealth Scientific and Industrial Research Organisation (CSIRO) </li>
+  <li> <b>2012-2014:</b> Senior Researcher, Networking and Mobile Systems Research Group, National ICT of Australia (NICTA) </li>
+  <li> <b>2008-2012:</b> Research Scientist and Senior Research Scientist, Team Leader, ICT Centre, Commonwealth Scientific and Industrial Research Organisation (CSIRO) </li>
+  <li> <b>2007-2008:</b> Post-Doctoral Research Fellow, Computer Science and Software Engineering Department, University of Melbourne </li>
+ </ul
