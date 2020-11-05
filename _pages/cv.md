@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<h3> Professional experience </h3>
+<h4> Professional experience </h4>
 <ul>
   <li>Currently: Associate Professor and Stream Leader at Macquarie University </li>
   <li>Past positions:</li>
@@ -22,7 +22,7 @@ redirect_from:
   <li>Qualifications: PhD summa cum laude, MSc cum laude, BSc, Diploma in Commercialisation</li>
  </ul>
   
-<h3>Publications and citations</h3>
+<h4>Publications and citations</h4>
 <ul>
   <li> &gt;160 peer-refereed publications</li>
   <ul>
@@ -34,7 +34,7 @@ redirect_from:
   <li>Patents: Inventor of 2 patents and 1 submitted patent application</li>
 </ul>
   
-<h3>Research standing</h3>
+<h4>Research standing</h4>
 <ul>
   <li>Grants/funding: Investigator/leader of 15 funded projects</li>
   <ul>
@@ -46,7 +46,7 @@ redirect_from:
   <li>Network: Established collaborations with research (Univ. of Sydney, Free Univ. of Bolzano, Univ. of Haifa, UTS, Univ. Autonoma de Madrid, DFKI, Clemson Univ., etc) and industry (Adobe, Microsoft, Google, IBM, Telefonica, Optus, etc) partners</li>
 </ul>
   
-<h3>Teaching and student supervision</h3>
+<h4>Teaching and student supervision</h4>
 <ul>
   <li>Teaching: Lecturer of 4 courses and teaching assistant of 7 courses at under- and post-graduate levels, presenter of 3 invited research courses at international summer schools</li>
   <li>Supervision: 7 post-doctoral fellows, 7 PhD students, 5 Masters/Honours students, 5 graduate interns, 19 undergraduate interns/projects</li>
