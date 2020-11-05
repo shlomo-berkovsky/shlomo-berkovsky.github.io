@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-<h4> Professional experience </h4>
+<h3> Professional experience </h3>
 <ul>
   <li>Currently: Associate Professor and Stream Leader at Macquarie University </li>
   <li>Past positions:</li>
   <ul>	
-      <li>Data Science and Product Analytics Senior Manager at Atlassian</li>
-	    <li>Principal researcher, senior researcher, and researcher at CSIRO</li>
+      	<li>Data Science and Product Analytics Senior Manager at Atlassian</li>
+	<li>Principal researcher, senior researcher, and researcher at CSIRO</li>
         <ul>	
           <li>Leader of cross-functional research team</li>
           <li>Leader of research and business projects</li>
@@ -21,8 +21,9 @@ redirect_from:
       <li>Post-doctoral research fellow at the University of Melbourne</li>
   <li>Qualifications: PhD summa cum laude, MSc cum laude, BSc, Diploma in Commercialisation</li>
  </ul>
+</ul>
   
-<h4>Publications and citations</h4>
+<h3>Publications and citations</h3>
 <ul>
   <li> &gt;160 peer-refereed publications</li>
   <ul>
