@@ -39,7 +39,7 @@ redirect_from:
 <ul>
   <li>Grants/funding: Investigator/leader of 15 funded projects</li>
   <ul>
-    <li>Total awards over &#x24;8M, managed components over &#x24;2.8M</li>
+    <li>Total awards over &dollar;8M, managed components over &dollar;2.8M</li>
  </ul>
   <li>Journals/books: Editorial board member of 6 journals, editor of 4 special issues, editor/author of 3 books and 8 proceedings volumes</li>
   <li>Conferences: steering committee member of 3 conference series, chair of 4 conferences and 5 conference tracks, organising committee member of 8 conferences, chair of 13 workshops</li
