@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-More in my [Twitter](https://twitter.com/slavaxx) and [LinkedIn](https://www.linkedin.com/in/shlomoberkovsky/).
+More in my <a href="https://twitter.com/slavaxx" target=_blank>Twitter</a> and <a href="https://www.linkedin.com/in/shlomoberkovsky/" target=_blank>LinkedIn</a>.
 
 
 <ul>
