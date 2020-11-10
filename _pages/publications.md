@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Up to date list of publications on my [Google Scholar](https://scholar.google.com.au/citations?user=o98HOrMAAAAJ) page.
+Up to date list of publications on my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a> page.
 
 
 <details>
