@@ -51,7 +51,7 @@ Up to date list of publications on my <a href="https://scholar.google.com.au/cit
   
   <h5>Chapters</h5>
   <ul>
-  <li> A. Tiroshi, T. Kuflik, S. Berkovsky, M.A. Kaafar, "Graph Based Recommendations: From Data Representation to Feature Extraction and Application", in O. Khalid, S.U. Khan, A.Y. Zomaya: Big Data Recommender Systems: Recent Trends and Advances, pp.407-454, Institution of Engineering and Technology, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IET2019.pdf" target="_blank">[PDF]</a></li>
+  <li> A. Tiroshi, T. Kuflik, S. Berkovsky, M.A. Kaafar, "Graph Based Recommendations: From Data Representation to Feature Extraction and Application", in O. Khalid, S.U. Khan, A.Y. Zomaya: Big Data Recommender Systems: Recent Trends and Advances, pp.407-454, Institution of Engineering and Technology, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IET2019a.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
   <h5>Conferences</h5>
