@@ -14,6 +14,10 @@ Up to date list of publications on my <a href="https://scholar.google.com.au/cit
 </summary>
   <h5>Journals</h5>
      <ul>
+     <li>	Y. Gao, X. Xiao, B. Han, G. Li, X. Ning, D. Wang, W. Cai, R. Kikinis, S. Berkovsky, A. Di Ieva, L. Zhang, N. Ji, S. Liu, "Deep Learning Methodology for Differentiating Glioma Recurrence from Radiation Necrosis using Multimodal MRI: Algorithm Development and Validation", Journal of Medical Internet Research Medical Informatics (JMIR MedInfo), vol. 8(11), e. 19805, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIRMI20.pdf" target="_blank">[PDF]</a></li> 
+     <li>	A.B. Kocaballi, K. Ijaz, L. Laranjo, J.C. Quiroz, D.Rezazadegan, H.L. Tong, S. Willcock, S. Berkovsky, E. Coiera, "Envisioning an Artificial Intelligence Documentation Assistant for Future Primary Care Consultations: A Co-design Study with General Practitioners", Journal of the American Medical Informatics Association (JAMIA), vol. 27(11), pp. 1695-1704, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/JAMIA20.pdf" target="_blank">[PDF]</a></li>
+     <li>	J.C. Quiroz, L. Laranjo, C. Tufanaru, A.B. Kocaballi, D. Rezazadegan, S. Berkovsky, E. Coiera, "Empirical Analysis of Zipf's Law, Power law, and Lognormal Distributions in Medical Discharge Reports", International Journal of Medical Informatics, vol. 145, e. 104324, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJMI20.pdf" target="_blank">[PDF]</a></li>
+     <li>	H. Xiong, Y.Y. Tang, F. Murtagh, L. Rutkowski, S. Berkovsky, "A Diversified Shared Latent Variable Model for Efficient Image Characteristics Extraction and Modelling", Neurocomputing, vol. 421, pp. 244-259, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/NeuroComp20.pdf" target="_blank">[PDF]</a></li>
     <li>	R. Taib, S. Berkovsky, I. Koprinska, E. Wang, Y. Zeng, J. Li, "Personality Sensing: Detection of Personality Traits Using Physiological Responses to Image and Video Stimuli", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 10(3), e. 18, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS20.pdf" target="_blank">[PDF]</a></li>
     <li>	D. Jannach, B. Mobasher, S. Berkovsky "Research Directions in Session-Based and Sequential Recommendation", User Modeling and User-Adapted Interaction (UMUAI), vol. 30(4), pp. 609-616, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMUAI20.pdf" target="_blank">[PDF]</a></li>
     <li>	S. Liu, Z. Shah, A. Sav, C. Russo, S. Berkovsky, Y. Qian, E. Coiera, A. Di Ieva, "Isocitrate Dehydrogenase (IDH) Status Prediction in Histopathology Images of Gliomas using Deep Learning", Nature Scientific Reports, vol. 10, e. 7733, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/SciRep20.pdf" target="_blank">[PDF]</a></li>
@@ -51,7 +55,7 @@ Up to date list of publications on my <a href="https://scholar.google.com.au/cit
   
   <h5>Chapters</h5>
   <ul>
-  <li> A. Tiroshi, T. Kuflik, S. Berkovsky, M.A. Kaafar, "Graph Based Recommendations: From Data Representation to Feature Extraction and Application", in O. Khalid, S.U. Khan, A.Y. Zomaya: Big Data Recommender Systems: Recent Trends and Advances, pp.407-454, Institution of Engineering and Technology, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IET2019.pdf" target="_blank">[PDF]</a></li>
+  <li> A. Tiroshi, T. Kuflik, S. Berkovsky, M.A. Kaafar, "Graph Based Recommendations: From Data Representation to Feature Extraction and Application", in O. Khalid, S.U. Khan, A.Y. Zomaya: Big Data Recommender Systems: Recent Trends and Advances, pp.407-454, Institution of Engineering and Technology, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IET2019a.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
   <h5>Conferences</h5>
