@@ -29,7 +29,7 @@ redirect_from:
   <ul>
     <li>38 journal papers, 10 book chapters, 83 conference papers</li>
   </ul>
-  <li>Citations: ~4000 citations, h-index=33, i10-index=87, m-Index=2.14</li>
+  <li>Citations: ~4000 citations, h-index=34, i10-index=88, m-Index=2.125</li>
   <li>Keynotes and presentations: 10 keynotes and invited talks, 11 tutorials, 4 panels</li>
   <li>Awards: 3 conference Best Paper awards, 3 Best Paper nominations, 4 iAward prizes</li>
   <li>Patents: Inventor of 2 patents and 1 submitted patent application</li>
