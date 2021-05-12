@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<h5> (likely outdated) </h5>
+
 
 <h3> Professional experience </h3>
 <ul>
