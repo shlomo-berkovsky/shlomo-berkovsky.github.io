@@ -12,12 +12,22 @@ Up to date list of publications on my <a href="https://scholar.google.com.au/cit
 2021
 </summary>
   <h5>Journals</h5>
-     <ul>
-       <li>	R.V. Sharan, S. Berkovsky, D. Fraile Navarro, H. Xiong, A. Jaffe. "Detecting Pertussis in the Pediatric Population Using Respiratory Sound Events and CNN", Biomedical Signal Processing and Control, vol. 68, e. 102722, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/BSPC21.pdf" target="_blank">[PDF]</a></li> 
-      <li>	J.C. Quiroz, Y.Z. Feng, Z.Y. Cheng, D. Rezazadegan, P.K. Chen, Q.T. Lin, L. Qian, X.F. Liu, S. Berkovsky, E. Coiera, L. Song, X Qiu, S. Liu, X.R. Cai, "Development and Validation of a Machine Learning Approach for Automated Severity Assessment of COVID-19 Based on Clinical and Imaging Data: Retrospective Study", Journal of Medical Internet Research Medical Informatics (JMIR MedInfo), vol. 9(2), e. 24572, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIRMI21.pdf" target="_blank">[PDF]</a></li> 
-      <li>	J.C. Quiroz, L. Laranjo, C. Tufanaru, A.B. Kocaballi, D. Rezazadegan, S. Berkovsky, E. Coiera, "Empirical Analysis of Zipf's Law, Power law, and Lognormal Distributions in Medical Discharge Reports", International Journal of Medical Informatics, vol. 145, e. 104324, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJMI20a.pdf" target="_blank">[PDF]</a></li>
+     <ul>    
+      <li> G. Tangari, M. Ikram, K. Ijaz, M.A. Kaafar, S. Berkovsky, "Mobile Health and Privacy: Cross Sectional Study", British Medical Journal (BMJ), vol. 373, e. 1248, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/BMJ21.pdf" target="_blank">[PDF]</a></li>
+      <li> S. Liu, T. Meng, C. Russo, A. Di Ieva, S. Berkovsky, L. Peng, W. Dou, L. Qian, "Brain Volumetric and Fractal Analysis of Synthetic MRI: A Comparative Study with Conventional 3D T1-Weighted Images", European Journal of Radiology, vol. 141, e. 109782, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/EJR21.pdf" target="_blank">[PDF]</a></li>
+      <li> M. Rashed-Al-Mahfuz, M.A. Moni, P. Lio, S.M.S. Islam, S. Berkovsky, M. Khushi, J.M.W. Quinn, "Deep Convolutional Neural Networks Based ECG Beats Classification to Diagnose Cardiovascular Conditions", Biomedical Engineering Letters, vol. 11, pp. 147-162, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/BMEL21.pdf" target="_blank">[PDF]</a></li>
+      <li> R.V. Sharan, H. Xiong, S. Berkovsky, "Benchmarking Audio Signal Representation Techniques for Classification with Convolutional Neural Networks", MDPI Sensors, vol. 21, e. 3434, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/Sensors21.pdf" target="_blank">[PDF]</a></li>   
+      <li> R.V. Sharan, S. Berkovsky, D. Fraile Navarro, H. Xiong, A. Jaffe. "Detecting Pertussis in the Pediatric Population Using Respiratory Sound Events and CNN", Biomedical Signal Processing and Control, vol. 68, e. 102722, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/BSPC21.pdf" target="_blank">[PDF]</a></li> 
+      <li> J.C. Quiroz, Y.Z. Feng, Z.Y. Cheng, D. Rezazadegan, P.K. Chen, Q.T. Lin, L. Qian, X.F. Liu, S. Berkovsky, E. Coiera, L. Song, X Qiu, S. Liu, X.R. Cai, "Development and Validation of a Machine Learning Approach for Automated Severity Assessment of COVID-19 Based on Clinical and Imaging Data: Retrospective Study", Journal of Medical Internet Research Medical Informatics (JMIR MedInfo), vol. 9(2), e. 24572, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIRMI21.pdf" target="_blank">[PDF]</a></li> 
+      <li> J.C. Quiroz, L. Laranjo, C. Tufanaru, A.B. Kocaballi, D. Rezazadegan, S. Berkovsky, E. Coiera, "Empirical Analysis of Zipf's Law, Power law, and Lognormal Distributions in Medical Discharge Reports", International Journal of Medical Informatics, vol. 145, e. 104324, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJMI20a.pdf" target="_blank">[PDF]</a></li>
      <li>	H. Xiong, Y.Y. Tang, F. Murtagh, L. Rutkowski, S. Berkovsky, "A Diversified Shared Latent Variable Model for Efficient Image Characteristics Extraction and Modelling", Neurocomputing, vol. 421, pp. 244-259, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/NeuroComp20.pdf" target="_blank">[PDF]</a></li>
     </ul>
+  
+    <h5>Conferences</h5>
+  <ul>
+  <li> C. Cong, S. Liu, A. Di Ieva, M. Pagnucco, S. Berkovsky, Y. Song, "Texture Enhanced Generative Adversarial Network for Stain Normalisation in Histopathology Images", International Symposium on Biomedical Imaging (ISBI), pp. 1949-1952, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI21.pdf" target="_blank">[PDF]</a></li>
+  </ul>
+  
 </details>
 
 
@@ -46,7 +56,6 @@ Up to date list of publications on my <a href="https://scholar.google.com.au/cit
   <li>	R.V. Sharan, S. Berkovsky, S. Liu, "Voice Command Recognition using Biologically Inspired Time-Frequency Representation and Convolutional Neural Networks", Int. Conf. of the Engineering in Medicine and Biology Society (EMBC), pp. 998-1001, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/EMBC20e.pdf" target="_blank">[PDF]</a></li>
   <li>	H. Xiong, S. Berkovsky, R.V. Sharan, S. Liu, E. Coiera, "Robust Vision Based Workout Analysis using Diversified Deep Latent Variable Model", Int. Conf. of the Engineering in Medicine and Biology Society (EMBC), pp. 2155-2158, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/EMBC20a.pdf" target="_blank">[PDF]</a></li>
   <li> A.B. Kocaballi, E. Coiera, S. Berkovsky, "Revisiting Habitability in Conversational Systems", Int. Conf. on Human Factors in Computing Systems (CHI), e. 205, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI20.pdf" target="_blank">[PDF]</a></li>
-
   </ul>
 </details>
 
