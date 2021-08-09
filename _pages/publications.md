@@ -25,6 +25,7 @@ Up to date list of publications on my <a href="https://scholar.google.com.au/cit
   
     <h5>Conferences</h5>
   <ul>
+    <li>I.W.B. Sentana, M. Ikram, M.A. Kaafar, S. Berkovsky, "Empirical Security and Privacy Analysis of Mobile Symptom Checking Apps on Google Play", International Conference on Security and Cryptography (SECRYPT), pp. 665-773, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/SECRYPT21.pdf" target="_blank">[PDF]</a></li>  
   <li> C. Cong, S. Liu, A. Di Ieva, M. Pagnucco, S. Berkovsky, Y. Song, "Texture Enhanced Generative Adversarial Network for Stain Normalisation in Histopathology Images", International Symposium on Biomedical Imaging (ISBI), pp. 1949-1952, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI21.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
