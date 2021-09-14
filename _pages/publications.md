@@ -5,14 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-Up to date list of publications on my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a> page.
+Up to date list of publications at my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a> page.
 
 <details>
   <summary>
 2021
 </summary>
   <h5>Journals</h5>
-     <ul>    
+     <ul>
+       <li> S. Wang, L. Cao, L. Hu, S. Berkovsky, X. Huang, L. Xiao, W. Lu, "Jointly Modeling Intra- and Inter-Transaction Dependencies with Hierarchical Attentive Transaction Embeddings for Next-item Recommendation", IEEE Intelligent Systems, vol. 36(4), pp. 56-64, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/IntSyst21.pdf" target="_blank">[PDF]</a></li>
+      <li> G. Wali, S. Berkovsky, D. Whiten, A. Mackay-Sim, C.M. Sue, "Single Cell Morphology Distinguishes Genotype and Drug Effect in Hereditary Spastic Paraplegia", Scientific Reports, vol. 11, e. 16635, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/SciRep21.pdf" target="_blank">[PDF]</a></li>
       <li> G. Tangari, M. Ikram, K. Ijaz, M.A. Kaafar, S. Berkovsky, "Mobile Health and Privacy: Cross Sectional Study", British Medical Journal (BMJ), vol. 373, e. 1248, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/BMJ21.pdf" target="_blank">[PDF]</a></li>
       <li> S. Liu, T. Meng, C. Russo, A. Di Ieva, S. Berkovsky, L. Peng, W. Dou, L. Qian, "Brain Volumetric and Fractal Analysis of Synthetic MRI: A Comparative Study with Conventional 3D T1-Weighted Images", European Journal of Radiology, vol. 141, e. 109782, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/EJR21.pdf" target="_blank">[PDF]</a></li>
       <li> M. Rashed-Al-Mahfuz, M.A. Moni, P. Lio, S.M.S. Islam, S. Berkovsky, M. Khushi, J.M.W. Quinn, "Deep Convolutional Neural Networks Based ECG Beats Classification to Diagnose Cardiovascular Conditions", Biomedical Engineering Letters, vol. 11, pp. 147-162, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/BMEL21.pdf" target="_blank">[PDF]</a></li>
