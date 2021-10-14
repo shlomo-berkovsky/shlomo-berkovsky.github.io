@@ -12,8 +12,12 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
 2021
 </summary>
   <h5>Journals</h5>
-     <ul>
-       <li> S. Wang, L. Cao, L. Hu, S. Berkovsky, X. Huang, L. Xiao, W. Lu, "Jointly Modeling Intra- and Inter-Transaction Dependencies with Hierarchical Attentive Transaction Embeddings for Next-item Recommendation", IEEE Intelligent Systems, vol. 36(4), pp. 56-64, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/IntSyst21.pdf" target="_blank">[PDF]</a></li>
+     <ul> 
+      <li> R.V. Sharan, S. Berkovsky, H. Xiong, E. Coiera, "End-to-End Sleep Apnea Detection Using Single-Lead ECG Signal and 1-D Residual Neural Networks", Journal of Medical and Biological Engineering, vol. 41, pp. 758-766, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMBE21.pdf" target="_blank">[PDF]</a></li>
+      <li> H. Xiong, S. Berkovsky, M. Romano, R.V. Sharan, S. Liu, E. Coiera, L. McLellan, "Prediction of Anxiety Disorders Using a Feature Ensemble Based Bayesian Neural Network", Journal of Biomedical Informatics (JBI), vol. 123, e. 103921, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/JBI21.pdf" target="_blank">[PDF]</a></li>
+      <li> S. Berkovsky, E.Coiera, "Health Personalisation: From Wellbeing to Medicine", ACM Special Inerest Group on Hypertext and the Web (SIGWeb) Newsletter, Summer, e. 4, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/SIGWeb21.pdf" target="_blank">[PDF]</a></li>
+      <li> G. Tangari, M. Ikram, I.W.B Sentana, K. Ijaz, M.A. Kaafar, S. Berkovsky, "Analyzing Security Issues of Android Mobile Health and Medical Applications", Journal of the American Medical Informatics Association (JAMIA), vol. 28(10), pp. 2074-2084, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/JAMIA21.pdf" target="_blank">[PDF]</a></li>
+      <li> S. Wang, L. Cao, L. Hu, S. Berkovsky, X. Huang, L. Xiao, W. Lu, "Jointly Modeling Intra- and Inter-Transaction Dependencies with Hierarchical Attentive Transaction Embeddings for Next-item Recommendation", IEEE Intelligent Systems, vol. 36(4), pp. 56-64, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/IntSyst21.pdf" target="_blank">[PDF]</a></li>
       <li> G. Wali, S. Berkovsky, D. Whiten, A. Mackay-Sim, C.M. Sue, "Single Cell Morphology Distinguishes Genotype and Drug Effect in Hereditary Spastic Paraplegia", Scientific Reports, vol. 11, e. 16635, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/SciRep21.pdf" target="_blank">[PDF]</a></li>
       <li> G. Tangari, M. Ikram, K. Ijaz, M.A. Kaafar, S. Berkovsky, "Mobile Health and Privacy: Cross Sectional Study", British Medical Journal (BMJ), vol. 373, e. 1248, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/BMJ21.pdf" target="_blank">[PDF]</a></li>
       <li> S. Liu, T. Meng, C. Russo, A. Di Ieva, S. Berkovsky, L. Peng, W. Dou, L. Qian, "Brain Volumetric and Fractal Analysis of Synthetic MRI: A Comparative Study with Conventional 3D T1-Weighted Images", European Journal of Radiology, vol. 141, e. 109782, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/EJR21.pdf" target="_blank">[PDF]</a></li>
@@ -27,8 +31,9 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
   
     <h5>Conferences</h5>
   <ul>
-    <li>I.W.B. Sentana, M. Ikram, M.A. Kaafar, S. Berkovsky, "Empirical Security and Privacy Analysis of Mobile Symptom Checking Apps on Google Play", International Conference on Security and Cryptography (SECRYPT), pp. 665-773, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/SECRYPT21.pdf" target="_blank">[PDF]</a></li>  
-  <li> C. Cong, S. Liu, A. Di Ieva, M. Pagnucco, S. Berkovsky, Y. Song, "Texture Enhanced Generative Adversarial Network for Stain Normalisation in Histopathology Images", International Symposium on Biomedical Imaging (ISBI), pp. 1949-1952, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI21.pdf" target="_blank">[PDF]</a></li>
+    <li> [63]	C. Cong, S. Liu, A. Di Ieva, M. Pagnucco, S. Berkovsky, Y. Song, "Semi-Supervised Adversarial Learning for Stain Normalisation in Histopathology Images", International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 580-591, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/MICCAI21.pdf" target="_blank">[PDF]</a></li>
+    <li> I.W.B. Sentana, M. Ikram, M.A. Kaafar, S. Berkovsky, "Empirical Security and Privacy Analysis of Mobile Symptom Checking Apps on Google Play", International Conference on Security and Cryptography (SECRYPT), pp. 665-773, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/SECRYPT21.pdf" target="_blank">[PDF]</a></li>  
+    <li> C. Cong, S. Liu, A. Di Ieva, M. Pagnucco, S. Berkovsky, Y. Song, "Texture Enhanced Generative Adversarial Network for Stain Normalisation in Histopathology Images", International Symposium on Biomedical Imaging (ISBI), pp. 1949-1952, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI21.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
 </details>
