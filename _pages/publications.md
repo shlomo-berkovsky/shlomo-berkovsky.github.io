@@ -13,7 +13,7 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
 </summary>
   <h5>Journals</h5>
      <ul> 
-      <li> D. Rezazadegan, S. Berkovsky, J.C. Quiroz, A.B. Kocaballi, Y. Wang, L. Laranjo, E. Coiera, "Symbolic and Statistical Learning Approaches to Speech Summarization: A Scoping Review", Computer Speech and Language (CLS), vol. 72, e. 101305, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/CSL.pdf" target="_blank">[PDF]</a></li>
+      <li> D. Rezazadegan, S. Berkovsky, J.C. Quiroz, A.B. Kocaballi, Y. Wang, L. Laranjo, E. Coiera, "Symbolic and Statistical Learning Approaches to Speech Summarization: A Scoping Review", Computer Speech and Language (CLS), vol. 72, e. 101305, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/CSL22.pdf" target="_blank">[PDF]</a></li>
     </ul>  
 </details>
 
