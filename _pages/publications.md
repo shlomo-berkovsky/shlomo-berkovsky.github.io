@@ -9,6 +9,19 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
 
 <details>
   <summary>
+2022
+</summary>
+  <h5>Journals</h5>
+     <ul> 
+      <li> D. Rezazadegan, S. Berkovsky, J.C. Quiroz, A.B. Kocaballi, Y. Wang, L. Laranjo, E. Coiera, "Symbolic and Statistical Learning Approaches to Speech Summarization: A Scoping Review", Computer Speech and Language (CLS), vol. 72, e. 101305, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/CSL.pdf" target="_blank">[PDF]</a></li>
+    </ul>  
+</details>
+
+
+
+
+<details>
+  <summary>
 2021
 </summary>
   <h5>Journals</h5>
@@ -35,7 +48,6 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
     <li> I.W.B. Sentana, M. Ikram, M.A. Kaafar, S. Berkovsky, "Empirical Security and Privacy Analysis of Mobile Symptom Checking Apps on Google Play", International Conference on Security and Cryptography (SECRYPT), pp. 665-773, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/SECRYPT21.pdf" target="_blank">[PDF]</a></li>  
     <li> C. Cong, S. Liu, A. Di Ieva, M. Pagnucco, S. Berkovsky, Y. Song, "Texture Enhanced Generative Adversarial Network for Stain Normalisation in Histopathology Images", International Symposium on Biomedical Imaging (ISBI), pp. 1949-1952, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI21.pdf" target="_blank">[PDF]</a></li>
   </ul>
-  
 </details>
 
 
