@@ -50,7 +50,7 @@ redirect_from:
   
 <h3>Teaching and student supervision</h3>
 <ul>
-  <li>Teaching: Lecturer of 4 courses and teaching assistant of 7 courses at under- and post-graduate levels, presenter of 3 invited research courses at international summer schools</li>
+  <li>Teaching: Lecturer of 4 and TA of 7 under-/post-graduate courses, presenter of 3 invited courses at international summer schools</li>
   <li>Supervision: 7 post-doctoral fellows, 8 PhD students, 5 Masters/Honours students, 5 graduate interns, 24 undergraduate interns</li>
   <li>Thesis examination: External examiner of 10 PhD/Masters theses</li>
 </ul>
