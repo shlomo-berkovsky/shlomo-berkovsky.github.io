@@ -15,14 +15,13 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
      <ul> 
       <li> D. Rezazadegan, S. Berkovsky, J.C. Quiroz, A.B. Kocaballi, Y. Wang, L. Laranjo, E. Coiera, "Symbolic and Statistical Learning Approaches to Speech Summarization: A Scoping Review", Computer Speech and Language (CLS), vol. 72, e. 101305, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/CSL22.pdf" target="_blank">[PDF]</a></li>
     </ul>  
-</details>
 
   <h5>Chapters</h5>
   <ul>
   <li> R. Masood, S. Berkovsky, M.A. Kaafar, "Tracking and Personalization", in B.P. Knijnenburg, X. Page, P. Wisniewski, H. Richter Lipford, N. Proferes, J.Romano: Modern Socio-Technical Perspectives on Privacy, pp. 171-202, Springer, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer22a.pdf" target="_blank">[PDF]</a></li>
   <li> V.G. Motti, S. Berkovsky, "Healthcare Privacy", in B.P. Knijnenburg, X. Page, P. Wisniewski, H. Richter Lipford, N. Proferes, J.Romano: Modern Socio-Technical Perspectives on Privacy, pp. 203-231, Springer, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer22b.pdf" target="_blank">[PDF]</a></li>
   </ul>
-
+</details>
 
 <details>
   <summary>
