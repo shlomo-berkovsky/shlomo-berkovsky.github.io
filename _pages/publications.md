@@ -17,7 +17,11 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
     </ul>  
 </details>
 
-
+  <h5>Chapters</h5>
+  <ul>
+  <li> R. Masood, S. Berkovsky, M.A. Kaafar, "Tracking and Personalization", in B.P. Knijnenburg, X. Page, P. Wisniewski, H. Richter Lipford, N. Proferes, J.Romano: Modern Socio-Technical Perspectives on Privacy, pp. 171-202, Springer, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer22a.pdf" target="_blank">[PDF]</a></li>
+  <li> V.G. Motti, S. Berkovsky, "Healthcare Privacy", in B.P. Knijnenburg, X. Page, P. Wisniewski, H. Richter Lipford, N. Proferes, J.Romano: Modern Socio-Technical Perspectives on Privacy, pp. 203-231, Springer, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer22b.pdf" target="_blank">[PDF]</a></li>
+  </ul>
 
 
 <details>
@@ -26,6 +30,7 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
 </summary>
   <h5>Journals</h5>
      <ul> 
+      <li> Y.Z. Feng, S. Liu, Z.Y. Cheng, J.C. Quiroz, D. Rezazadegan, P.K. Chen, Q.T. Lin, L. Qian, X.F. Liu, S. Berkovsky, E. Coiera, L. Song, X.M. Qiu, X.R. Cai, "Severity Assessment and Progression Prediction of COVID-19 Patients Based on the LesionEncoder Framework and Chest CT", Information, vol. 12(11), e. 471, 2021. <a href="https://shlomo-berkovsky.github.io/files/pdf/Information21.pdf" target="_blank">[PDF]</a></li> 
       <li> R.V. Sharan, S. Berkovsky, H. Xiong, E. Coiera, "End-to-End Sleep Apnea Detection Using Single-Lead ECG Signal and 1-D Residual Neural Networks", Journal of Medical and Biological Engineering, vol. 41, pp. 758-766, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMBE21.pdf" target="_blank">[PDF]</a></li>
       <li> H. Xiong, S. Berkovsky, M. Romano, R.V. Sharan, S. Liu, E. Coiera, L. McLellan, "Prediction of Anxiety Disorders Using a Feature Ensemble Based Bayesian Neural Network", Journal of Biomedical Informatics (JBI), vol. 123, e. 103921, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/JBI21.pdf" target="_blank">[PDF]</a></li>
       <li> S. Berkovsky, E.Coiera, "Health Personalisation: From Wellbeing to Medicine", ACM Special Inerest Group on Hypertext and the Web (SIGWeb) Newsletter, Summer, e. 4, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/SIGWeb21.pdf" target="_blank">[PDF]</a></li>
@@ -89,6 +94,7 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
   <li> A.B. Kocaballi, S. Berkovsky, J.C. Quiroz, L. Laranjo, H.L. Tong, D. Rezazadegan, A. Briatore, E. Coiera, "The Personalization of Conversational Agents in Healthcare: Systematic Review", Journal of Medical Internet Research (JMIR), vol. 21(11), e. 15360, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIR19.pdf" target="_blank">[PDF]</a></li>
 
   </ul>
+  
   <h5>Books/Edited</h5>
   <ul>
    <li> S. Berkovsky, I. Cantador, D. Tikk, "Collaborative Recommendations: Algorithms, Practical Challenges, and Applications", World Scientific, ISBN 978-9-8132-7534-8, 2019      <a href="https://shlomo-berkovsky.github.io/files/pdf/CFBook19.pdf" target="_blank">[PDF]</a></li>
