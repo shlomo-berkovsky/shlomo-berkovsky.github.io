@@ -8,12 +8,14 @@ author_profile: true
 Up to date list of publications at my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a> page.
 
 <details>
-  <summary>
+<summary>
 2022
 </summary>
   <h5>Journals</h5>
-     <ul> 
-      <li> H. Xiong, S. Liu, R.V. Sharan, E. Coiera, S. Berkovsky, "Weak Label Based Bayesian U-Net for Optic Disc Segmentation in Fundus Images", Artificial Intelligence in Medicine (AIMed), vol. 126, e. 102261, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/AIMed22.pdf" target="_blank">[PDF]</a></li> 
+     <ul>
+      <li> K. Ijaz, T.T.M. Tran, A.B. Kocaballi, R.A. Calvo, S. Berkovsky, N. Ahmadpour, "Design Considerations for Immersive Virtual Reality Applications for Older Adults: A Scoping Review", Multimodal Technologies and Interaction (MTI), vol. 6(7), e. 60, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/MTI22.pdf" target="_blank">[PDF]</a></li> 
+      <li> H. Xiong, H.N. Phan, K. Yin, S. Berkovsky, J. Jung, A.Y.S. Lau, "Identifying Daily Activities of Patient Work for Type 2 Diabetes and Co-morbidities – A Deep Learning and Wearable Camera Approach", Journal of the American Medical Informatics Association (JAMIA), vol. 29(8), pp. 1400-1408, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/JAMIA22.pdf" target="_blank">[PDF]</a></li>  
+      <li> H. Xiong, S. Liu, R.V. Sharan, E. Coiera, S. Berkovsky, "Weak Label Based Bayesian U-Net for Optic Disc Segmentation in Fundus Images", Artificial Intelligence in Medicine (AIMed), vol. 126, e. 102261, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/AIMed22.pdf" target="_blank">[PDF]</a></li>  
       <li> D. Rezazadegan, S. Berkovsky, J.C. Quiroz, A.B. Kocaballi, Y. Wang, L. Laranjo, E. Coiera, "Symbolic and Statistical Learning Approaches to Speech Summarization: A Scoping Review", Computer Speech and Language (CLS), vol. 72, e. 101305, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/CSL22.pdf" target="_blank">[PDF]</a></li>
     </ul>  
 
@@ -23,6 +25,12 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
   <li> R. Masood, S. Berkovsky, M.A. Kaafar, "Tracking and Personalization", in B.P. Knijnenburg, X. Page, P. Wisniewski, H. Richter Lipford, N. Proferes, J.Romano: Modern Socio-Technical Perspectives on Privacy, pp. 171-202, Springer, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer22a.pdf" target="_blank">[PDF]</a></li>
   <li> V.G. Motti, S. Berkovsky, "Healthcare Privacy", in B.P. Knijnenburg, X. Page, P. Wisniewski, H. Richter Lipford, N. Proferes, J.Romano: Modern Socio-Technical Perspectives on Privacy, pp. 203-231, Springer, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer22b.pdf" target="_blank">[PDF]</a></li>
   </ul>
+  
+  <h5>Conferences</h5>
+  <ul>
+    <li> D. Fraile Navarro, M. Dras, S. Berkovsky, "Few-Shot Fine-Tuning SOTA Summarization Models for Medical Dialogues", Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), pp. 254-266, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/NAACL22.pdf" target="_blank">[PDF]</a></li>
+  </ul>
+
 </details>
 
 <details>
