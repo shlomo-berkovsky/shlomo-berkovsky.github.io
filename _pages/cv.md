@@ -17,8 +17,8 @@ redirect_from:
       	<li>Data Science and Product Analytics Senior Manager at Atlassian</li>
 	<li>Principal researcher, senior researcher, and researcher at CSIRO</li>
         <ul>	
-          <li>Leader of cross-functional research team</li>
-          <li>Leader of research and business projects</li>
+          <li>Leader of cross-functional research teams</li>
+          <li>Manager of research and business projects</li>
         </ul>
   <li>Qualifications: PhD summa cum laude, MSc cum laude, BSc, Diploma in Commercialisation</li>
  </ul>
@@ -28,9 +28,9 @@ redirect_from:
 <ul>
   <li> &gt;185 peer-refereed publications</li>
   <ul>
-    <li>56 journal papers, 12 book chapters, 89 conference papers</li>
+    <li>57 journal papers, 12 book chapters, 88 conference papers</li>
   </ul>
-  <li>Citations: &gt;5.4K citations, h-index=38, i10-index=108, m-Index=2.375</li>
+  <li>Citations: &gt;5.6K citations, h-index=39, i10-index=111, m-Index=2.375</li>
   <li>Keynotes and presentations: 11 keynotes and invited talks, 14 tutorials, 5 panels</li>
   <li>Awards: 3 conference Best Paper awards, 3 Best Paper nominations, 4 iAward prizes</li>
   <li>Patents: Inventor of 2 patents and 1 submitted patent application</li>
@@ -40,11 +40,11 @@ redirect_from:
 <ul>
   <li>Grants/funding: Investigator/leader of 20 funded projects</li>
   <ul>
-    <li>Total awards &gt;\$15.3M, managed components &gt;\$3.5M</li>
+    <li>Total awards &gt;\$16.1M, managed components &gt;\$3.6M</li>
  </ul>
   <li>Journals/books: Editorial board member of 7 journals, editor of 5 special issues, editor/author of 3 books and 8 proceedings volumes</li>
   <li>Conferences: steering committee member of 3 conference series, chair of 5 conferences and 5 conference tracks, organising committee member of 8 conferences, chair of 13 workshops</li>
-  <li>Reviewing: 44 journals, 126 conferences (including 29 times senior member)</li>
+  <li>Reviewing: 44 journals, 128 conferences (including 30 times senior member)</li>
   <li>Network: Extensive collaborations with academic, industry, and government partners</li>
 </ul>
   
