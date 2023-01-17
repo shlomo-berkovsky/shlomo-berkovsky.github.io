@@ -26,11 +26,11 @@ redirect_from:
   
 <h3>Publications and citations</h3>
 <ul>
-  <li> &gt;185 peer-refereed publications</li>
+  <li> &gt;180 peer-refereed publications</li>
   <ul>
-    <li>57 journal papers, 12 book chapters, 88 conference papers</li>
+    <li>60 journal papers, 12 book chapters, 88 conference papers</li>
   </ul>
-  <li>Citations: &gt;5.6K citations, h-index=39, i10-index=111, m-Index=2.44</li>
+  <li>Citations: &gt;5.8K citations, h-index=41, i10-index=112, m-Index=2.44</li>
   <li>Keynotes and presentations: 11 keynotes and invited talks, 14 tutorials, 5 panels</li>
   <li>Awards: 3 conference Best Paper awards, 3 Best Paper nominations, 4 iAward prizes</li>
   <li>Patents: Inventor of 2 patents and 1 submitted patent application</li>
@@ -38,12 +38,12 @@ redirect_from:
   
 <h3>Research standing</h3>
 <ul>
-  <li>Grants/funding: Investigator/leader of 20 funded projects</li>
+  <li>Grants/funding: Investigator/leader of 21 funded projects</li>
   <ul>
-    <li>Total awards &gt;\$16.1M, managed components &gt;\$3.6M</li>
+    <li>Total awards &gt;\$17.9M, managed components &gt;\$3.9M</li>
  </ul>
-  <li>Journals/books: Editorial board member of 7 journals, editor of 5 special issues, editor/author of 3 books and 8 proceedings volumes</li>
-  <li>Conferences: steering committee member of 3 conference series, chair of 5 conferences and 5 conference tracks, organising committee member of 8 conferences, chair of 13 workshops</li>
+  <li>Journals/books: Editor-in-Chief of ACM TiiS, editorial board member of 7 journals, editor of 5 special issues, editor/author of 3 books and 8 proceedings volumes</li>
+  <li>Conferences: steering committee member of 3 conferences, chair of 5 conferences and 5 conference tracks, organising committee member of 8 conferences, chair of 13 workshops</li>
   <li>Reviewing: 44 journals, 128 conferences (including 30 times senior member)</li>
   <li>Network: Extensive collaborations with academic, industry, and government partners</li>
 </ul>
