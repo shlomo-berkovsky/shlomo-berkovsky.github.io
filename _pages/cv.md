@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<h5> (likely outdated - more in my <a href="https://twitter.com/slavaxx" target=_blank>Twitter</a> and <a href="https://www.linkedin.com/in/shlomoberkovsky/" target=_blank>LinkedIn</a>) </h5>
+<h5> (likely outdated - more in my <a href="https://www.linkedin.com/in/shlomoberkovsky/" target=_blank>LinkedIn</a>) page </h5>
 
 
 <h3> Professional experience </h3>
