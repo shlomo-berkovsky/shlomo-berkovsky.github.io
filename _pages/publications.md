@@ -31,13 +31,13 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
   
   <h5>Conferences</h5>
   <ul>
-    <li> [73]	R.V. Sharan, H. Xiong, S. Berkovsky, "Detecting Cough Recordings in Crowdsourced Data Using CNN-RNN", International Conference on Biomedical and Health Informatics (BHI), e. 104, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/BHI22.pdf" target="_blank">[PDF]</a></li>
+    <li> R.V. Sharan, H. Xiong, S. Berkovsky, "Detecting Cough Recordings in Crowdsourced Data Using CNN-RNN", International Conference on Biomedical and Health Informatics (BHI), e. 104, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/BHI22.pdf" target="_blank">[PDF]</a></li>
     <li> D. Fraile Navarro, M. Dras, S. Berkovsky, "Few-Shot Fine-Tuning SOTA Summarization Models for Medical Dialogues", Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), pp. 254-266, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/NAACL22.pdf" target="_blank">[PDF]</a></li>
   </ul>
   
   <h5>Workshops</h5>
   <ul>
-    <li> [161]	C. Cong, Y. Yang, S. Liu, M. Pagnucco, A. Di Ieva, S. Berkovsky, Y. Song, "Adaptive Unified Contrastive Learning for Imbalanced Classification", Workshop on Machine Learning in Medical Imaging, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/MICCAI22.pdf" target="_blank">[PDF]</a></li>
+    <li> C. Cong, Y. Yang, S. Liu, M. Pagnucco, A. Di Ieva, S. Berkovsky, Y. Song, "Adaptive Unified Contrastive Learning for Imbalanced Classification", Workshop on Machine Learning in Medical Imaging, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/MICCAI22.pdf" target="_blank">[PDF]</a></li>
   </ul>
 
 </details>
