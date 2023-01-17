@@ -13,6 +13,9 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
 </summary>
   <h5>Journals</h5>
      <ul>
+      <li> H. Xiong, S. Berkovsky, M.A. Kaafar, A. Jaffe, E. Coiera, R.V. Sharan, "Reliability of Crowdsourced Data and Patient-Reported Outcome Measures in Cough-Based COVID-19 Screening", Scientific Reports, vol. 12, e. 21990, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/SciRep22.pdf" target="_blank">[PDF]</a></li>  
+      <li> G.W. van Wyk, S. Berkovsky, D. Fraile Navarro, E. Coiera, "Comparing Health Outcomes between Coronary Interventions in Frail Patients Aged 75 Years or Older with Acute Coronary Syndrome: A Systematic Review", European Geriatric Medicine, vol. 13, pp. 1057-1069, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/EGM22.pdf" target="_blank">[PDF]</a></li> 
+      <li> C. Cong, S. Liu, A. Di Ieva, M. Pagnucco, S. Berkovsky, Y. Song, "Colour Adaptive Generative Networks for Stain Normalisation of Histopathology Images", Medical Image Analysis, e. 102580, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/MedIA22.pdf" target="_blank">[PDF]</a></li> 
       <li> K. Ijaz, T.T.M. Tran, A.B. Kocaballi, R.A. Calvo, S. Berkovsky, N. Ahmadpour, "Design Considerations for Immersive Virtual Reality Applications for Older Adults: A Scoping Review", Multimodal Technologies and Interaction (MTI), vol. 6(7), e. 60, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/MTI22.pdf" target="_blank">[PDF]</a></li> 
       <li> H. Xiong, H.N. Phan, K. Yin, S. Berkovsky, J. Jung, A.Y.S. Lau, "Identifying Daily Activities of Patient Work for Type 2 Diabetes and Co-morbidities – A Deep Learning and Wearable Camera Approach", Journal of the American Medical Informatics Association (JAMIA), vol. 29(8), pp. 1400-1408, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/JAMIA22.pdf" target="_blank">[PDF]</a></li>  
       <li> H. Xiong, S. Liu, R.V. Sharan, E. Coiera, S. Berkovsky, "Weak Label Based Bayesian U-Net for Optic Disc Segmentation in Fundus Images", Artificial Intelligence in Medicine (AIMed), vol. 126, e. 102261, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/AIMed22.pdf" target="_blank">[PDF]</a></li>  
@@ -28,7 +31,13 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
   
   <h5>Conferences</h5>
   <ul>
+    <li> [73]	R.V. Sharan, H. Xiong, S. Berkovsky, "Detecting Cough Recordings in Crowdsourced Data Using CNN-RNN", International Conference on Biomedical and Health Informatics (BHI), e. 104, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/BHI22.pdf" target="_blank">[PDF]</a></li>
     <li> D. Fraile Navarro, M. Dras, S. Berkovsky, "Few-Shot Fine-Tuning SOTA Summarization Models for Medical Dialogues", Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), pp. 254-266, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/NAACL22.pdf" target="_blank">[PDF]</a></li>
+  </ul>
+  
+  <h5>Workshops</h5>
+  <ul>
+    <li> [161]	C. Cong, Y. Yang, S. Liu, M. Pagnucco, A. Di Ieva, S. Berkovsky, Y. Song, "Adaptive Unified Contrastive Learning for Imbalanced Classification", Workshop on Machine Learning in Medical Imaging, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/MICCAI22.pdf" target="_blank">[PDF]</a></li>
   </ul>
 
 </details>
