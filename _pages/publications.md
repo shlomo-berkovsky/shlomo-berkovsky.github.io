@@ -8,6 +8,21 @@ author_profile: true
 Up to date list of publications at my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a> page.
 
 <details>
+  
+<summary>
+2023
+</summary>
+  <h5>Journals</h5>
+     <ul>      
+      <li> B. Tag, N. van Berkel, S. Verma, B.Z.H. Zhao, S. Berkovsky, M.A. Kaafar, V. Kostakos, O. Ohrimenko, "DDoD: Dual Denial of Decision Attacks on Human-AI Teams", IEEE Pervasive Computing, vol. 22(1), pp. 77-84, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/Pervasive23.pdf" target="_blank">[PDF]</a></li> 
+      <li> S. Berkovsky, E. Coiera, "Moving Beyond Algorithmic Accuracy to Improving User Interaction with Clinical AI", PLOS Digital Health, vol. 2(3), e. 0000222, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/PDIG23.pdf" target="_blank">[PDF]</a></li>  
+      <li> L. Chen, W. Cai, D. Yan, S. Berkovsky, "Eye-Tracking Based Personality Prediction on Recommendation Interfaces", User Modeling and User-Adapted Interaction (UMUAI), vol. 33(1), pp. 121-157, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMUAI23.pdf" target="_blank">[PDF]</a></li>  
+      <li> D. Rountree-Harrison, S. Berkovsky, M. Kangas, "Heart and Brain Traumatic Stress Biomarker Analysis with and without Machine Learning: A Scoping Review", International Journal of Psychophysiology (IJPP), vol. 185, pp. 27-49, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJPP23.pdf" target="_blank">[PDF]</a></li>  
+       
+    </ul>  
+
+</details>
+  
 <summary>
 2022
 </summary>
