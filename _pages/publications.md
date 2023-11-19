@@ -12,7 +12,9 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
 2023
 </summary>
   <h5>Journals</h5>
-     <ul>      
+     <ul>
+      <li> A.P. Susanto, D. Lyell, B. Widyantoro, S. Berkovsky, F. Magrabi, "Effects of Machine Learning-Based Clinical Decision Support Systems on Decision-Making, Care Delivery, and Patient Outcomes: a Scoping Review", Journal of the American Medical Informatics Association (JAMIA), vol. 30(12), pp. 2050-2063, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/JAMIA23.pdf" target="_blank">[PDF]</a></li>
+      <li> D. Fraile Navarro, K. Ijaz, D. Rezazadegan, H. Rahimi-Ardabili, M. Dras, E. Coiera, S. Berkovsky, "Clinical Named Entity Recognition and Relation Extraction Using Natural Language Processing of Medical Free Text: A Systematic Review", International Journal of Medical Informatics (IJMI), vol. 177, e. 105122, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJMI23.pdf" target="_blank">[PDF]</a></li> 
        <li> D. Fraile Navarro, A.B. Kocaballi, M. Dras, S. Berkovsky, "Collaboration, not Confrontation: Understanding General Practitioners' Attitudes Towards Natural Language and Text Automation in Clinical Practice", ACM Transactions on Computer-Human Interaction (TOCHI), vol. 30(2), e. 29, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/TOCHI23.pdf" target="_blank">[PDF]</a></li> 
        <li> B. Tag, N. van Berkel, S. Verma, B.Z.H. Zhao, S. Berkovsky, M.A. Kaafar, V. Kostakos, O. Ohrimenko, "DDoD: Dual Denial of Decision Attacks on Human-AI Teams", IEEE Pervasive Computing, vol. 22(1), pp. 77-84, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/Pervasive23.pdf" target="_blank">[PDF]</a></li> 
       <li> S. Berkovsky, E. Coiera, "Moving Beyond Algorithmic Accuracy to Improving User Interaction with Clinical AI", PLOS Digital Health, vol. 2(3), e. 0000222, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/PDIG23.pdf" target="_blank">[PDF]</a></li>  
