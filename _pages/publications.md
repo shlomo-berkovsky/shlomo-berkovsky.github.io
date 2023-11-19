@@ -21,6 +21,13 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
       <li> L. Chen, W. Cai, D. Yan, S. Berkovsky, "Eye-Tracking Based Personality Prediction on Recommendation Interfaces", User Modeling and User-Adapted Interaction (UMUAI), vol. 33(1), pp. 121-157, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMUAI23.pdf" target="_blank">[PDF]</a></li>  
       <li> D. Rountree-Harrison, S. Berkovsky, M. Kangas, "Heart and Brain Traumatic Stress Biomarker Analysis with and without Machine Learning: A Scoping Review", International Journal of Psychophysiology (IJPP), vol. 185, pp. 27-49, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJPP23.pdf" target="_blank">[PDF]</a></li>      
     </ul>  
+
+    <h5>Books/Edited</h5>
+<ul>
+  <li> J. Zhang, L. Chen, S. Berkovsky, M. Zhang, T. Di Noia, J. Basilico, L. Pizzato, Y. Song, "Proceedings of the 17th ACM Conference on Recommender Systems", Association for Computing Machinery, ISBN 979-8-4007-0241-9, 2023 <a href="https://dl.acm.org/doi/proceedings/10.1145/3604915" target="_blank">[link]</a></li>
+  <li>	F. Chen, M. Billinghurst, M. Zhou, S. Berkovsky, "Proceedings of the 28th International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 979-8-4007-0106-1, 2023<a href="https://dl.acm.org/doi/proceedings/10.1145/3581641" target="_blank">[link]</a></li>
+  <li>	F. Chen, M. Billinghurst, M. Zhou, S. Berkovsky, "Companion Proceedings of the 28th International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 979-8-4007-0107-8, 2023 <a href="https://dl.acm.org/doi/proceedings/10.1145/3581754" target="_blank">[link]</a></li>
+ </ul>
 </details>
 
 <details>  
