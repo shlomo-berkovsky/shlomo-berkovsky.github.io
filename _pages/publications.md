@@ -25,7 +25,7 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
     <h5>Books/Edited</h5>
 <ul>
   <li> J. Zhang, L. Chen, S. Berkovsky, M. Zhang, T. Di Noia, J. Basilico, L. Pizzato, Y. Song, "Proceedings of the 17th ACM Conference on Recommender Systems", Association for Computing Machinery, ISBN 979-8-4007-0241-9, 2023 <a href="https://dl.acm.org/doi/proceedings/10.1145/3604915" target="_blank">[link]</a></li>
-  <li>	F. Chen, M. Billinghurst, M. Zhou, S. Berkovsky, "Proceedings of the 28th International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 979-8-4007-0106-1, 2023<a href="https://dl.acm.org/doi/proceedings/10.1145/3581641" target="_blank">[link]</a></li>
+  <li>	F. Chen, M. Billinghurst, M. Zhou, S. Berkovsky, "Proceedings of the 28th International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 979-8-4007-0106-1, 2023 <a href="https://dl.acm.org/doi/proceedings/10.1145/3581641" target="_blank">[link]</a></li>
   <li>	F. Chen, M. Billinghurst, M. Zhou, S. Berkovsky, "Companion Proceedings of the 28th International Conference on Intelligent User Interfaces", Association for Computing Machinery, ISBN 979-8-4007-0107-8, 2023 <a href="https://dl.acm.org/doi/proceedings/10.1145/3581754" target="_blank">[link]</a></li>
  </ul>
 </details>
