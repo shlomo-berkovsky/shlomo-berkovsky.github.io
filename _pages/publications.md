@@ -9,6 +9,17 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
 
 <details>
 <summary>
+2024
+</summary>
+  <h5>Journals</h5>
+     <ul>
+      <li> S. Liu, C. Castillo-Olea, S. Berkovsky, "Emerging Applications and Translational Challenges for AI in Healthcare", Information, vol. 15(2), e. 90, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/Information24.pdf" target="_blank">[PDF]</a></li>   
+    </ul>  
+
+</details>
+
+<details>
+<summary>
 2023
 </summary>
   <h5>Journals</h5>
@@ -32,7 +43,8 @@ Up to date list of publications at my <a href="https://scholar.google.com.au/cit
   <h5>Conferences</h5>
      <ul>
       <li> S.R. Chitnis, S. Liu, T. Dash, T.T. Verlekar, A. Di Ieva, S. Berkovsky, L. Vig, A. Srinivasan, "Domain-Specific Pre-training Improves Confidence in Whole Slide Image Classification", Int. Conf. of the Engineering in Medicine and Biology Society (EMBC), e. 695, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/EMBC23a.pdf" target="_blank">[PDF]</a></li>
-      <li> L. Jose, S. Berkovsky, H. Xiong, C. Mascolo, R.V. Sharan, "Denoising Cough Sound Recordings Using Neural Network", Int. Conf. of the Engineering in Medicine and Biology Society (EMBC), e. 723, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/EMBC23b.pdf" target="_blank">[PDF]</a></li> 
+      <li> L. Jose, S. Berkovsky, H. Xiong, C. Mascolo, R.V. Sharan, "Denoising Cough Sound Recordings Using Neural Network", Int. Conf. of the Engineering in Medicine and Biology Society (EMBC), e. 723, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/EMBC23b.pdf" target="_blank">[PDF]</a></li>
+      <li> A.P. Susanto, D. Lyell, B. Widyantoro, S. Berkovsky, F. Magrabi, "How Well do AI-Enabled Decision Support Systems Perform in Clinical Settings?", World Congress on Medical and Health Informatics (MedInfo), pp. 279-283, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/MedInfo23.pdf" target="_blank">[PDF]</a></li> 
     </ul>   
     
 </details>
