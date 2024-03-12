@@ -18,7 +18,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 
     <h5>Books/Edited</h5>
 <ul>
-  <li> S. Liu, C. Castillo-Olea, S. Berkovsky, "Advances in AI for Health and Medical Applications", MDPI, ISBN 978-3-7258-0367-5, 2024 <a href="https://dl.acm.org/doi/proceedings/10.1145/3604915" target="_blank">[link]</a></li>
+  <li> S. Liu, C. Castillo-Olea, S. Berkovsky, "Advances in AI for Health and Medical Applications", MDPI, ISBN 978-3-7258-0367-5, 2024 <a href="https://www.mdpi.com/books/reprint/8851-advances-in-ai-for-health-and-medical-applications" target="_blank">[link]</a></li>
  </ul>
 </details>
 
