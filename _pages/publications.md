@@ -16,6 +16,10 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
       <li> S. Liu, C. Castillo-Olea, S. Berkovsky, "Emerging Applications and Translational Challenges for AI in Healthcare", Information, vol. 15(2), e. 90, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/Information24.pdf" target="_blank">[PDF]</a></li>   
     </ul>  
 
+    <h5>Books/Edited</h5>
+<ul>
+  <li> [198]	S. Liu, C. Castillo-Olea, S. Berkovsky, "Advances in AI for Health and Medical Applications", MDPI, ISBN 978-3-7258-0367-5, 2024 <a href="https://dl.acm.org/doi/proceedings/10.1145/3604915" target="_blank">[link]</a></li>
+ </ul>
 </details>
 
 <details>
