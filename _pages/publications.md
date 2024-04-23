@@ -13,12 +13,19 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 </summary>
   <h5>Journals</h5>
      <ul>
+      <li> C. Cong, S. Liu, P. Rana, M. Pagnucco, A. Di Ieva, S. Berkovsky, Y. Song, "Adaptive Unified Contrastive Learning with Graph-based Feature Aggregator for Imbalanced Classification", Expert Systems with Applications, vol. 251, e. 123783, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ESWA24.pdf" target="_blank">[PDF]</a></li>   
+      <li> E. Gordon, D. Ward, H. Xiong, S. Berkovsky, R. Hubbard, "Delirium and Incident Dementia: Results from a Large Retrospective Cohort Study of Hospital Patients in New South Wales, Australia", British Medical Journal (BMJ), vol. 384, e. 077634, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/BMJ24.pdf" target="_blank">[PDF]</a></li>   
+      <li> C. Berube, M. Nißen, R. Vinay, A. Geiger, T. Budig, A. Bhandari, C.R. Pe Benito, N. Ibarcena, O. Pistolese, P. Li, A. Bin Sawad, E. Fleisch, C. Stettler, B. Hemsley, S. Berkovsky, T. Kowatsch, A.B. Kocaballi, "Proactive Behavior in Voice Assistants: A Systematic Review and Conceptual Model", Computers in Human Behavior Reports, vol. 14, e. 100411, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHBR24.pdf" target="_blank">[PDF]</a></li>          
       <li> S. Liu, C. Castillo-Olea, S. Berkovsky, "Emerging Applications and Translational Challenges for AI in Healthcare", Information, vol. 15(2), e. 90, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/Information24.pdf" target="_blank">[PDF]</a></li>   
     </ul>  
 
     <h5>Books/Edited</h5>
 <ul>
   <li> S. Liu, C. Castillo-Olea, S. Berkovsky, "Advances in AI for Health and Medical Applications", MDPI, ISBN 978-3-7258-0367-5, 2024 <a href="https://www.mdpi.com/books/reprint/8851-advances-in-ai-for-health-and-medical-applications" target="_blank">[link]</a></li>
+  
+    <h5>Conferences</h5>
+<ul>
+  <li> D.C. Yuan, H. Xiong, G. Shangguan, H. Shen, D. Liu, H. Zhang, Z. Liu, K. Qian, B. Hu, B.W. Schuller, Y. Yamamoto, S. Berkovsky, "Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation", Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), pp. 1676-1680, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICASSP24.pdf" target="_blank">[PDF]</a></li>
  </ul>
 </details>
 
