@@ -22,11 +22,12 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <h5>Books/Edited</h5>
 <ul>
   <li> S. Liu, C. Castillo-Olea, S. Berkovsky, "Advances in AI for Health and Medical Applications", MDPI, ISBN 978-3-7258-0367-5, 2024 <a href="https://www.mdpi.com/books/reprint/8851-advances-in-ai-for-health-and-medical-applications" target="_blank">[link]</a></li>
+</ul>  
   
     <h5>Conferences</h5>
 <ul>
   <li> D.C. Yuan, H. Xiong, G. Shangguan, H. Shen, D. Liu, H. Zhang, Z. Liu, K. Qian, B. Hu, B.W. Schuller, Y. Yamamoto, S. Berkovsky, "Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation", Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), pp. 1676-1680, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICASSP24.pdf" target="_blank">[PDF]</a></li>
- </ul>
+</ul>
 </details>
 
 <details>
