@@ -439,7 +439,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 
 <details>
 <summary>
-2009
+&nbsp; &nbsp; 2009
 </summary>
   <h5>Journals</h5>
   <ul>
@@ -469,7 +469,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 
 <details>
 <summary>
-2008
+&nbsp; 2008
 </summary>
   <h5>Journals</h5>
   <ul>
