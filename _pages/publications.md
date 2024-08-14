@@ -430,16 +430,9 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   </ul>
 </details>
 
-
 <details>
 <summary>
-2000s (2004-2009)
-</summary>
-
-
-<details>
-<summary>
-&nbsp; &nbsp; 2009
+2009
 </summary>
   <h5>Journals</h5>
   <ul>
@@ -469,7 +462,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 
 <details>
 <summary>
-&nbsp; 2008
+2008
 </summary>
   <h5>Journals</h5>
   <ul>
@@ -589,4 +582,3 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   </ul>  
 </details>
 
-</details>
