@@ -5,11 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 Up to date publication list can be found at my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a>. 
-<br><br>
 
-<tr>
 <details>
 <summary>
 2024
@@ -33,10 +30,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   <li> D.C. Yuan, H. Xiong, G. Shangguan, H. Shen, D. Liu, H. Zhang, Z. Liu, K. Qian, B. Hu, B.W. Schuller, Y. Yamamoto, S. Berkovsky, "Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation", Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), pp. 1676-1680, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICASSP24.pdf" target="_blank">[PDF]</a></li>
 </ul>
 </details>
-</tr>
 
-
-<tr>
 <details>
 <summary>
 2023
@@ -64,12 +58,10 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
       <li> S.R. Chitnis, S. Liu, T. Dash, T.T. Verlekar, A. Di Ieva, S. Berkovsky, L. Vig, A. Srinivasan, "Domain-Specific Pre-training Improves Confidence in Whole Slide Image Classification", Int. Conf. of the Engineering in Medicine and Biology Society (EMBC), e. 695, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/EMBC23a.pdf" target="_blank">[PDF]</a></li>
       <li> L. Jose, S. Berkovsky, H. Xiong, C. Mascolo, R.V. Sharan, "Denoising Cough Sound Recordings Using Neural Network", Int. Conf. of the Engineering in Medicine and Biology Society (EMBC), e. 723, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/EMBC23b.pdf" target="_blank">[PDF]</a></li>
       <li> A.P. Susanto, D. Lyell, B. Widyantoro, S. Berkovsky, F. Magrabi, "How Well do AI-Enabled Decision Support Systems Perform in Clinical Settings?", World Congress on Medical and Health Informatics (MedInfo), pp. 279-283, 2023 <a href="https://shlomo-berkovsky.github.io/files/pdf/MedInfo23.pdf" target="_blank">[PDF]</a></li> 
-    </ul>     
+    </ul>   
+    
 </details>
-</tr>
 
-
-<tr>
 <details>  
 <summary>
 2022
@@ -102,11 +94,9 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   <ul>
     <li> C. Cong, Y. Yang, S. Liu, M. Pagnucco, A. Di Ieva, S. Berkovsky, Y. Song, "Adaptive Unified Contrastive Learning for Imbalanced Classification", Workshop on Machine Learning in Medical Imaging, 2022 <a href="https://shlomo-berkovsky.github.io/files/pdf/MICCAI22.pdf" target="_blank">[PDF]</a></li>
   </ul>
+
 </details>
-</tr>
 
-
-<tr>
 <details>
   <summary>
 2021
@@ -137,10 +127,8 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li> C. Cong, S. Liu, A. Di Ieva, M. Pagnucco, S. Berkovsky, Y. Song, "Texture Enhanced Generative Adversarial Network for Stain Normalisation in Histopathology Images", International Symposium on Biomedical Imaging (ISBI), pp. 1949-1952, 2021 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI21.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</tr>
 
 
-<tr>
 <details>
 <summary>
 2020
@@ -168,17 +156,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   <li> A.B. Kocaballi, E. Coiera, S. Berkovsky, "Revisiting Habitability in Conversational Systems", Int. Conf. on Human Factors in Computing Systems (CHI), e. 205, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI20.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</tr>
 
-
-<tr>
-<details>
-<summary>
-2010s (2010-2019)
-</summary>
-
-<table border="0">
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2019
@@ -203,10 +181,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   <li>	K. Yu, S. Berkovsky, R. Taib, J. Zhou, F. Chen, "Do I Trust My Machine Teammate? An Investigation from Perception to Decision", Int. Conf. on Intelligent User Interfaces (IUI), pp. 460-468, 2019 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI19.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2018
@@ -225,10 +200,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   <li> S. Berkovsky, R. Taib, Y. Hijikata, P. Braslavski, B. Knijnenburg, "A Cross-Cultural Analysis of Trust in Recommender Systems", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 285-289, 2018 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP18a.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2017
@@ -264,10 +236,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   <li>	S.Z. Arshad, J. Zhou, S. Berkovsky, F. Chen, "Human-In-The-Loop Machine Learning with Intelligent Multimodal Interfaces", Workshop on Human-in-the-Loop Machine Learning, 2017 <a href="https://shlomo-berkovsky.github.io/files/pdf/HITL17.pdf" target="_blank">[PDF]</a> </li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2016
@@ -291,10 +260,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>S. Berkovsky, M. Kaptein, M. Zancanaro, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PnP16.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2015
@@ -326,10 +292,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>M. Elahi, M. Ge, F. Ricci, I. Fernández-Tobias, S. Berkovsky, M. David, "Interaction Design in a Mobile Food Recommender System", Workshop on Interfaces and Human Decision Making for Recommender Systems, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15c.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2014
@@ -343,10 +306,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, D. Vallet, T. Chen, T. Kuflik, "Improving Business Rating Predictions Using Graph Based Features", Int. Conf. on Intelligent User Interfaces (IUI), pp. 17-26, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI14.pdf" target="_blank">[PDF]</a></li>
   </ul>  
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2013
@@ -381,10 +341,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>S. Berkovsky, S. Ardon, "Deep Modeling: Emotion-Based Modeling of Video Content Viewers", Workshop on Exploring and Enhancing the User Experience for Television, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI13.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2012
@@ -413,10 +370,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>P. Burns, C. Lueg, S. Berkovsky, "Using Personal Informatics to Motivate Physical Activity: Could we be Doing it Wrong?", Workshop on Personal Informatics in Practice, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12d.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2011
@@ -440,10 +394,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>P. Burns, C. Lueg, S. Berkovsky, "ActivMON: A Wearable Ambient Activity Display", Conf. on Mobile and Ubiquitous Information Systems (MMS), pp. 11-24, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/MMS11.pdf" target="_blank">[PDF]</a></li>
   </ul>  
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2010
@@ -478,26 +429,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>A. Said, S. Berkovsky, E.W. De Luca, "Putting Things in Context: Challenge on Context-Aware Movie Recommendation", Workshop and Challenge on Context-Aware Movie Recommendation, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys10d.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
-</table>
 
-</details>
-</tr>
-
-
-
-
-
-
-
-
-<tr>
-<details>
-<summary>
-2000s (2004-2009)
-</summary>
-<table border="0">
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2009
@@ -527,10 +459,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>N. Baghaei, S. Kimani, J. Freyne, G. Smith, S. Berkovsky, D. Bhandari, "Engaging Families to Adopt a Healthy Lifestyle through an Online Social Network", Designing for Healthy Living Workshop, 2009 <a href="https://shlomo-berkovsky.github.io/files/pdf/NA.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2008
@@ -557,10 +486,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>N. Colineau, C. Paris, S. Berkovsky, "Engaging Families in Sustainable Healthy Living", Workshop on Designing for Families, 2008 <a href="https://shlomo-berkovsky.github.io/files/pdf/CSCW08.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2007
@@ -590,10 +516,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>S. Berkovsky, A. Gorfinkel, T. Kuflik, L. Manevitz, "Evaluation of User Model Effectiveness by Simulation", Workshop on Personalization-Enhanced Access to Cultural Heritage, 2007 <a href="https://shlomo-berkovsky.github.io/files/pdf/UM07d.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2006
@@ -620,10 +543,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>S. Berkovsky, Y. Eytani, T. Kuflik, F. Ricci, "Hierarchical Neighborhood Topology for Privacy-Enhanced Collaborative Filtering", Workshop on Privacy-Enhanced Personalization, 2006 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI06.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2005
@@ -649,10 +569,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>S. Berkovsky, Y. Eytani, "Semantic Platform for Context-Aware Publish/Subscribe M-Commerce", Workshop on Ubiquitous Networks and Enablers to Context Aware Services, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/SAINT05.pdf" target="_blank">[PDF]</a></li>
   </ul>
 </details>
-</td></tr>
 
-
-<tr><td></td><td></td><td>
 <details>
 <summary>
 2004
@@ -664,9 +581,4 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>Y. Ben-Asher, S. Berkovsky, A. Tammam, E. Shmueli, "Using a J2EE Cluster for Parallel Computation of Join Queries in Distributed Databases", Int. Symposium on Parallel and Distributed Computing (ISPDC), pp. 58-63, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISPDC04.pdf" target="_blank">[PDF]</a></li>
   </ul>  
 </details>
-</td></tr>
-</table>
-
-</details>
-</tr>
 
