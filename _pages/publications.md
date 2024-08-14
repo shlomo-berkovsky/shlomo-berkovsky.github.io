@@ -26,6 +26,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   
     <h5>Conferences</h5>
 <ul>
+  <li> R. Matsushima, Y. Hijikata, S. Berkovsky, "Proponents as the Means to Increase the Uptake of Recommendations", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 255-260, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP24.pdf" target="_blank">[PDF]</a></li>
   <li> D.C. Yuan, H. Xiong, G. Shangguan, H. Shen, D. Liu, H. Zhang, Z. Liu, K. Qian, B. Hu, B.W. Schuller, Y. Yamamoto, S. Berkovsky, "Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation", Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), pp. 1676-1680, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICASSP24.pdf" target="_blank">[PDF]</a></li>
 </ul>
 </details>
