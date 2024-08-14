@@ -177,7 +177,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 2010s (2010-2019)
 </summary>
 
-<table>
+<table border="0">
 <tr><td></td><td></td><td>
 <details>
 <summary>
@@ -496,7 +496,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 <summary>
 2000s (2004-2009)
 </summary>
-<table>
+<table border="0">
 <tr><td></td><td></td><td>
 <details>
 <summary>
