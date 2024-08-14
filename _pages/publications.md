@@ -430,6 +430,13 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   </ul>
 </details>
 
+
+<details>
+<summary>
+2000s (2004-2009)
+</summary>
+
+
 <details>
 <summary>
 2009
@@ -580,4 +587,6 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>S. Berkovsky, Y. Eytani, E. Furman, U. Makov, "Developing a Framework for Insurance Underwriting Expert System", Int. Conf. on Informatics (ICI), pp. 191-197, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICI04b.pdf" target="_blank">[PDF]</a></li>
     <li>Y. Ben-Asher, S. Berkovsky, A. Tammam, E. Shmueli, "Using a J2EE Cluster for Parallel Computation of Join Queries in Distributed Databases", Int. Symposium on Parallel and Distributed Computing (ISPDC), pp. 58-63, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISPDC04.pdf" target="_blank">[PDF]</a></li>
   </ul>  
+</details>
+
 </details>
