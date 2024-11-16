@@ -27,8 +27,8 @@ redirect_from:
           <li>Manager of research and business projects</li>
         </ul>
 	  <li>Industry roles with Outbrain (prototyper) and Tidhar (training coordinator)</li>
-  	  <li>Qualifications: PhD summa cum laude, MSc cum laude, BSc, GCert in Commercialisation</li>
- </ul>
+  </ul>	  
+  <li>Qualifications: PhD summa cum laude, MSc cum laude, BSc, GCert in Commercialisation</li>
 </ul>
   
 <h3>Publications and citations</h3>
