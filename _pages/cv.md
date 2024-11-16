@@ -12,7 +12,7 @@ redirect_from:
 <h3> Professional experience </h3>
 <ul>
   <li>Currently: Professor and Stream Leader at Macquarie University </li>
-  <li>Formation and leadership of high-quality research programs</li>
+  <li>Establishment and leadership of high-quality research programs</li>
   <ul>	
       	<li>Development and implementation of strategic plans</li>
 	<li>Research capability development, financial sustainability</li>
