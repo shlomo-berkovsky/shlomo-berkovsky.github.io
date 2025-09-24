@@ -13,9 +13,19 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 </summary>
   <h5>Journals</h5>
      <ul>
-       <li> D. Fraile Navarro, E. Coiera, T.W. Hambly, Z. Triplett, N. Asif, A. Susanto, A. Chowdhury, A. Azcoaga- Lorenzo, M. Dras, S. Berkovsky, "Expert Evaluation of Large Language Models for Clinical Dialogue Summarization", Scientific Reports, vol. 15, e. 1195, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/SciRep25.pdf" target="_blank">[PDF]</a></li>   
+
+       <li> D. Fraile Navarro, E. Coiera, T.W. Hambly, Z. Triplett, N. Asif, A. Susanto, A. Chowdhury, A. Azcoaga- Lorenzo, M. Dras, S. Berkovsky, "Expert Evaluation of Large Language Models for Clinical Dialogue Summarization", Scientific Reports, vol. 15, e. 1195, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMS25.pdf" target="_blank">[PDF]</a></li>   
+        <li> H. Xiong, Z. Wang, R.V. Sharan, S. Berkovsky, "Uncertainty-Guided Attention Learning for Malaria Parasite Detection in Thick Blood Smears", Neural Networks (NeuNets), vol. 191, e. 107833, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/NeuralNets25.pdf" target="_blank">[PDF]</a></li>   
+       <li> D. Fraile Navarro, E. Coiera, T.W. Hambly, Z. Triplett, N. Asif, A. Susanto, A. Chowdhury, A. Azcoaga-Lorenzo, M. Dras, S. Berkovsky, "Expert Evaluation of Large Language Models for Clinical Dialogue Summarization", Scientific Reports, vol. 15, e. 1195, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/SciRep25.pdf" target="_blank">[PDF]</a></li>   
     </ul>  
-  
+
+      <h5>Conferences</h5>
+<ul>
+    <li> H. Yao, H. Xiong, D. Liu, H. Shen, S. Berkovsky, "BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency Based Feature Enhancement for Brain Tumor Segmentation", Int. Conf. on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 98-107, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/MICCAI25.pdf" target="_blank">[PDF]</a></li>
+    <li> J. Vitale, S. Berkovsky, S. Takeuchi, A. Beheshti, K. Xin, J. Saito, S. Yamao, "Design of a Personalised AI Coaching Assistant for Occupational Health and Safety", Int. Conf. on Persuasive Technology (PT), pp. 3-17, 2025 [Best Design Innovation Paper Award Nomination] <a href="https://shlomo-berkovsky.github.io/files/pdf/PT25.pdf" target="_blank">[PDF]</a></li>
+    <li> X. Li, P. Rana, T.N. Gide, N.A. Adegoke, Y. Mao, G. Long, R.A. Scolyer, S. Berkovsky, E. Coiera, J.S. Wilmott, S. Liu, "Stain Imputation in Multiplex Immunofluorescence Imaging (SIMIF) Based on Random Channel-Wise Masking", Int. Symp. on Biomedical Imaging (ISBI), e. 283, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI25.pdf" target="_blank">[PDF]</a></li>
+</ul>
+
 </details>
 
 <details>
@@ -42,6 +52,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   <li> R. Matsushima, Y. Hijikata, S. Berkovsky, "Proponents as the Means to Increase the Uptake of Recommendations", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 255-260, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP24.pdf" target="_blank">[PDF]</a></li>
   <li> D.C. Yuan, H. Xiong, G. Shangguan, H. Shen, D. Liu, H. Zhang, Z. Liu, K. Qian, B. Hu, B.W. Schuller, Y. Yamamoto, S. Berkovsky, "Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation", Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), pp. 1676-1680, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICASSP24.pdf" target="_blank">[PDF]</a></li>
 </ul>
+
 </details>
 
 <details>
@@ -270,7 +281,9 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   
   <h5>Workshops</h5>
   <ul>
-    <li>S. Berkovsky, M. Kaptein, M. Zancanaro, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PnP16.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, "Recent Developments in Web Personalisation and Recommender Systems Research", Summer School in Informataion Retrieval, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/RussIR16.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PnP16.pdf" target="_blank">[PDF]</a></li>
+
   </ul>
 </details>
 
