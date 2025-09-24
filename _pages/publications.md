@@ -9,11 +9,23 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 
 <details>
 <summary>
+2025
+</summary>
+  <h5>Journals</h5>
+     <ul>
+       <li> D. Fraile Navarro, E. Coiera, T.W. Hambly, Z. Triplett, N. Asif, A. Susanto, A. Chowdhury, A. Azcoaga- Lorenzo, M. Dras, S. Berkovsky, "Expert Evaluation of Large Language Models for Clinical Dialogue Summarization", Scientific Reports, vol. 15, e. 1195, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/SciRep25.pdf" target="_blank">[PDF]</a></li>   
+    </ul>  
+  
+</details>
+
+<details>
+<summary>
 2024
 </summary>
   <h5>Journals</h5>
      <ul>
-      <li> C. Cong, S. Liu, P. Rana, M. Pagnucco, A. Di Ieva, S. Berkovsky, Y. Song, "Adaptive Unified Contrastive Learning with Graph-based Feature Aggregator for Imbalanced Classification", Expert Systems with Applications, vol. 251, e. 123783, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ESWA24.pdf" target="_blank">[PDF]</a></li>   
+       <li> L.A. Bertie, J.C. Quiroz, S. Berkovsky, K. Arendt, S. Bogels, J.R.I. Coleman, P. Cooper, C. Creswell, T.C. Eley, C. Hartman, K. Fjermestadt, T. In-Albon, K. Lavallee, K.J. Lester, H.J. Lyneham, C.E. Marin, A. McKinnon, L.F. McLellan, R. Meiser-Stedman, M. Nauta, R.M. Rapee, S. Schneider, C. Schniering, W.K. Silverman, M. Thastum, K. Thirlwall, P. Waite, G.J. Wergeland, V. Wuthrich, J.L. Hudson, "Predicting Remission Following CBT for Childhood Anxiety Disorders: A Machine Learning Approach", Psychological Medicine, vol. 54(16), pp. 4612-4622, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/PSM24.pdf" target="_blank">[PDF]</a></li> 
+       <li> C. Cong, S. Liu, P. Rana, M. Pagnucco, A. Di Ieva, S. Berkovsky, Y. Song, "Adaptive Unified Contrastive Learning with Graph-based Feature Aggregator for Imbalanced Classification", Expert Systems with Applications, vol. 251, e. 123783, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ESWA24.pdf" target="_blank">[PDF]</a></li>   
       <li> E. Gordon, D. Ward, H. Xiong, S. Berkovsky, R. Hubbard, "Delirium and Incident Dementia: Results from a Large Retrospective Cohort Study of Hospital Patients in New South Wales, Australia", British Medical Journal (BMJ), vol. 384, e. 077634, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/BMJ24.pdf" target="_blank">[PDF]</a></li>   
       <li> C. Berube, M. Nißen, R. Vinay, A. Geiger, T. Budig, A. Bhandari, C.R. Pe Benito, N. Ibarcena, O. Pistolese, P. Li, A. Bin Sawad, E. Fleisch, C. Stettler, B. Hemsley, S. Berkovsky, T. Kowatsch, A.B. Kocaballi, "Proactive Behavior in Voice Assistants: A Systematic Review and Conceptual Model", Computers in Human Behavior Reports, vol. 14, e. 100411, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHBR24.pdf" target="_blank">[PDF]</a></li>          
       <li> S. Liu, C. Castillo-Olea, S. Berkovsky, "Emerging Applications and Translational Challenges for AI in Healthcare", Information, vol. 15(2), e. 90, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/Information24.pdf" target="_blank">[PDF]</a></li>   
@@ -26,6 +38,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   
     <h5>Conferences</h5>
 <ul>
+  <li> S. Xu, H. Xiong, Q. Wu, Z. Wang, S. Berkovsky, Z. Wang, "Fast Online Adaptation of Visual SLAM via Variational Information Transfer and Preservation", Int. Conf. on Multimedia in Asia (MMAsia), e. 51, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/MMAsia24.pdf" target="_blank">[PDF]</a></li>
   <li> R. Matsushima, Y. Hijikata, S. Berkovsky, "Proponents as the Means to Increase the Uptake of Recommendations", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 255-260, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP24.pdf" target="_blank">[PDF]</a></li>
   <li> D.C. Yuan, H. Xiong, G. Shangguan, H. Shen, D. Liu, H. Zhang, Z. Liu, K. Qian, B. Hu, B.W. Schuller, Y. Yamamoto, S. Berkovsky, "Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation", Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), pp. 1676-1680, 2024 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICASSP24.pdf" target="_blank">[PDF]</a></li>
 </ul>
