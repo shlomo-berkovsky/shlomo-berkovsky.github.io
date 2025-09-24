@@ -23,7 +23,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 <ul>
     <li> H. Yao, H. Xiong, D. Liu, H. Shen, S. Berkovsky, "BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency Based Feature Enhancement for Brain Tumor Segmentation", Int. Conf. on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 98-107, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/MICCAI25.pdf" target="_blank">[PDF]</a></li>
     <li> J. Vitale, S. Berkovsky, S. Takeuchi, A. Beheshti, K. Xin, J. Saito, S. Yamao, "Design of a Personalised AI Coaching Assistant for Occupational Health and Safety", Int. Conf. on Persuasive Technology (PT), pp. 3-17, 2025 [Best Design Innovation Paper Award Nomination] <a href="https://shlomo-berkovsky.github.io/files/pdf/PT25.pdf" target="_blank">[PDF]</a></li>
-    <li> X. Li, P. Rana, T.N. Gide, N.A. Adegoke, Y. Mao, G. Long, R.A. Scolyer, S. Berkovsky, E. Coiera, J.S. Wilmott, S. Liu, "Stain Imputation in Multiplex Immunofluorescence Imaging (SIMIF) Based on Random Channel-Wise Masking", Int. Symp. on Biomedical Imaging (ISBI), e. 283, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI.pdf" target="_blank">[PDF]</a></li>
+    <li> X. Li, P. Rana, T.N. Gide, N.A. Adegoke, Y. Mao, G. Long, R.A. Scolyer, S. Berkovsky, E. Coiera, J.S. Wilmott, S. Liu, "Stain Imputation in Multiplex Immunofluorescence Imaging (SIMIF) Based on Random Channel-Wise Masking", Int. Symp. on Biomedical Imaging (ISBI), e. 283, 2025 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISBI25.pdf" target="_blank">[PDF]</a></li>
 </ul>
 
 </details>
