@@ -282,7 +282,7 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   <h5>Workshops</h5>
   <ul>
     <li>S. Berkovsky, "Recent Developments in Web Personalisation and Recommender Systems Research", Summer School in Informataion Retrieval, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/RussIR16.pdf" target="_blank">[PDF]</a></li>
-    <li>S. Berkovsky, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PnP16.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, M. Kaptein, M. Zancanaro, "Adaptivity and Personalization in Persuasive Technologies", Workshop on Personalization in Persuasive Technology, 2016 <a href="https://shlomo-berkovsky.github.io/files/pdf/PnP16.pdf" target="_blank">[PDF]</a></li>
 
   </ul>
 </details>
