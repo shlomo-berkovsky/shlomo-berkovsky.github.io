@@ -35,9 +35,9 @@ redirect_from:
 <ul>
   <li> &gt;200 peer-refereed publications</li>
   <ul>
-    <li>72 journal papers, 12 book chapters, 99 conference papers</li>
+    <li>77 journal papers, 12 book chapters, 100 conference papers</li>
   </ul>
-  <li>Citations: &gt;9K citations, h-index=49, i10-index=148, m-Index=2.58</li>
+  <li>Citations: &gt;9.5K citations, h-index=53, i10-index=151, m-Index=2.48</li>
   <li>Keynotes and presentations: 17 keynotes and invited talks, 14 tutorials, 5 panels</li>
   <li>Awards: 3 conference Best Paper awards, 4 Best Paper nominations, 4 iAward prizes</li>
   <li>IP/Patents: Inventor of 3 granted international patents</li>
@@ -47,7 +47,7 @@ redirect_from:
 <ul>
   <li>Grants/funding: Investigator/leader of 30 funded projects</li>
   <ul>
-    <li>Total awards &gt;\$28M, managed components &gt;\$6M</li>
+    <li>Total awards &gt;\$28.7M, managed components &gt;\$6.2M</li>
  </ul>
   <li>Journals/books: Editor-in-Chief of ACM TiiS, editorial board member of 8 journals, editor of 7 special issues, editor/author of 3 books and 9 proceedings volumes</li>
   <li>Conferences: steering committee member of 2 conferences, chair of 5 conferences and 5 conference tracks, organising committee member of 9 conferences, chair of 13 workshops</li>
@@ -58,6 +58,6 @@ redirect_from:
 <h3>Teaching and student supervision</h3>
 <ul>
   <li>Teaching: Lecturer of 4 and TA of 7 under-/post-graduate courses, presenter of 3 invited courses at international summer schools</li>
-  <li>Supervision: 12 post-doctoral fellows, 14 PhD students, 5 Masters/Honours students, 5 graduate interns, 30 undergraduate students</li>
+  <li>Supervision: 13 post-doctoral fellows, 11 PhD students, 5 Masters/Honours students, 6 graduate interns, 30 undergraduate students</li>
   <li>Thesis examination: External examiner of 16 PhD/Masters theses</li>
 </ul>
