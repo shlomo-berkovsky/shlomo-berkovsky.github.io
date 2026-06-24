@@ -9,6 +9,19 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
 
 <details>
 <summary>
+2026
+</summary>
+  <h5>Journals</h5>
+     <ul>
+       <li> S. Berkovsky, G. Jacucci, "Imperfect AI, Imperfect Humans, Effective Teams: Challenges and Opportunities of Human-AI Collaboration", ACM Trans. on Interactive Intelligent Systems, vol. 16(2), e. 10, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS26a.pdf" target="_blank">[PDF]</a></li>   
+       <li> A. P. Susanto, D. Lyell, B. Widyantoro, S. Berkovsky, F. Magrabi, "Designing AI Tools to Advance Health Equity in Resource-Constrained Low- and Middle-Income Countries", Digital Health, vol. 12, e. 487, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/DH26.pdf" target="_blank">[PDF]</a></li> 
+       <li> Y. Tian, E. Matar, S. Berkovsky, S.J.G. Lewis, "Aberrant Beta-Band Network Alteration Preceding Freezing of Gait in Parkinson's Disease", Movement Disorders, vol. 41(5), pp. 1173-1182, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/MD26.pdf" target="_blank">[PDF]</a></li> 
+    </ul>  
+
+</details>
+
+<details>
+<summary>
 2025
 </summary>
   <h5>Journals</h5>
