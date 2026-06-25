@@ -7,6 +7,8 @@ author_profile: true
 
 Up to date publication list can be found at my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a>. 
 
+(mid-2026) I asked ChatGPT to summarise my papers and it produced <a href="https://shlomo-berkovsky.github.io/files/pdf/ISPDC04.pdf" target="_blank">this essay</a>. Slightly biased but fair grouping and overview.
+
 <details>
 <summary>
 2026
@@ -624,6 +626,3 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
     <li>Y. Ben-Asher, S. Berkovsky, A. Tammam, E. Shmueli, "Using a J2EE Cluster for Parallel Computation of Join Queries in Distributed Databases", Int. Symposium on Parallel and Distributed Computing (ISPDC), pp. 58-63, 2004 <a href="https://shlomo-berkovsky.github.io/files/pdf/ISPDC04.pdf" target="_blank">[PDF]</a></li>
   </ul>  
 </details>
-
-* (mid-2026) I asked ChatGPT to synthesise and summarise my papers and it produced <a href="https://shlomo-berkovsky.github.io/files/pdf/ISPDC04.pdf" target="_blank">this essay</a>. Slightly biased but fair grouping and overview.
-
