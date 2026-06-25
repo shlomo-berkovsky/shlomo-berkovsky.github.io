@@ -7,7 +7,7 @@ author_profile: true
 
 Up to date publication list can be found at my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a>. 
 
-(mid-2026) I asked ChatGPT to summarise my papers and it produced <a href="https://shlomo-berkovsky.github.io/files/pdf/ISPDC04.pdf" target="_blank">this essay</a>. Slightly biased but fair grouping and overview.
+(mid-2026) I asked ChatGPT to summarise my papers and it produced <a href="https://shlomo-berkovsky.github.io/files/pdf/GPT.pdf" target="_blank">this essay</a>. Slightly biased but fair grouping and overview.
 
 <details>
 <summary>
