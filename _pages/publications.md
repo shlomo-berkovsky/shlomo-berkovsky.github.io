@@ -625,3 +625,5 @@ Up to date publication list can be found at my <a href="https://scholar.google.c
   </ul>  
 </details>
 
+* (mid-2026) I asked ChatGPT to synthesise and summarise my papers and it produced <a href="https://shlomo-berkovsky.github.io/files/pdf/ISPDC04.pdf" target="_blank">this essay</a>. Slightly biased but fair grouping and overview.
+
