@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Up to date publication list can be found at my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a>. 
+Complete up-to-date publication list can be found at my <a href="https://scholar.google.com.au/citations?user=o98HOrMAAAAJ" target="_blank">Google Scholar</a>. 
 
-(mid-2026) Slightly biased but fairly reliable <a href="https://shlomo-berkovsky.github.io/files/pdf/GPT.pdf" target="_blank">summary</a> of my work. 
+(mid-2026) Slightly biased but fairly accurate <a href="https://shlomo-berkovsky.github.io/files/pdf/GPT.pdf" target="_blank">overview</a> of my research. 
 
 <details>
 <summary>
