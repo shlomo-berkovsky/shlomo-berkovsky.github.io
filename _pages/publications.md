@@ -15,10 +15,19 @@ Complete up-to-date publication list can be found at my <a href="https://scholar
 </summary>
   <h5>Journals</h5>
      <ul>
+       <li> P. Rana, T.N Gide, N.A. Adegoke, Y. Mao, S. Berkovsky, E. Coiera, J.S. Wilmott, S. Liu, "Deep Learning Framework for Classifying Whole-Slide Multiplex Immunofluorescence Images to Predict Immunotherapy Response in Melanoma Patients", Journal of Biomedical and Health Informatics, vol. 30(10), pp. 8342-8355, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/JBHI26.pdf" target="_blank">[PDF]</a></li>   
+       <li> M. Skrypnyk, M. Skikevych, R. Skrypnyk, V. Mykytenko, I. Skrypnyk, L. Voloshina, T. Yatsenko, C. Xu, S. Takahashi, T. Osada, S. Berkovsky, K. Hattori, B. Heissig, "Catheter-Related Staphylococcus aureus Bacteremia Complicated by Sternocleidomastoid Phlegmon and Sternoclavicular Arthritis in a Hemodialysis Patient: A Case Study", Comprehensive Clinical Medicine, vol. 8, e. 379, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/CCM26.pdf" target="_blank">[PDF]</a></li> 
+       <li> R. Skrypnyk, M. Skrypnyk, M. Skikevych, I. Skrypnyk, T. Yatsenko, T. Petrushanko, A. Spahr, C. Xu, S. Takahashi, T. Osada, S. Berkovsky, K. Hattori, B. Heissig, "Salivary Gland Manifestations of Long COVID: A Case Report and Literature Review", Healthcare, vol. 14(16), e. 2558, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/Healthcare26.pdf" target="_blank">[PDF]</a></li> 
        <li> S. Berkovsky, G. Jacucci, "Imperfect AI, Imperfect Humans, Effective Teams: Challenges and Opportunities of Human-AI Collaboration", ACM Trans. on Interactive Intelligent Systems, vol. 16(2), e. 10, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS26a.pdf" target="_blank">[PDF]</a></li>   
        <li> A. P. Susanto, D. Lyell, B. Widyantoro, S. Berkovsky, F. Magrabi, "Designing AI Tools to Advance Health Equity in Resource-Constrained Low- and Middle-Income Countries", Digital Health, vol. 12, e. 487, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/DH26.pdf" target="_blank">[PDF]</a></li> 
        <li> Y. Tian, E. Matar, S. Berkovsky, S.J.G. Lewis, "Aberrant Beta-Band Network Alteration Preceding Freezing of Gait in Parkinson's Disease", Movement Disorders, vol. 41(5), pp. 1173-1182, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/MD26.pdf" target="_blank">[PDF]</a></li> 
     </ul>  
+
+      <h5>Conferences</h5>
+<ul>
+    <li> D. Fraile Navarro, B. Como, J. Sheng, S. Ananthan, S. Berkovsky, "Where Do Apparent LLM Clinical Triage Failures Arise? Localizing the Multiple-Choice Format Effect", Conference on Empirical Methods in Natural Language Processing, pp. 41857-41885, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/EMNLP26.pdf" target="_blank">[PDF]</a></li>
+    <li> K. Xin, G. Pelat, J. Vitale, S. Takeuchi, S. Berkovsky, A. Beheshti, "JudgEHR: LLM-Guided Cohort Inference for Clinical Decision Confidence Estimation", International Conference on Digital Health, pp. 343-351, 2026 <a href="https://shlomo-berkovsky.github.io/files/pdf/ICDH26.pdf" target="_blank">[PDF]</a></li>
+</ul>
 
 </details>
 
