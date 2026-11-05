@@ -452,11 +452,85 @@ Complete up-to-date publication list can be found at my <a href="https://scholar
   </ul>  
 </details>
 
+<details>
+<summary>
+2011-2015
+</summary>
+	
+  <h5>Journals</h5>
+  <ul>
+    <li>S. Berkovsky, J. Freyne, "Personalized Social Network Activity Feeds for Increased Interaction and Content Contribution", Frontiers in Robotics and Artificial Intelligence, vol. 2, e. 24, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/Frontiers15.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, G. Smith, "Rating Bias and Preference Acquisition", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 3(3), e. 19, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS13.pdf" target="_blank">[PDF]</a></li>
+    <li>E. Brindal, G. Hendrie, J. Freyne, M. Coombe, S. Berkovsky, M. Noakes, "Design and Pilot Results of a Mobile Phone Weight-Loss Application for Women Starting a Meal Replacement Programme", Journal of Telemedicine and Telecare, vol. 19(3), pp. 166-174, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/JTT13.pdf" target="_blank">[PDF]</a></li>
+    <li>P. De Bra, J. Freyne, S. Berkovsky, "Introduction to the Special Issue on Adaptive Hypermedia", New Review of Hypermedia and Multimedia (NRHM), vol. 19(2), pp. 81-83, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/NRHM13.pdf" target="_blank">[PDF]</a></li>
+    <li>M.A. Kaafar, S. Berkovsky, B. Donnet, "On the Potential of Recommendation Technologies for Efficient Content Delivery Networks", Computer Communication Review (CCR), vol. 43(3), pp. 74-77, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/CCR13.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Said, S. Berkovsky, E.W. De Luca, "Movie Recommendation in Context", ACM Transactions on Intelligent Systems and Technology (TIST), vol. 4(1), e. 13, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/TIST13.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, M. Coombe, "Physical Activity Motivating Games: Be Active and Get Your Own Rewards", ACM Transactions on Computer-Human Interaction (TOCHI), vol. 19(4), e. 32, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/TOCHI12.pdf" target="_blank">[PDF]</a></li>
+    <li>E. Brindal, J. Freyne, I. Saunders, S. Berkovsky, G. Smith, M. Noakes, "Features Predicting Weight Loss in Overweight or Obese Participants in a Web-Based Intervention: Randomized Trial", Journal of Medical Internet Research (JMIR), vol. 14(6), e. 173, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/JMIR12.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, H. Oinas-Kukkonen, "Influencing Individually: Fusing Personalization and Persuasion", ACM Transactions on Interactive Intelligent Systems (TiiS), vol. 2(2), e. 9, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/TiiS12.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, T. Kuflik, F. Ricci, "The Impact of Data Obfuscation on the Accuracy of Collaborative Filtering", Expert Systems with Applications (ESWA), vol. 39(5), pp. 5033-5042, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/ESWA12.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, C. Lueg, G. Verdouw, "Encouraging Physical Activities during Long-Distance Travel", IEEE Pervasive Computing, vol. 10(4), e. 54, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/Pervasive11.pdf" target="_blank">[PDF]</a></li>
+    <li>N. Baghaei, S. Kimani, J. Freyne, E. Brindal, S. Berkovsky, G. Smith, "Engaging Families in Lifestyle Changes through Social Networking", International Journal of Human-Computer Interaction (IJHCI), vol. 27(10), pp. 971-990, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJHCI11.pdf" target="_blank">[PDF]</a></li>    	
+  </ul>
+  
+  <h5>Books/Edited</h5>
+  <ul>
+    <li>A. Friedman, B. Knijnenburg, K. Vanhecke, L. Martens, S. Berkovsky, "Privacy Aspects of Recommender Systems", in F. Ricci, L. Rokach, B. Shapira: Recommender Systems Handbook, pp. 649-688, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer15b.pdf" target="_blank">[PDF]</a></li>
+    <li>I. Cantador, I. Fernández-Tobias, S. Berkovsky, P. Cremonesi, "Cross-Domain Recommender Systems", in F. Ricci, L. Rokach, B. Shapira: Recommender Systems Handbook, pp. 919-960, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer15a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, "Network Activity Feed: Finding Needles in a Haystack", in M. Atzmueller, A. Chin, C. Scholz, C. Trattner: Mining, Modeling, and Recommending Things in Social Media, pp. 21-34, Springer, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/Springer15c.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, E. Herder, P. Lops, O. Santos, "Extended Proceedings of the International Conference on User Modeling, Adaptation, and Personalization", CEUR-WS Proceedings, vol. 997, 2013 <a href="http://ceur-ws.org/Vol-997/" target="_blank">[link]</a></li>
+    <li>S. Berkovsky, J. Freyne, "Proceedings of the 8th International Conference on Persuasive Technology", Springer Lecture Notes in Computer Science, vol. 7822, ISBN 978-3-6423-7156-1, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/PT13b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, "Adjunct Proceedings of the 8th International Conference on Persuasive Technology", CEUR-WS Proceedings, vol. 973, 2013 <a href="http://ceur-ws.org/Vol-973/" target="_blank">[link]</a></li>
+    <li>J. Freyne, S. Berkovsky, G. Smith, "Evaluating Recommender Systems for Supportive Technologies", in E. Martin, P. Haya, R. Carro: User Modeling and Adaptation for Daily Routines, pp. 195-217, Springer, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMADR13.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Said, S. Berkovsky, E.W. De Luca, J. Hermanns, "Proceedings of the Workshop and Challenge on Context-Aware Movie Recommendation", ACM Conference Proceedings, ISBN 978-1-4503-0825-0, 2011 <a href="https://dl.acm.org/doi/proceedings/10.1145/2096112" target="_blank">[link]</a></li>	
+  </ul>
+  
+  <h5>Conferences</h5>
+  <ul>
+    <li>K. Medvediev, G. Xu, S. Berkovsky, Y. Onikienko, "An Analysis of New Visitors' Website Behaviour before and after TV Advertising", Int. Conf. on Behavioral, Economic, and Socio-Cultural Computing (BESC), pp. 109-115, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/BESC15.pdf" target="_blank">[PDF]</a></li>
+    <li>D. Vallet, S. Berkovsky, S. Ardon, A. Mahanti, M.A. Kaafar, "Characterizing and Predicting Viral-and-Popular Video Content", Int. Conf. on Information and Knowledge Management (CIKM), pp. 1591-1600, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/CIKM15.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Berlioz, A. Friedman, M.A. Kaafar, R. Boreli, S. Berkovsky, "Applying Differential Privacy to Matrix Factorization", Recommender Systems Conf. (RecSys), pp. 107-114, 2015 [Best Paper Award Runner-Up] <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15a.pdf" target="_blank">[PDF]</a></li>
+    <li>O. Sar-Shalom, S. Berkovsky, R. Ronen, E. Ziklik, A. Amir, "Data Quality Matters in Recommender Systems", Recommender Systems Conf. (RecSys), pp. 257-260, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15b.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, G. Hendrie, M. Noakes, J. Freyne, K. Usic, "The HealthierU Portal for Supporting Behaviour Change and Diet Programs", Australian National Health Informatics Conf. (HIC), pp. 15-21, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/HIC15.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Ashkan, B. Kveton, S. Berkovsky, Z. Wen, "Optimal Greedy Diversity for Recommendations", Int. Joint Conf. on Artificial Intelligence (IJCAI), pp. 1742-1748, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/IJCAI15.pdf" target="_blank">[PDF]</a></li>
+    <li>B. Kveton, S. Berkovsky, "Minimal Interaction Search in Recommender Systems", Int. Conf. on Intelligent User Interfaces (IUI), pp. 236-246, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI15.pdf" target="_blank">[PDF]</a></li>
+    <li>M. Elahi, M. Ge, F. Ricci, M. David, S. Berkovsky, "Interactive Food Recommendation for Groups", Recommender Systems Conf. Posters (RecSys), e. 2, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys14a.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Ashkan, B. Kveton, S. Berkovsky, Z. Wen, "Diversified Utility Maximization for Recommendations", Recommender Systems Conf. Posters (RecSys), e. 13, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys14b.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, D. Vallet, T. Kuflik, "Graph-Based Recommendations: Make the Most out of Social Data", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 447-458, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP14.pdf" target="_blank">[PDF]</a></li>
+    <li>D. Vallet, A. Friedman, S. Berkovsky, "Matrix Factorization without User Data Retention", Pacific-Asia Conf. on Knowledge Discovery and Data Mining (PAKDD), pp. 569-580, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/PAKDD14.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, D. Vallet, T. Chen, T. Kuflik, "Improving Business Rating Predictions Using Graph Based Features", Int. Conf. on Intelligent User Interfaces (IUI), pp. 17-26, 2014 <a href="https://shlomo-berkovsky.github.io/files/pdf/IUI14.pdf" target="_blank">[PDF]</a></li>
+    <li>M. Xu, S. Berkovsky, S. Ardon, S. Triukose, A. Mahanti, I. Koprinska, "Catch-up TV Recommendations: Show Old Favourites and Find New Ones", Recommender Systems Conf. (RecSys), pp. 285-293, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys13a.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Tiroshi, S. Berkovsky, M.A. Kaafar, T. Chen, T. Kuflik, "Cross Social Network Interests Predictions Based on Graph Features", Recommender Systems Conf. (RecSys), pp. 319-322, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys13b.pdf" target="_blank">[PDF]</a></li>
+    <li>A. Tiroshi, T. Kuflik, S. Berkovsky, "Inform or Flood: Estimating When Retweets Duplicate", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 267-273, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP13.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "Colours that Move you: Persuasive Ambient Activity Displays", Int. Conf. on Persuasive Technology (PT), pp. 27-32, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/PT13a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, G. Smith, "Personalized Network Updates: Increasing Social Interactions and Contributions in Social Networks", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 1-13, 2012 [Best Paper Award Nomination] <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP12a.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, E. Brindal, G. Hendrie, S. Berkovsky, M. Coombe, "Mobile Applications to Support Dietary Change: Highlighting the Importance of Evaluation Context", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 1781-1786, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12a.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "ActivMON: Encouraging Physical Activity through Ambient Social Awareness", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2363-2368, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12b.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, I. Saunders, E. Brindal, S. Berkovsky, G. Smith, "Factors Associated with Persistence of Participation in an Online Diet Interventions", Int. Conf. on Human Factors in Computing Systems (CHI), pp. 2375-2380, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12c.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, G. Smith, "Recipe Recommendation: Accuracy and Reasoning", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 99-110, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP11a.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, J. Freyne, S. Kimani, G. Smith, "Selecting Items of Relevance in Social Network Feeds", Int. Conf. on User Modeling, Adaptation, and Personalization (UMAP), pp. 329-334, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP11b.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, N. Baghaei, S. Kimani, G. Smith, "Personalized Techniques for Lifestyle Change", Conf. on Artificial Intelligence in Medicine (AIME), pp. 139-148, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/AIME11.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "ActivMON: A Wearable Ambient Activity Display", Conf. on Mobile and Ubiquitous Information Systems (MMS), pp. 11-24, 2011 <a href="https://shlomo-berkovsky.github.io/files/pdf/MMS11.pdf" target="_blank">[PDF]</a></li>	
+  </ul>  
+  
+  <h5>Workshops</h5>
+  <ul>
+    <li>M. Elahi, M. Ge, F. Ricci, I. Fernández-Tobias, S. Berkovsky, M. David, "Interaction Design in a Mobile Food Recommender System", Workshop on Interfaces and Human Decision Making for Recommender Systems, 2015 <a href="https://shlomo-berkovsky.github.io/files/pdf/RecSys15c.pdf" target="_blank">[PDF]</a></li>
+    <li>S. Berkovsky, S. Ardon, "Deep Modeling: Emotion-Based Modeling of Video Content Viewers", Workshop on Exploring and Enhancing the User Experience for Television, 2013 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI13.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "Empower Everybody – Designing Persuasive Wearable Technology for User Empowerment", Body in Design Workshop, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/NA.pdf" target="_blank">[PDF]</a></li>
+    <li>M. Xu, S. Berkovsky, I. Koprinska, S. Ardon, K. Yacef, "Time Dependency in TV Viewer Clustering", Workshop on TV and Multimedia Personalization, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/UMAP12b.pdf" target="_blank">[PDF]</a></li>
+    <li>J. Freyne, S. Berkovsky, G. Smith, "Experiences with Recommender Systems for Dietary Planning", Workshop on Food and Interaction Design, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/NA.pdf" target="_blank">[PDF]</a></li>
+    <li>P. Burns, C. Lueg, S. Berkovsky, "Using Personal Informatics to Motivate Physical Activity: Could we be Doing it Wrong?", Workshop on Personal Informatics in Practice, 2012 <a href="https://shlomo-berkovsky.github.io/files/pdf/CHI12d.pdf" target="_blank">[PDF]</a></li>
+  </ul>
+</details>
+
+
 
 <details>
 <summary>
 2004-2010
 </summary>
+	
   <h5>Journals</h5>
   <ul>
     <li>S. Berkovsky, J. Freyne, "An Analysis of Group Recommendation Strategies", Journal of Advanced Computational Intelligence and Intelligent Informatics (JACIII), vol. 14(6), pp. 729-734, 2010 <a href="https://shlomo-berkovsky.github.io/files/pdf/JACIII10.pdf" target="_blank">[PDF]</a></li>
@@ -534,4 +608,5 @@ Complete up-to-date publication list can be found at my <a href="https://scholar
     <li>S. Berkovsky, Y. Eytani, "Semantic Platform for Context-Aware Publish/Subscribe M-Commerce", Workshop on Ubiquitous Networks and Enablers to Context Aware Services, 2005 <a href="https://shlomo-berkovsky.github.io/files/pdf/SAINT05.pdf" target="_blank">[PDF]</a></li>	
   </ul>
 </details>
+
 
