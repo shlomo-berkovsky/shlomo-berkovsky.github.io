@@ -33,12 +33,12 @@ redirect_from:
   
 <h3>Publications and citations</h3>
 <ul>
-  <li> &gt;200 peer-refereed publications</li>
+  <li> &gt;220 peer-refereed publications</li>
   <ul>
-    <li>77 journal papers, 12 book chapters, 100 conference papers</li>
+    <li>83 journal papers, 12 book chapters, 101 conference papers</li>
   </ul>
-  <li>Citations: &gt;9.5K citations, h-index=53, i10-index=151, m-Index=2.48</li>
-  <li>Keynotes and presentations: 17 keynotes and invited talks, 14 tutorials, 5 panels</li>
+  <li>Citations: &gt;10.5K citations, h-index=55, i10-index=159, m-Index=2.48</li>
+  <li>Keynotes and invited presentations: 17 keynotes and invited talks, 14 tutorials</li>
   <li>Awards: 3 conference Best Paper awards, 4 Best Paper nominations, 4 iAward prizes</li>
   <li>IP/Patents: Inventor of 3 granted international patents</li>
 </ul>
@@ -47,17 +47,17 @@ redirect_from:
 <ul>
   <li>Grants/funding: Investigator/leader of 30 funded projects</li>
   <ul>
-    <li>Total awards &gt;\$28.7M, managed components &gt;\$6.2M</li>
+    <li>Total awards &gt;\$28.8M, managed components &gt;\$6.4M</li>
  </ul>
   <li>Journals/books: Editor-in-Chief of ACM TiiS, editorial board member of 8 journals, editor of 7 special issues, editor/author of 3 books and 9 proceedings volumes</li>
-  <li>Conferences: steering committee member of 2 conferences, chair of 5 conferences and 5 conference tracks, organising committee member of 9 conferences, chair of 13 workshops</li>
-  <li>Reviewing: 44 journals, 136 conferences (including 36 times as senior member)</li>
+  <li>Conferences: steering committee member of 3 conferences, chair of 6 conferences and 5 conference tracks, organising committee member of 9 conferences, chair of 13 workshops</li>
+  <li>Reviewing: 43 journals, 139 conferences (including 40 times as senior member)</li>
   <li>Networks: Extensive collaborations with academia, industry, and government partners</li>
 </ul>
   
 <h3>Teaching and student supervision</h3>
 <ul>
   <li>Teaching: Lecturer of 4 and TA of 7 under-/post-graduate courses, presenter of 3 invited courses at international summer schools</li>
-  <li>Supervision: 13 post-doctoral fellows, 11 PhD students, 5 Masters/Honours students, 6 graduate interns, 30 undergraduate students</li>
-  <li>Thesis examination: External examiner of 16 PhD/Masters theses</li>
+  <li>Supervision: 14 post-doctoral fellows, 12 PhD students, 6 Masters/Honours students, 8 graduate interns, 29 undergraduate students</li>
+  <li>Thesis examination: External examiner of 17 PhD/Masters theses</li>
 </ul>
