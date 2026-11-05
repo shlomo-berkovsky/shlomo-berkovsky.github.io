@@ -323,7 +323,7 @@ Complete up-to-date publication list can be found at my <a href="https://scholar
 <details>
 <summary>
 2016-2020
-</summary
+</summary>
   <h5>Journals</h5>
   <ul>
     <li> J.C. Quiroz, L. Laranjo, A.B. Kocaballi, A. Briatore, S. Berkovsky, D. Rezazadegan, E. Coiera, "Identifying Relevant Information in Medical Conversations to Summarize a Clinician-Patient Encounter", Health Informatics Journal, vol. 26(4), pp. 2906-2914, 2020 <a href="https://shlomo-berkovsky.github.io/files/pdf/HIJ20.pdf" target="_blank">[PDF]</a></li>  
